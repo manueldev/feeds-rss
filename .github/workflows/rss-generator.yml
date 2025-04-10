@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -25,10 +26,17 @@ jobs:
       - name: Run the script
         run: python update-feeds.py
 
-      - name: Commit changes
+      - name: Check for changes and commit
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add estrenos_radioactivos.xml
-          git commit -m "Update RSS feed" || echo "No changes"
-          git push https://x-access-token:${{ secrets.PAT }}@github.com/${{ github.repository }}.git HEAD:main
+          # Asegúrate de que todos los archivos XML generados sean agregados
+          git add *.xml
+
+          # Verificar si hay cambios y solo hacer commit si los hay
+          if git diff --quiet; then
+            echo "No changes detected, skipping commit."
+          else
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            git commit -m "Update RSS feed"
+            git push https://x-access-token:${{ secrets.PAT }}@github.com/${{ github.repository }}.git HEAD:main
+          fi
