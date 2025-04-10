@@ -9,7 +9,6 @@ import urllib.parse
 
 
 def generar_feed_rss(nombre_archivo, url, titulo_feed, descripcion_feed, extractor_func):
-    
     fg = FeedGenerator()
     fg.title(titulo_feed)
     fg.link(href=url)
@@ -23,8 +22,36 @@ def generar_feed_rss(nombre_archivo, url, titulo_feed, descripcion_feed, extract
         fe.link(href=item['link'])
         fe.pubDate(item['pub_date'])
 
-    fg.rss_file(nombre_archivo)
+        # Crear un GUID único combinando title y artist (asumido en el title)
+        guid_value = item['title']
+        fe.guid(guid_value, permalink=False)
+
+
+    # --- Exportar como string para editar el XML ---
+    rss_str = fg.rss_str(pretty=True)  # pretty=True para saltos de línea y sangría
+
+    # --- Eliminar <lastBuildDate> ---
+    from xml.etree import ElementTree as ET
+    root = ET.fromstring(rss_str)
+    channel = root.find('channel')
+    if channel is not None:
+        last_build = channel.find('lastBuildDate')
+        if last_build is not None:
+            channel.remove(last_build)
+
+    # --- Escribir archivo con saltos de línea ---
+    final_xml = ET.tostring(root, encoding='utf-8', method='xml')
+
+    with open(nombre_archivo, 'wb') as f:
+        f.write(final_xml)
+
     print(f"RSS generado: {nombre_archivo}")
+
+
+
+
+
+    
 
 # --------- Extractor para Radioactiva ---------
 def extractor_radioactiva(url):

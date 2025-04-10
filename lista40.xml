@@ -1,0 +1,177 @@
+<rss version="2.0">
+  <channel>
+    <title>Lista Los40 Chile</title>
+    <link>https://los40.cl/lista40/</link>
+    <description>Ranking musical semanal de Los40 Chile</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <item>
+      <title>Young Cister – Miau</title>
+      <link>https://www.youtube.com/watch?v=A3WAPhe5JV8</link>
+      <guid isPermaLink="false">Young Cister – Miau</guid>
+      <pubDate>Wed, 09 Apr 2025 20:20:43 +0200</pubDate>
+    </item>
+    <item>
+      <title>Selena Gomez &amp; Benny Blanco – Ojos tristes</title>
+      <link>https://www.youtube.com/watch?v=auDMCMqiW8U</link>
+      <guid isPermaLink="false">Selena Gomez &amp; Benny Blanco – Ojos tristes</guid>
+      <pubDate>Wed, 09 Apr 2025 20:20:43 +0200</pubDate>
+    </item>
+    <item>
+      <title>Sabrina Carpenter – Espresso</title>
+      <link>https://www.youtube.com/watch?v=eVli-tstM5E</link>
+      <guid isPermaLink="false">Sabrina Carpenter – Espresso</guid>
+      <pubDate>Wed, 09 Apr 2025 20:20:42 +0200</pubDate>
+    </item>
+    <item>
+      <title>Olivia Rodrigo – Bad idea right?</title>
+      <link>https://www.youtube.com/watch?v=Dj9qJsJTsjQ</link>
+      <guid isPermaLink="false">Olivia Rodrigo – Bad idea right?</guid>
+      <pubDate>Wed, 09 Apr 2025 20:20:42 +0200</pubDate>
+    </item>
+    <item>
+      <title>Chappell Roan – Good luck, babe!</title>
+      <link>https://www.youtube.com/watch?v=KEG7b851Ric</link>
+      <guid isPermaLink="false">Chappell Roan – Good luck, babe!</guid>
+      <pubDate>Wed, 09 Apr 2025 20:20:41 +0200</pubDate>
+    </item>
+    <item>
+      <title>Morat &amp; Camilo – Me toca a mí</title>
+      <link>https://www.youtube.com/watch?v=-vOgEO13FYA</link>
+      <guid isPermaLink="false">Morat &amp; Camilo – Me toca a mí</guid>
+      <pubDate>Wed, 09 Apr 2025 20:20:40 +0200</pubDate>
+    </item>
+    <item>
+      <title>Ive – Attitude</title>
+      <link>https://www.youtube.com/watch?v=XxIF0bJba8k</link>
+      <guid isPermaLink="false">Ive – Attitude</guid>
+      <pubDate>Wed, 09 Apr 2025 20:20:40 +0200</pubDate>
+    </item>
+    <item>
+      <title>Jimin – Who</title>
+      <link>https://www.youtube.com/watch?v=Av9DvtlJ9_M</link>
+      <guid isPermaLink="false">Jimin – Who</guid>
+      <pubDate>Wed, 09 Apr 2025 20:20:38 +0200</pubDate>
+    </item>
+    <item>
+      <title>Miguel Bueno &amp; Juan Duque – Solcito</title>
+      <link>https://www.youtube.com/watch?v=E0Onxk8MFzw</link>
+      <guid isPermaLink="false">Miguel Bueno &amp; Juan Duque – Solcito</guid>
+      <pubDate>Wed, 09 Apr 2025 20:20:37 +0200</pubDate>
+    </item>
+    <item>
+      <title>FloyyMenor – Peligrosa</title>
+      <link>https://www.youtube.com/watch?v=LW5oQl0CxdQ</link>
+      <guid isPermaLink="false">FloyyMenor – Peligrosa</guid>
+      <pubDate>Wed, 09 Apr 2025 20:20:37 +0200</pubDate>
+    </item>
+    <item>
+      <title>Sabrina Carpenter – Please please please</title>
+      <link>https://www.youtube.com/watch?v=cF1Na4AIecM</link>
+      <guid isPermaLink="false">Sabrina Carpenter – Please please please</guid>
+      <pubDate>Wed, 09 Apr 2025 20:20:36 +0200</pubDate>
+    </item>
+    <item>
+      <title>Lady GaGa – Abracadabra</title>
+      <link>https://www.youtube.com/watch?v=vBynw9Isr28</link>
+      <guid isPermaLink="false">Lady GaGa – Abracadabra</guid>
+      <pubDate>Wed, 09 Apr 2025 20:20:35 +0200</pubDate>
+    </item>
+    <item>
+      <title>Manuel Turizo &amp; Xavi – En privado</title>
+      <link>https://www.youtube.com/watch?v=kE1-O0tU-UU</link>
+      <guid isPermaLink="false">Manuel Turizo &amp; Xavi – En privado</guid>
+      <pubDate>Wed, 09 Apr 2025 20:20:34 +0200</pubDate>
+    </item>
+    <item>
+      <title>Bad Bunny – NuevaYol</title>
+      <link>https://www.youtube.com/watch?v=K9TWrAqo3OM</link>
+      <guid isPermaLink="false">Bad Bunny – NuevaYol</guid>
+      <pubDate>Wed, 09 Apr 2025 20:20:34 +0200</pubDate>
+    </item>
+    <item>
+      <title>Billie Eilish – Birds of a feather</title>
+      <link>https://www.youtube.com/watch?v=d5gf9dXbPi0</link>
+      <guid isPermaLink="false">Billie Eilish – Birds of a feather</guid>
+      <pubDate>Wed, 09 Apr 2025 20:20:33 +0200</pubDate>
+    </item>
+    <item>
+      <title>Karol G – Si antes te hubiera conocido</title>
+      <link>https://www.youtube.com/watch?v=MgsdDfdGdHc</link>
+      <guid isPermaLink="false">Karol G – Si antes te hubiera conocido</guid>
+      <pubDate>Wed, 09 Apr 2025 20:20:33 +0200</pubDate>
+    </item>
+    <item>
+      <title>Danny Ocean &amp; Kapo – Imagínate</title>
+      <link>https://www.youtube.com/watch?v=TVyLcqNg5lY</link>
+      <guid isPermaLink="false">Danny Ocean &amp; Kapo – Imagínate</guid>
+      <pubDate>Wed, 09 Apr 2025 20:20:32 +0200</pubDate>
+    </item>
+    <item>
+      <title>Bad Bunny feat. Dei V &amp; Omar Courtz – Veldá</title>
+      <link>https://www.youtube.com/watch?v=lmDfmilZ4Xo</link>
+      <guid isPermaLink="false">Bad Bunny feat. Dei V &amp; Omar Courtz – Veldá</guid>
+      <pubDate>Wed, 09 Apr 2025 20:20:32 +0200</pubDate>
+    </item>
+    <item>
+      <title>Delaossa &amp; Quevedo feat. Bigla The Kid – Still luvin</title>
+      <link>https://www.youtube.com/watch?v=gUyeDnATsAs</link>
+      <guid isPermaLink="false">Delaossa &amp; Quevedo feat. Bigla The Kid – Still luvin</guid>
+      <pubDate>Wed, 09 Apr 2025 20:20:31 +0200</pubDate>
+    </item>
+    <item>
+      <title>Jere Klein feat. Swift 047 &amp; Kidd Voodoo – Whisky a la roca</title>
+      <link>https://www.youtube.com/watch?v=2Iu-VyiY5Xc</link>
+      <guid isPermaLink="false">Jere Klein feat. Swift 047 &amp; Kidd Voodoo – Whisky a la roca</guid>
+      <pubDate>Wed, 09 Apr 2025 20:20:31 +0200</pubDate>
+    </item>
+    <item>
+      <title>Kapo – Uwaie</title>
+      <link>https://www.youtube.com/watch?v=spbagny8OjM</link>
+      <guid isPermaLink="false">Kapo – Uwaie</guid>
+      <pubDate>Wed, 09 Apr 2025 20:20:28 +0200</pubDate>
+    </item>
+    <item>
+      <title>Shakira – Soltera</title>
+      <link>https://www.youtube.com/watch?v=oBofuVYDoG4</link>
+      <guid isPermaLink="false">Shakira – Soltera</guid>
+      <pubDate>Wed, 09 Apr 2025 20:20:27 +0200</pubDate>
+    </item>
+    <item>
+      <title>Beéle &amp; Ovy On The Drums – Mi refe</title>
+      <link>https://www.youtube.com/watch?v=w8l33K5D5CI</link>
+      <guid isPermaLink="false">Beéle &amp; Ovy On The Drums – Mi refe</guid>
+      <pubDate>Wed, 09 Apr 2025 20:20:24 +0200</pubDate>
+    </item>
+    <item>
+      <title>Bad Bunny – Voy a llevarte pa pr</title>
+      <link>https://www.youtube.com/watch?v=-BjM99sQ0Rg</link>
+      <guid isPermaLink="false">Bad Bunny – Voy a llevarte pa pr</guid>
+      <pubDate>Wed, 09 Apr 2025 20:20:22 +0200</pubDate>
+    </item>
+    <item>
+      <title>Myke Towers feat. Benny Blanco – Degenere</title>
+      <link>https://www.youtube.com/watch?v=jg4mZak7wzQ</link>
+      <guid isPermaLink="false">Myke Towers feat. Benny Blanco – Degenere</guid>
+      <pubDate>Wed, 09 Apr 2025 20:20:21 +0200</pubDate>
+    </item>
+    <item>
+      <title>Beéle, WSound &amp; Ovy On The Drums – La plena</title>
+      <link>https://www.youtube.com/watch?v=F1_aOX0acbY</link>
+      <guid isPermaLink="false">Beéle, WSound &amp; Ovy On The Drums – La plena</guid>
+      <pubDate>Wed, 09 Apr 2025 20:20:21 +0200</pubDate>
+    </item>
+    <item>
+      <title>Rosé feat. Bruno Mars – APT.</title>
+      <link>https://www.youtube.com/watch?v=ekr2nIex040</link>
+      <guid isPermaLink="false">Rosé feat. Bruno Mars – APT.</guid>
+      <pubDate>Wed, 09 Apr 2025 20:20:20 +0200</pubDate>
+    </item>
+    <item>
+      <title>Katteyes &amp; Kidd Voodoo – Ponte lokita</title>
+      <link>https://www.youtube.com/watch?v=oNAx3WJiEsY</link>
+      <guid isPermaLink="false">Katteyes &amp; Kidd Voodoo – Ponte lokita</guid>
+      <pubDate>Wed, 09 Apr 2025 20:20:20 +0200</pubDate>
+    </item>
+  </channel>
+</rss>
