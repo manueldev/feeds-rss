@@ -9,15 +9,13 @@ import urllib.parse
 
 
 def generar_feed_rss(nombre_archivo, url, titulo_feed, descripcion_feed, extractor_func):
-    html = requests.get(url).text
-    soup = BeautifulSoup(html, 'html.parser')
-
+    
     fg = FeedGenerator()
     fg.title(titulo_feed)
     fg.link(href=url)
     fg.description(descripcion_feed)
 
-    items = extractor_func(soup)
+    items = extractor_func(url)
 
     for item in items:
         fe = fg.add_entry()
@@ -29,7 +27,10 @@ def generar_feed_rss(nombre_archivo, url, titulo_feed, descripcion_feed, extract
     print(f"RSS generado: {nombre_archivo}")
 
 # --------- Extractor para Radioactiva ---------
-def extractor_radioactiva(soup):
+def extractor_radioactiva(url):
+    html = requests.get(url).text
+    soup = BeautifulSoup(html, 'html.parser')
+
     articles = soup.select('article')
     items = []
 
@@ -59,7 +60,10 @@ def extractor_radioactiva(soup):
 
 
 # --------- Extractor para Los40 ---------
-def extractor_los40(soup):
+def extractor_los40(url):
+    html = requests.get(url).text
+    soup = BeautifulSoup(html, 'html.parser')
+
     items = []
 
     # Buscar bloques de <script> que contengan "songTitle" en formato texto plano
@@ -108,9 +112,9 @@ def extractor_los40(soup):
 
 
 
-def extractor_djcity_most_dance(soup):
+def extractor_djcity_most(url):
     # Hacemos la solicitud a la API de DJcity
-    response = requests.get('https://api.djcity.com/v1/songs/hotbox?locale=en-US&tags=102&types=&ctypes=2&bpmlt=200&remixers=&keys=&type=1W&page=1&pageSize=15&pageCount=1&sortBy=9')
+    response = requests.get(url)
     data = response.json()  # Suponiendo que la respuesta es JSON
 
     items = []
@@ -143,6 +147,41 @@ def extractor_djcity_most_dance(soup):
         })
     return items
 
+
+# --------- Extractor para MonitorLatino ---------
+def extractor_monitorlatino(url):
+    # Hacemos la solicitud a la API de Monitor Latino
+    response = requests.get(url)
+    data = response.json()  # Suponiendo que la respuesta es JSON
+    items = []
+    
+    # La fecha fija para pub_date
+    pub_date = datetime(2025, 1, 1, 0, 0, 0, tzinfo=timezone.utc)
+
+    # Recorremos cada canción en la lista "data"
+    for song in data['data']:
+        title = song.get('title', 'No Title')  # Extraemos el título de la canción
+        artist = song.get('artists', 'Unknown Artist')  # Extraemos el nombre del artista
+        
+        # Creamos el título del item RSS combinando el artista y el título
+        item_title = f"{artist} – {title}"
+        
+        # Creamos el link usando la URL proporcionada
+        link = song.get('urlb', '')
+
+        # Aquí agregamos cada canción a la lista de items
+        items.append({
+            'title': item_title,  # El título combinado de artista y título
+            'link': link,         # Enlace a la página de detalles
+            'pub_date': pub_date  # Fecha fija de publicación
+        })
+    
+    return items
+
+
+
+
+
 # Diccionario de feeds configurables
 FEEDS = {
     'radioactiva': {
@@ -164,8 +203,32 @@ FEEDS = {
         'url': 'https://api.djcity.com/v1/songs/hotbox?locale=en-US&tags=102&types=&ctypes=2&bpmlt=200&remixers=&keys=&type=1W&page=1&pageSize=15&pageCount=1&sortBy=9',
         'titulo_feed': 'DJcity Most Popular - Dance',
         'descripcion_feed': 'Explore the Most Popular Music & Songs on DJcity - Dance',
-        'extractor_func': extractor_djcity_most_dance
+        'extractor_func': extractor_djcity_most
+    },
+    'djcity_most_latin': {
+        'nombre_archivo': 'djcity_most_latin.xml',
+        'url': 'https://api.djcity.com/v1/songs/hotbox?locale=en-US&tags=3&types=&ctypes=2&bpmlt=200&remixers=&keys=&type=1W&page=1&pageSize=15&pageCount=1&sortBy=9',
+        'titulo_feed': 'DJcity Most Popular - Latin',
+        'descripcion_feed': 'Explore the Most Popular Music & Songs on DJcity - Latin',
+        'extractor_func': extractor_djcity_most
+    },
+    'djcity_most_pop': {
+        'nombre_archivo': 'djcity_most_pop.xml',
+        'url': 'https://api.djcity.com/v1/songs/hotbox?locale=en-US&tags=4&types=&ctypes=2&bpmlt=200&remixers=&keys=&type=1W&page=1&pageSize=15&pageCount=1&sortBy=9',
+        'titulo_feed': 'DJcity Most Popular - Pop',
+        'descripcion_feed': 'Explore the Most Popular Music & Songs on DJcity - Pop',
+        'extractor_func': extractor_djcity_most
+    },
+    'monitorlatino_chile': {
+        'nombre_archivo': 'monitorlatino_chile.xml',
+        'url': 'http://us.monitorlatino.com/chart_top10_v2.aspx?format=json&c=Chile',
+        'titulo_feed': 'MonitorLatino Chile Top 10',
+        'descripcion_feed': 'Top 10 canciones en Chile según MonitorLatino',
+        'extractor_func': extractor_monitorlatino
     }
+
+
+
 
 
 }
