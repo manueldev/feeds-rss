@@ -21,7 +21,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run the script
-        run: python estrenos_radioactivos.py
+        run: python update-feeds.py
 
       - name: Commit changes
         run: |
