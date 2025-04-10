@@ -51,8 +51,6 @@ def generar_feed_rss(nombre_archivo, url, titulo_feed, descripcion_feed, extract
 
 
 
-    
-
 # --------- Extractor para Radioactiva ---------
 def extractor_radioactiva(url):
     html = requests.get(url).text
@@ -66,15 +64,35 @@ def extractor_radioactiva(url):
         link_tag = title_tag.find_parent('a') if title_tag else None
         date_tag = article.select_one('small.date-post')
 
+
         if title_tag and link_tag and date_tag:
             title = title_tag.text.strip()
             link = link_tag['href']
             raw_date = date_tag.text.strip()
 
-            try:
-                pub_date = datetime.strptime(raw_date, '%d %B, %Y').replace(tzinfo=timezone.utc)
-            except ValueError:
-                pub_date = datetime.now(UTC)
+            MONTHS_ES = {
+                'enero': 'January',
+                'febrero': 'February',
+                'marzo': 'March',
+                'abril': 'April',
+                'mayo': 'May',
+                'junio': 'June',
+                'julio': 'July',
+                'agosto': 'August',
+                'septiembre': 'September',
+                'octubre': 'October',
+                'noviembre': 'November',
+                'diciembre': 'December'
+            }
+
+            # Reemplazar el mes en español por inglés
+            for es, en in MONTHS_ES.items():
+                if es in raw_date.lower():
+                    raw_date = raw_date.lower().replace(es, en)
+                    break
+
+            pub_date = datetime.strptime(raw_date, '%d %B, %Y').replace(hour=0, minute=0, second=0, microsecond=0, tzinfo=timezone.utc)
+
 
             items.append({
                 'title': title,
