@@ -1,10 +1,10 @@
 import requests
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
-from datetime import datetime, UTC
+from datetime import datetime, UTC, timezone
 import argparse
 import re
-
+import urllib.parse
 
 
 
@@ -56,6 +56,8 @@ def extractor_radioactiva(soup):
 
     return items
 
+
+
 # --------- Extractor para Los40 ---------
 def extractor_los40(soup):
     items = []
@@ -68,8 +70,8 @@ def extractor_los40(soup):
             # Extraer el texto de cada <script> y buscar las ocurrencias
             data_text = script.string.strip()
 
-            # Buscar todas las ocurrencias de songTitle, artistName y youtubeUrl
-            pattern = re.compile(r'"songTitle":"(.*?)".*?"artistName":"(.*?)".*?"youtubeUrl":"(https://www\.youtube\.com/watch\?v=[\w-]+)"')
+            # Buscar todas las ocurrencias de songTitle, artistName, youtubeUrl y createdAt
+            pattern = re.compile(r'"songTitle":"(.*?)".*?"artistName":"(.*?)".*?"youtubeUrl":"(https://www\.youtube\.com/watch\?v=[\w-]+)".*?"createdAt":"(.*?)"')
             matches = pattern.findall(data_text)
 
             # Para cada coincidencia, agregarla a la lista de items
@@ -77,15 +79,24 @@ def extractor_los40(soup):
                 song_title = match[0].strip()
                 artist_name = match[1].strip()
                 youtube_url = match[2].strip()
+                created_at_str = match[3].strip()  # Extraemos la fecha 'createdAt'
 
+                # Convertir 'createdAt' a objeto datetime usando fromisoformat
+                try:
+                    pub_date = datetime.fromisoformat(created_at_str)  # La fecha ya puede tener una zona horaria
+                except ValueError:
+                    # Si la fecha no es válida, intentar sin zona horaria
+                    pub_date = datetime.strptime(created_at_str, '%Y-%m-%dT%H:%M:%SZ')  # Si no tiene zona horaria
+
+                # Crear el título del item combinando artista y título
                 title = f"{artist_name} – {song_title}"
                 link = youtube_url
-                pub_date = datetime.now(UTC)
 
+                # Agregar el item a la lista
                 items.append({
-                    'title': title,
-                    'link': link,
-                    'pub_date': pub_date
+                    'title': title,  # Título combinado
+                    'link': link,    # Enlace al video de YouTube
+                    'pub_date': pub_date  # Fecha de publicación con zona horaria
                 })
 
         except Exception as e:
@@ -96,6 +107,41 @@ def extractor_los40(soup):
 
 
 
+
+def extractor_djcity_most_dance(soup):
+    # Hacemos la solicitud a la API de DJcity
+    response = requests.get('https://api.djcity.com/v1/songs/hotbox?locale=en-US&tags=102&types=&ctypes=2&bpmlt=200&remixers=&keys=&type=1W&page=1&pageSize=15&pageCount=1&sortBy=9')
+    data = response.json()  # Suponiendo que la respuesta es JSON
+
+    items = []
+    for song in data['data']:  # Recorremos cada canción en la lista "data"
+        artist = song.get('artist', 'Unknown Artist')  # Extraemos el nombre del artista
+        title = song.get('title', 'No Title')  # Extraemos el título de la canción
+        release_date_str = song.get('releasedate', '')  # Extraemos la fecha de lanzamiento
+
+        # Convertir la fecha de lanzamiento a formato datetime
+        try:
+            pub_date = datetime.strptime(release_date_str, '%Y-%m-%dT%H:%M:%S.%fZ')  # Formato ISO 8601
+        except ValueError:
+            pub_date = datetime.strptime(release_date_str, '%Y-%m-%dT%H:%M:%SZ')  # Para el formato sin milisegundos
+        
+        # Añadir la zona horaria UTC a la fecha
+        pub_date = pub_date.replace(tzinfo=timezone.utc)
+
+        # Creamos la URL de búsqueda en Google usando el artista y el título
+        query = f"{artist} {title}"
+        link = f"https://www.google.com/search?q={urllib.parse.quote(query)}"
+
+        # Combinamos el artista y el título para formar el título del item RSS
+        item_title = f"{artist} - {title}"
+
+        # Aquí agregamos cada canción a la lista de items
+        items.append({
+            'title': item_title,  # El título combinado de artista y título
+            'link': link,  # Añadimos el link a la entrada
+            'pub_date': pub_date  # Añadimos la fecha de publicación con la zona horaria
+        })
+    return items
 
 # Diccionario de feeds configurables
 FEEDS = {
@@ -112,7 +158,16 @@ FEEDS = {
         'titulo_feed': 'Lista Los40 Chile',
         'descripcion_feed': 'Ranking musical semanal de Los40 Chile',
         'extractor_func': extractor_los40
+    },
+    'djcity_most_dance': {
+        'nombre_archivo': 'djcity_most_dance.xml',
+        'url': 'https://api.djcity.com/v1/songs/hotbox?locale=en-US&tags=102&types=&ctypes=2&bpmlt=200&remixers=&keys=&type=1W&page=1&pageSize=15&pageCount=1&sortBy=9',
+        'titulo_feed': 'DJcity Most Popular - Dance',
+        'descripcion_feed': 'Explore the Most Popular Music & Songs on DJcity - Dance',
+        'extractor_func': extractor_djcity_most_dance
     }
+
+
 }
 
 def main():
