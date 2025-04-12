@@ -6,16 +6,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Lola Young - Messy</title>
-      <link>https://www.google.com/search?q=Lola%20Young%20Messy</link>
-      <guid isPermaLink="false">Lola Young - Messy</guid>
-      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chappell Roan - Pink Pony Club</title>
-      <link>https://www.google.com/search?q=Chappell%20Roan%20Pink%20Pony%20Club</link>
-      <guid isPermaLink="false">Chappell Roan - Pink Pony Club</guid>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <title>Mumzy Stranger &amp; DESI TRILL - KI KORI</title>
+      <link>https://www.google.com/search?q=Mumzy%20Stranger%20%26%20DESI%20TRILL%20KI%20KORI</link>
+      <guid isPermaLink="false">Mumzy Stranger &amp; DESI TRILL - KI KORI</guid>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Sabrina Carpenter - Busy Woman</title>
@@ -30,16 +24,16 @@
       <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>DESI TRILL, DJ Khaled &amp; Cardi B - Higher Love</title>
-      <link>https://www.google.com/search?q=DESI%20TRILL%2C%20DJ%20Khaled%20%26%20Cardi%20B%20Higher%20Love</link>
-      <guid isPermaLink="false">DESI TRILL, DJ Khaled &amp; Cardi B - Higher Love</guid>
-      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Sabrina Carpenter - Espresso</title>
       <link>https://www.google.com/search?q=Sabrina%20Carpenter%20Espresso</link>
       <guid isPermaLink="false">Sabrina Carpenter - Espresso</guid>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DESI TRILL, DJ Khaled &amp; Cardi B - Higher Love</title>
+      <link>https://www.google.com/search?q=DESI%20TRILL%2C%20DJ%20Khaled%20%26%20Cardi%20B%20Higher%20Love</link>
+      <guid isPermaLink="false">DESI TRILL, DJ Khaled &amp; Cardi B - Higher Love</guid>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chappell Roan - The Giver</title>
@@ -60,10 +54,16 @@
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Rosé &amp; Bruno Mars - APT.</title>
-      <link>https://www.google.com/search?q=Ros%C3%A9%20%26%20Bruno%20Mars%20APT.</link>
-      <guid isPermaLink="false">Rosé &amp; Bruno Mars - APT.</guid>
-      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <title>Shaboozey &amp; Myles Smith - Blink Twice</title>
+      <link>https://www.google.com/search?q=Shaboozey%20%26%20Myles%20Smith%20Blink%20Twice</link>
+      <guid isPermaLink="false">Shaboozey &amp; Myles Smith - Blink Twice</guid>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aroob Khan, Bayanni &amp; Rajat Nagpal - Bukhaar</title>
+      <link>https://www.google.com/search?q=Aroob%20Khan%2C%20Bayanni%20%26%20Rajat%20Nagpal%20Bukhaar</link>
+      <guid isPermaLink="false">Aroob Khan, Bayanni &amp; Rajat Nagpal - Bukhaar</guid>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ariana Grande - twilight zone</title>
@@ -72,10 +72,10 @@
       <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Aroob Khan, Bayanni &amp; Rajat Nagpal - Bukhaar</title>
-      <link>https://www.google.com/search?q=Aroob%20Khan%2C%20Bayanni%20%26%20Rajat%20Nagpal%20Bukhaar</link>
-      <guid isPermaLink="false">Aroob Khan, Bayanni &amp; Rajat Nagpal - Bukhaar</guid>
-      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      <title>Rosé &amp; Bruno Mars - APT.</title>
+      <link>https://www.google.com/search?q=Ros%C3%A9%20%26%20Bruno%20Mars%20APT.</link>
+      <guid isPermaLink="false">Rosé &amp; Bruno Mars - APT.</guid>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Lady Gaga - Abracadabra</title>
