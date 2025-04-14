@@ -1,0 +1,84 @@
+<rss version="2.0">
+  <channel>
+    <title>DJcity Most Popular - Dance</title>
+    <link>https://api.djcity.com/v1/songs/hotbox?locale=en-US&amp;tags=102&amp;types=&amp;ctypes=2&amp;bpmlt=200&amp;remixers=&amp;keys=&amp;type=1W&amp;page=1&amp;pageSize=15&amp;pageCount=1&amp;sortBy=9</link>
+    <description>Explore the Most Popular Music &amp; Songs on DJcity - Dance</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <item>
+      <title>Honey &amp; Badger - Gospel Tool (Where You Are)</title>
+      <link>https://www.google.com/search?q=Honey%20%26%20Badger%20Gospel%20Tool%20%28Where%20You%20Are%29</link>
+      <guid isPermaLink="false">Honey &amp; Badger - Gospel Tool (Where You Are)</guid>
+    </item>
+    <item>
+      <title>DubVision, Nicky Romero &amp; Oaks - Live My Life</title>
+      <link>https://www.google.com/search?q=DubVision%2C%20Nicky%20Romero%20%26%20Oaks%20Live%20My%20Life</link>
+      <guid isPermaLink="false">DubVision, Nicky Romero &amp; Oaks - Live My Life</guid>
+    </item>
+    <item>
+      <title>Miami Funk Machine - That Girl</title>
+      <link>https://www.google.com/search?q=Miami%20Funk%20Machine%20That%20Girl</link>
+      <guid isPermaLink="false">Miami Funk Machine - That Girl</guid>
+    </item>
+    <item>
+      <title>D-Sides &amp; Erick T - BILLETE$</title>
+      <link>https://www.google.com/search?q=D-Sides%20%26%20Erick%20T%20BILLETE%24</link>
+      <guid isPermaLink="false">D-Sides &amp; Erick T - BILLETE$</guid>
+    </item>
+    <item>
+      <title>David Guetta &amp; Sia - Beautiful People</title>
+      <link>https://www.google.com/search?q=David%20Guetta%20%26%20Sia%20Beautiful%20People</link>
+      <guid isPermaLink="false">David Guetta &amp; Sia - Beautiful People</guid>
+    </item>
+    <item>
+      <title>Koffee &amp; Kandee - I Wanna Feel (So High)</title>
+      <link>https://www.google.com/search?q=Koffee%20%26%20Kandee%20I%20Wanna%20Feel%20%28So%20High%29</link>
+      <guid isPermaLink="false">Koffee &amp; Kandee - I Wanna Feel (So High)</guid>
+    </item>
+    <item>
+      <title>DJ LYAN, BANGLABOY &amp; Dee MC - Tauba</title>
+      <link>https://www.google.com/search?q=DJ%20LYAN%2C%20BANGLABOY%20%26%20Dee%20MC%20Tauba</link>
+      <guid isPermaLink="false">DJ LYAN, BANGLABOY &amp; Dee MC - Tauba</guid>
+    </item>
+    <item>
+      <title>HUGEL, Topic &amp; Arash - I Adore You</title>
+      <link>https://www.google.com/search?q=HUGEL%2C%20Topic%20%26%20Arash%20I%20Adore%20You</link>
+      <guid isPermaLink="false">HUGEL, Topic &amp; Arash - I Adore You</guid>
+    </item>
+    <item>
+      <title>Sartek - Ghum Shum</title>
+      <link>https://www.google.com/search?q=Sartek%20Ghum%20Shum</link>
+      <guid isPermaLink="false">Sartek - Ghum Shum</guid>
+    </item>
+    <item>
+      <title>Sartek - Taal Tech</title>
+      <link>https://www.google.com/search?q=Sartek%20Taal%20Tech</link>
+      <guid isPermaLink="false">Sartek - Taal Tech</guid>
+    </item>
+    <item>
+      <title>PinkPantheress - Tonight</title>
+      <link>https://www.google.com/search?q=PinkPantheress%20Tonight</link>
+      <guid isPermaLink="false">PinkPantheress - Tonight</guid>
+    </item>
+    <item>
+      <title>Kaskade &amp; Lipless - State Of Mind</title>
+      <link>https://www.google.com/search?q=Kaskade%20%26%20Lipless%20State%20Of%20Mind</link>
+      <guid isPermaLink="false">Kaskade &amp; Lipless - State Of Mind</guid>
+    </item>
+    <item>
+      <title>Alesso &amp; Becky Hill - Surrender</title>
+      <link>https://www.google.com/search?q=Alesso%20%26%20Becky%20Hill%20Surrender</link>
+      <guid isPermaLink="false">Alesso &amp; Becky Hill - Surrender</guid>
+    </item>
+    <item>
+      <title>James Hype - Don't Wake Me Up</title>
+      <link>https://www.google.com/search?q=James%20Hype%20Don%27t%20Wake%20Me%20Up</link>
+      <guid isPermaLink="false">James Hype - Don't Wake Me Up</guid>
+    </item>
+    <item>
+      <title>Chris Lake &amp; Ragie Ban - Toxic</title>
+      <link>https://www.google.com/search?q=Chris%20Lake%20%26%20Ragie%20Ban%20Toxic</link>
+      <guid isPermaLink="false">Chris Lake &amp; Ragie Ban - Toxic</guid>
+    </item>
+  </channel>
+</rss>

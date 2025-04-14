@@ -1,0 +1,49 @@
+<rss version="2.0">
+  <channel>
+    <title>Estrenos RadioActivos</title>
+    <link>https://www.radioactiva.cl/?s=Estrenos+RadioActivos</link>
+    <description>Últimos estrenos musicales publicados en RadioActiva</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <item>
+      <title>“El hombre de acero”, lo nuevo de Superman</title>
+      <link>https://www.radioactiva.cl/2013/06/el-hombre-de-acero-lo-nuevo-de-superman/</link>
+      <guid isPermaLink="false">“El hombre de acero”, lo nuevo de Superman</guid>
+    </item>
+    <item>
+      <title>Cantó todos sus éxitos: Así fue la presentación de Karen Paola en el Festival de Las Condes 2025</title>
+      <link>https://www.radioactiva.cl/2025/01/canto-todos-sus-exitos-asi-fue-la-presentacion-de-karen-paola-en-el-festival-de-las-condes-2025/</link>
+      <guid isPermaLink="false">Cantó todos sus éxitos: Así fue la presentación de Karen Paola en el Festival de Las Condes 2025</guid>
+    </item>
+    <item>
+      <title>Estrenos RadioActivos: conoce los principales lanzamientos musicales de la semana</title>
+      <link>https://www.radioactiva.cl/2025/01/estrenos-radioactivos-conoce-los-principales-lanzamientos-musicales-de-la-semana/</link>
+      <guid isPermaLink="false">Estrenos RadioActivos: conoce los principales lanzamientos musicales de la semana</guid>
+    </item>
+    <item>
+      <title>Estrenos RadioActivos: Revisa los principales lanzamientos nacionales e internacionales de la semana</title>
+      <link>https://www.radioactiva.cl/2025/01/estrenos-radioactivos-revisa-los-principales-lanzamientos-nacionales-e-internacionales-de-la-semana/</link>
+      <guid isPermaLink="false">Estrenos RadioActivos: Revisa los principales lanzamientos nacionales e internacionales de la semana</guid>
+    </item>
+    <item>
+      <title>Estrenos RadioActivos: Escucha lo más destacado de los artistas esta semana</title>
+      <link>https://www.radioactiva.cl/2025/01/estrenos-radioactivos-escucha-lo-mas-destacado-de-los-artistas-esta-semana/</link>
+      <guid isPermaLink="false">Estrenos RadioActivos: Escucha lo más destacado de los artistas esta semana</guid>
+    </item>
+    <item>
+      <title>Estrenos RadioActivos: Escucha aquí los mejores estrenos de la última semana de enero</title>
+      <link>https://www.radioactiva.cl/2025/01/estrenos-radioactivos-escucha-aqui-los-mejores-estrenos-de-la-ultima-semana-de-enero/</link>
+      <guid isPermaLink="false">Estrenos RadioActivos: Escucha aquí los mejores estrenos de la última semana de enero</guid>
+    </item>
+    <item>
+      <title>Estrenos RadioActivos: Escucha acá lo mejor de los artistas en la primera semana de febrero</title>
+      <link>https://www.radioactiva.cl/2025/02/estrenos-radioactivos-escucha-aca-lo-mejor-de-los-artistas-en-la-primera-semana-de-febrero/</link>
+      <guid isPermaLink="false">Estrenos RadioActivos: Escucha acá lo mejor de los artistas en la primera semana de febrero</guid>
+    </item>
+    <item>
+      <title>Estrenos RadioActivos: Revisa lo más nuevo de la música durante esta semana</title>
+      <link>https://www.radioactiva.cl/2025/02/estrenos-radioactivos-revisa-lo-mas-nuevo-de-la-musica-durante-esta-semana/</link>
+      <guid isPermaLink="false">Estrenos RadioActivos: Revisa lo más nuevo de la música durante esta semana</guid>
+    </item>
+  </channel>
+</rss>
