@@ -1,0 +1,84 @@
+<rss version="2.0">
+  <channel>
+    <title>DJcity Most Popular - Latin</title>
+    <link>https://api.djcity.com/v1/songs/hotbox?locale=en-US&amp;tags=3&amp;types=&amp;ctypes=2&amp;bpmlt=200&amp;remixers=&amp;keys=&amp;type=1W&amp;page=1&amp;pageSize=15&amp;pageCount=1&amp;sortBy=9</link>
+    <description>Explore the Most Popular Music &amp; Songs on DJcity - Latin</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <item>
+      <title>DJ Snake &amp; Peso Pluma - Teka</title>
+      <link>https://www.google.com/search?q=DJ%20Snake%20%26%20Peso%20Pluma%20Teka</link>
+      <guid isPermaLink="false">DJ Snake &amp; Peso Pluma - Teka</guid>
+    </item>
+    <item>
+      <title>Rawayana &amp; Akapellah - Veneka</title>
+      <link>https://www.google.com/search?q=Rawayana%20%26%20Akapellah%20Veneka</link>
+      <guid isPermaLink="false">Rawayana &amp; Akapellah - Veneka</guid>
+    </item>
+    <item>
+      <title>Feid - NOS DESCONOXIMOS</title>
+      <link>https://www.google.com/search?q=Feid%20NOS%20DESCONOXIMOS</link>
+      <guid isPermaLink="false">Feid - NOS DESCONOXIMOS</guid>
+    </item>
+    <item>
+      <title>Wakyin - Beso (Fruta Fresca)</title>
+      <link>https://www.google.com/search?q=Wakyin%20Beso%20%28Fruta%20Fresca%29</link>
+      <guid isPermaLink="false">Wakyin - Beso (Fruta Fresca)</guid>
+    </item>
+    <item>
+      <title>Myke Towers - DEGENERE</title>
+      <link>https://www.google.com/search?q=Myke%20Towers%20DEGENERE</link>
+      <guid isPermaLink="false">Myke Towers - DEGENERE</guid>
+    </item>
+    <item>
+      <title>Bad Bunny - MIA</title>
+      <link>https://www.google.com/search?q=Bad%20Bunny%20MIA</link>
+      <guid isPermaLink="false">Bad Bunny - MIA</guid>
+    </item>
+    <item>
+      <title>El Alfa - Pa Japon</title>
+      <link>https://www.google.com/search?q=El%20Alfa%20Pa%20Japon</link>
+      <guid isPermaLink="false">El Alfa - Pa Japon</guid>
+    </item>
+    <item>
+      <title>Lola Indigo - SIN AUTOTUNE</title>
+      <link>https://www.google.com/search?q=Lola%20Indigo%20SIN%20AUTOTUNE</link>
+      <guid isPermaLink="false">Lola Indigo - SIN AUTOTUNE</guid>
+    </item>
+    <item>
+      <title>Bad Bunny - EoO</title>
+      <link>https://www.google.com/search?q=Bad%20Bunny%20EoO</link>
+      <guid isPermaLink="false">Bad Bunny - EoO</guid>
+    </item>
+    <item>
+      <title>Bad Bunny - NUEVAYoL</title>
+      <link>https://www.google.com/search?q=Bad%20Bunny%20NUEVAYoL</link>
+      <guid isPermaLink="false">Bad Bunny - NUEVAYoL</guid>
+    </item>
+    <item>
+      <title>FloyyMenor &amp; Cris MJ - TOA</title>
+      <link>https://www.google.com/search?q=FloyyMenor%20%26%20Cris%20MJ%20TOA</link>
+      <guid isPermaLink="false">FloyyMenor &amp; Cris MJ - TOA</guid>
+    </item>
+    <item>
+      <title>Danny Romero - MALANDREO</title>
+      <link>https://www.google.com/search?q=Danny%20Romero%20MALANDREO</link>
+      <guid isPermaLink="false">Danny Romero - MALANDREO</guid>
+    </item>
+    <item>
+      <title>Mattei - Pa Las Girlas</title>
+      <link>https://www.google.com/search?q=Mattei%20Pa%20Las%20Girlas</link>
+      <guid isPermaLink="false">Mattei - Pa Las Girlas</guid>
+    </item>
+    <item>
+      <title>Yailin La Mas Viral &amp; Randy - Somos Panas</title>
+      <link>https://www.google.com/search?q=Yailin%20La%20Mas%20Viral%20%26%20Randy%20Somos%20Panas</link>
+      <guid isPermaLink="false">Yailin La Mas Viral &amp; Randy - Somos Panas</guid>
+    </item>
+    <item>
+      <title>HUGEL, Alleh &amp; Yorghaki - Una Noche Con Hugel</title>
+      <link>https://www.google.com/search?q=HUGEL%2C%20Alleh%20%26%20Yorghaki%20Una%20Noche%20Con%20Hugel</link>
+      <guid isPermaLink="false">HUGEL, Alleh &amp; Yorghaki - Una Noche Con Hugel</guid>
+    </item>
+  </channel>
+</rss>
