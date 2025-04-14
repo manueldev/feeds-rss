@@ -5,6 +5,8 @@ from datetime import datetime, UTC, timezone
 import argparse
 import re
 import urllib.parse
+import html
+
 
 
 def generar_feed_rss(nombre_archivo, url, titulo_feed, descripcion_feed, extractor_func):
@@ -212,6 +214,42 @@ def extractor_monitorlatino(url):
 
 
 
+# --------- Extractor para Radio Disney Chile ---------
+def extractor_radiodisney_cl(url):
+    html_text = requests.get(url).text
+
+    # Buscar el bloque que contiene "rankings":[{...}]
+    match = re.search(r'"rankings":\[(.*?)\]', html_text, re.DOTALL)
+    if not match:
+        print("No se encontró el bloque de rankings.")
+        return []
+
+    rankings_text = match.group(1)
+
+    # Buscar todos los items de ranking individualmente
+    item_pattern = re.compile(r'{"position":\d+,"artistName":"(.*?)","trackName":"(.*?)"}')
+    matches = item_pattern.findall(rankings_text)
+
+    items = []
+
+    for artist, title in matches:
+        # Decodificar secuencias tipo \u0026
+        artist = artist.encode().decode('unicode_escape')
+        title = title.encode().decode('unicode_escape')
+
+        full_title = f"{artist} – {title}"
+        google_query = f"https://www.google.com/search?q={quote(f'{artist} - {title}')}"
+        guid = f"{artist} - {title}"
+
+        items.append({
+            'title': full_title,
+            'link': google_query,
+            'guid': guid
+        })
+
+    return items
+
+
 # Diccionario de feeds configurables
 FEEDS = {
     'radioactiva': {
@@ -255,6 +293,13 @@ FEEDS = {
         'titulo_feed': 'MonitorLatino Chile Top 10',
         'descripcion_feed': 'Top 10 canciones en Chile según MonitorLatino',
         'extractor_func': extractor_monitorlatino
+    },
+    'radiodisney_cl': {
+        'nombre_archivo': 'radiodisney_chile.xml',
+        'url': 'https://cl.radiodisney.com/ranking',
+        'titulo_feed': 'Radio Disney Chile Top 30',
+        'descripcion_feed': 'Top 30 canciones en Chile según Radio Disney',
+        'extractor_func': extractor_radiodisney_cl
     }
 
 
