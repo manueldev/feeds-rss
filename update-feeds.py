@@ -129,6 +129,7 @@ def extractor_los40(url):
                 artist_name = match[1].strip()
                 youtube_url = match[2].strip()
                 created_at_str = match[3].strip()  # Extraemos la fecha 'createdAt'
+                print(created_at_str)
 
                 # Convertir 'createdAt' a objeto datetime usando fromisoformat
                 try:
@@ -193,6 +194,8 @@ def extractor_djcity_most(url):
     return items
 
 
+from urllib.parse import quote
+
 # --------- Extractor para MonitorLatino ---------
 def extractor_monitorlatino(url):
     # Hacemos la solicitud a la API de Monitor Latino
@@ -211,18 +214,18 @@ def extractor_monitorlatino(url):
         # Creamos el título del item RSS combinando el artista y el título
         item_title = f"{artist} – {title}"
         
-        # Creamos el link usando la URL proporcionada
-        link = song.get('urlb', '')
+        # Creamos una búsqueda en Google con "artista - título"
+        search_query = quote(f"{artist} - {title}")
+        link = f"https://www.google.com/search?q={search_query}"
 
         # Aquí agregamos cada canción a la lista de items
         items.append({
             'title': item_title,  # El título combinado de artista y título
-            'link': link,         # Enlace a la página de detalles
+            'link': link,         # Enlace de búsqueda en Google
             'pub_date': pub_date  # Fecha fija de publicación
         })
     
     return items
-
 
 
 
