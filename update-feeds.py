@@ -7,7 +7,6 @@ import re
 import urllib.parse
 
 
-
 def generar_feed_rss(nombre_archivo, url, titulo_feed, descripcion_feed, extractor_func):
     fg = FeedGenerator()
     fg.title(titulo_feed)
@@ -20,7 +19,6 @@ def generar_feed_rss(nombre_archivo, url, titulo_feed, descripcion_feed, extract
         fe = fg.add_entry()
         fe.title(item['title'])
         fe.link(href=item['link'])
-        fe.pubDate(item['pub_date'])
 
         # Crear un GUID único combinando title y artist (asumido en el title)
         guid_value = item['title']
@@ -46,9 +44,6 @@ def generar_feed_rss(nombre_archivo, url, titulo_feed, descripcion_feed, extract
         f.write(final_xml)
 
     print(f"RSS generado: {nombre_archivo}")
-
-
-
 
 
 # --------- Extractor para Radioactiva ---------
@@ -103,7 +98,6 @@ def extractor_radioactiva(url):
     return items
 
 
-
 # --------- Extractor para Los40 ---------
 def extractor_los40(url):
     html = requests.get(url).text
@@ -128,25 +122,15 @@ def extractor_los40(url):
                 song_title = match[0].strip()
                 artist_name = match[1].strip()
                 youtube_url = match[2].strip()
-                created_at_str = match[3].strip()  # Extraemos la fecha 'createdAt'
-                print(created_at_str)
-
-                # Convertir 'createdAt' a objeto datetime usando fromisoformat
-                try:
-                    pub_date = datetime.fromisoformat(created_at_str)  # La fecha ya puede tener una zona horaria
-                except ValueError:
-                    # Si la fecha no es válida, intentar sin zona horaria
-                    pub_date = datetime.strptime(created_at_str, '%Y-%m-%dT%H:%M:%SZ')  # Si no tiene zona horaria
 
                 # Crear el título del item combinando artista y título
                 title = f"{artist_name} – {song_title}"
                 link = youtube_url
 
-                # Agregar el item a la lista
+                # Agregar el item a la lista (sin pub_date)
                 items.append({
-                    'title': title,  # Título combinado
-                    'link': link,    # Enlace al video de YouTube
-                    'pub_date': pub_date  # Fecha de publicación con zona horaria
+                    'title': title,
+                    'link': link
                 })
 
         except Exception as e:
@@ -154,8 +138,6 @@ def extractor_los40(url):
             continue
 
     return items
-
-
 
 
 def extractor_djcity_most(url):
