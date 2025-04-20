@@ -6,19 +6,9 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>David Guetta &amp; Sia - Beautiful People</title>
-      <link>https://www.google.com/search?q=David%20Guetta%20%26%20Sia%20Beautiful%20People</link>
-      <guid isPermaLink="false">David Guetta &amp; Sia - Beautiful People</guid>
-    </item>
-    <item>
-      <title>Tchami &amp; OOTORO - Late Night Secrets</title>
-      <link>https://www.google.com/search?q=Tchami%20%26%20OOTORO%20Late%20Night%20Secrets</link>
-      <guid isPermaLink="false">Tchami &amp; OOTORO - Late Night Secrets</guid>
-    </item>
-    <item>
-      <title>Lackmus &amp; NEZIEL - You Let Me</title>
-      <link>https://www.google.com/search?q=Lackmus%20%26%20NEZIEL%20You%20Let%20Me</link>
-      <guid isPermaLink="false">Lackmus &amp; NEZIEL - You Let Me</guid>
+      <title>Wakyin &amp; Vibarco - Matador</title>
+      <link>https://www.google.com/search?q=Wakyin%20%26%20Vibarco%20Matador</link>
+      <guid isPermaLink="false">Wakyin &amp; Vibarco - Matador</guid>
     </item>
     <item>
       <title>Zeds Dead - Vertigo</title>
@@ -26,34 +16,14 @@
       <guid isPermaLink="false">Zeds Dead - Vertigo</guid>
     </item>
     <item>
-      <title>NOTION, Unknown T &amp; D38 - TENTEN</title>
-      <link>https://www.google.com/search?q=NOTION%2C%20Unknown%20T%20%26%20D38%20TENTEN</link>
-      <guid isPermaLink="false">NOTION, Unknown T &amp; D38 - TENTEN</guid>
+      <title>BL3SS &amp; Tchami - R 2 ME</title>
+      <link>https://www.google.com/search?q=BL3SS%20%26%20Tchami%20R%202%20ME</link>
+      <guid isPermaLink="false">BL3SS &amp; Tchami - R 2 ME</guid>
     </item>
     <item>
-      <title>Anyma &amp; Baset - Neverland (From Japan)</title>
-      <link>https://www.google.com/search?q=Anyma%20%26%20Baset%20Neverland%20%28From%20Japan%29</link>
-      <guid isPermaLink="false">Anyma &amp; Baset - Neverland (From Japan)</guid>
-    </item>
-    <item>
-      <title>Lavish Life - Nobody But You</title>
-      <link>https://www.google.com/search?q=Lavish%20Life%20Nobody%20But%20You</link>
-      <guid isPermaLink="false">Lavish Life - Nobody But You</guid>
-    </item>
-    <item>
-      <title>HUGEL &amp; TEDDY-O - Champs In The Rave</title>
-      <link>https://www.google.com/search?q=HUGEL%20%26%20TEDDY-O%20Champs%20In%20The%20Rave</link>
-      <guid isPermaLink="false">HUGEL &amp; TEDDY-O - Champs In The Rave</guid>
-    </item>
-    <item>
-      <title>Rich DietZ &amp; 2AR - All I Need</title>
-      <link>https://www.google.com/search?q=Rich%20DietZ%20%26%202AR%20All%20I%20Need</link>
-      <guid isPermaLink="false">Rich DietZ &amp; 2AR - All I Need</guid>
-    </item>
-    <item>
-      <title>Chris Lake &amp; Ragie Ban - Toxic</title>
-      <link>https://www.google.com/search?q=Chris%20Lake%20%26%20Ragie%20Ban%20Toxic</link>
-      <guid isPermaLink="false">Chris Lake &amp; Ragie Ban - Toxic</guid>
+      <title>Lackmus &amp; NEZIEL - You Let Me</title>
+      <link>https://www.google.com/search?q=Lackmus%20%26%20NEZIEL%20You%20Let%20Me</link>
+      <guid isPermaLink="false">Lackmus &amp; NEZIEL - You Let Me</guid>
     </item>
     <item>
       <title>Cheyenne Giles &amp; Kelland - Losing My Mind</title>
@@ -61,9 +31,39 @@
       <guid isPermaLink="false">Cheyenne Giles &amp; Kelland - Losing My Mind</guid>
     </item>
     <item>
-      <title>James Mac - Breathe</title>
-      <link>https://www.google.com/search?q=James%20Mac%20Breathe</link>
-      <guid isPermaLink="false">James Mac - Breathe</guid>
+      <title>Chris Lake &amp; Ragie Ban - Toxic</title>
+      <link>https://www.google.com/search?q=Chris%20Lake%20%26%20Ragie%20Ban%20Toxic</link>
+      <guid isPermaLink="false">Chris Lake &amp; Ragie Ban - Toxic</guid>
+    </item>
+    <item>
+      <title>Jazzy &amp; Ankhoï - Closer To The Floor</title>
+      <link>https://www.google.com/search?q=Jazzy%20%26%20Ankhoi%CC%88%20Closer%20To%20The%20Floor</link>
+      <guid isPermaLink="false">Jazzy &amp; Ankhoï - Closer To The Floor</guid>
+    </item>
+    <item>
+      <title>Tchami &amp; OOTORO - Late Night Secrets</title>
+      <link>https://www.google.com/search?q=Tchami%20%26%20OOTORO%20Late%20Night%20Secrets</link>
+      <guid isPermaLink="false">Tchami &amp; OOTORO - Late Night Secrets</guid>
+    </item>
+    <item>
+      <title>Lavish Life - Nobody But You</title>
+      <link>https://www.google.com/search?q=Lavish%20Life%20Nobody%20But%20You</link>
+      <guid isPermaLink="false">Lavish Life - Nobody But You</guid>
+    </item>
+    <item>
+      <title>Anyma &amp; Baset - Neverland (From Japan)</title>
+      <link>https://www.google.com/search?q=Anyma%20%26%20Baset%20Neverland%20%28From%20Japan%29</link>
+      <guid isPermaLink="false">Anyma &amp; Baset - Neverland (From Japan)</guid>
+    </item>
+    <item>
+      <title>HUGEL &amp; TEDDY-O - Champs In The Rave</title>
+      <link>https://www.google.com/search?q=HUGEL%20%26%20TEDDY-O%20Champs%20In%20The%20Rave</link>
+      <guid isPermaLink="false">HUGEL &amp; TEDDY-O - Champs In The Rave</guid>
+    </item>
+    <item>
+      <title>Miami Funk Machine - That Girl</title>
+      <link>https://www.google.com/search?q=Miami%20Funk%20Machine%20That%20Girl</link>
+      <guid isPermaLink="false">Miami Funk Machine - That Girl</guid>
     </item>
     <item>
       <title>DJ Dark &amp; Kaila - Can't Get You Out Of My Head</title>
@@ -71,9 +71,9 @@
       <guid isPermaLink="false">DJ Dark &amp; Kaila - Can't Get You Out Of My Head</guid>
     </item>
     <item>
-      <title>Miami Funk Machine - That Girl</title>
-      <link>https://www.google.com/search?q=Miami%20Funk%20Machine%20That%20Girl</link>
-      <guid isPermaLink="false">Miami Funk Machine - That Girl</guid>
+      <title>James Mac - Breathe</title>
+      <link>https://www.google.com/search?q=James%20Mac%20Breathe</link>
+      <guid isPermaLink="false">James Mac - Breathe</guid>
     </item>
     <item>
       <title>Maesic, Marshall Jefferson &amp; Salomé Das - Life Is Simple (Move Your Body)</title>
