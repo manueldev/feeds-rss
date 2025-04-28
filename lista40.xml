@@ -6,18 +6,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>DrefQuila, Easykid, Young Cister, Swift 047 &amp; Kidd Voodoo – Enrolar (Fantastic four mix)</title>
-      <link>https://www.youtube.com/watch?v=KEG7b851Ric</link>
-      <guid isPermaLink="false">DrefQuila, Easykid, Young Cister, Swift 047 &amp; Kidd Voodoo – Enrolar (Fantastic four mix)</guid>
-    </item>
-    <item>
       <title>Young Cister – Miau</title>
       <link>https://www.youtube.com/watch?v=A3WAPhe5JV8</link>
       <guid isPermaLink="false">Young Cister – Miau</guid>
     </item>
     <item>
       <title>Selena Gomez &amp; Benny Blanco feat. The Marías – Ojos tristes</title>
-      <link>https://www.youtube.com/watch?v=auDMCMqiW8U</link>
+      <link>https://www.youtube.com/watch?v=ZGYxLv_P_nM</link>
       <guid isPermaLink="false">Selena Gomez &amp; Benny Blanco feat. The Marías – Ojos tristes</guid>
     </item>
     <item>
@@ -46,9 +41,9 @@
       <guid isPermaLink="false">Ela Taubert feat. Joe Jonas – ¿Cómo pasó?</guid>
     </item>
     <item>
-      <title>Shakira – Soltera</title>
+      <title>Bad Bunny – DtMF</title>
       <link>https://www.youtube.com/watch?v=oBofuVYDoG4</link>
-      <guid isPermaLink="false">Shakira – Soltera</guid>
+      <guid isPermaLink="false">Bad Bunny – DtMF</guid>
     </item>
     <item>
       <title>Jimin – Who</title>
@@ -56,9 +51,9 @@
       <guid isPermaLink="false">Jimin – Who</guid>
     </item>
     <item>
-      <title>FloyyMenor – Peligrosa</title>
+      <title>Rauw Alejandro – Carita linda</title>
       <link>https://www.youtube.com/watch?v=LW5oQl0CxdQ</link>
-      <guid isPermaLink="false">FloyyMenor – Peligrosa</guid>
+      <guid isPermaLink="false">Rauw Alejandro – Carita linda</guid>
     </item>
     <item>
       <title>Sabrina Carpenter – Please please please</title>
@@ -86,11 +81,6 @@
       <guid isPermaLink="false">Billie Eilish – Birds of a feather</guid>
     </item>
     <item>
-      <title>Lola Índigo &amp; Kidd Voodoo – Q somos</title>
-      <link>https://www.youtube.com/watch?v=2Iu-VyiY5Xc</link>
-      <guid isPermaLink="false">Lola Índigo &amp; Kidd Voodoo – Q somos</guid>
-    </item>
-    <item>
       <title>Bad Bunny feat. Dei V &amp; Omar Courtz – Veldá</title>
       <link>https://www.youtube.com/watch?v=lmDfmilZ4Xo</link>
       <guid isPermaLink="false">Bad Bunny feat. Dei V &amp; Omar Courtz – Veldá</guid>
@@ -116,8 +106,13 @@
       <guid isPermaLink="false">King Savagge feat. Jairo Vera &amp; Bayron Fire – A 200</guid>
     </item>
     <item>
-      <title>Jere Klein feat. Swift 047 &amp; Kidd Voodoo – Whisky a la roca</title>
+      <title>Myke Towers feat. Benny Blanco – Degenere</title>
       <link>https://www.youtube.com/watch?v=jg4mZak7wzQ</link>
+      <guid isPermaLink="false">Myke Towers feat. Benny Blanco – Degenere</guid>
+    </item>
+    <item>
+      <title>Jere Klein feat. Swift 047 &amp; Kidd Voodoo – Whisky a la roca</title>
+      <link>https://www.youtube.com/watch?v=oNAx3WJiEsY</link>
       <guid isPermaLink="false">Jere Klein feat. Swift 047 &amp; Kidd Voodoo – Whisky a la roca</guid>
     </item>
     <item>
@@ -126,19 +121,19 @@
       <guid isPermaLink="false">Danny Ocean &amp; Kapo – Imagínate</guid>
     </item>
     <item>
-      <title>Rosé feat. Bruno Mars – APT.</title>
-      <link>https://www.youtube.com/watch?v=ekr2nIex040</link>
-      <guid isPermaLink="false">Rosé feat. Bruno Mars – APT.</guid>
-    </item>
-    <item>
       <title>Bad Bunny – Voy a llevarte pa pr</title>
       <link>https://www.youtube.com/watch?v=w8l33K5D5CI</link>
       <guid isPermaLink="false">Bad Bunny – Voy a llevarte pa pr</guid>
     </item>
     <item>
-      <title>Katteyes &amp; Kidd Voodoo – Ponte lokita</title>
-      <link>https://www.youtube.com/watch?v=oNAx3WJiEsY</link>
-      <guid isPermaLink="false">Katteyes &amp; Kidd Voodoo – Ponte lokita</guid>
+      <title>Lola Índigo &amp; Kidd Voodoo – Q somos</title>
+      <link>https://www.youtube.com/watch?v=2Iu-VyiY5Xc</link>
+      <guid isPermaLink="false">Lola Índigo &amp; Kidd Voodoo – Q somos</guid>
+    </item>
+    <item>
+      <title>Rosé feat. Bruno Mars – APT.</title>
+      <link>https://www.youtube.com/watch?v=ekr2nIex040</link>
+      <guid isPermaLink="false">Rosé feat. Bruno Mars – APT.</guid>
     </item>
     <item>
       <title>Beéle, WSound &amp; Ovy On The Drums – La plena</title>
