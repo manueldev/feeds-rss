@@ -6,14 +6,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Bad Bunny - MIA</title>
-      <link>https://www.google.com/search?q=Bad%20Bunny%20MIA</link>
-      <guid isPermaLink="false">Bad Bunny - MIA</guid>
-    </item>
-    <item>
       <title>SPHYNX - Lo Consigo</title>
       <link>https://www.google.com/search?q=SPHYNX%20Lo%20Consigo</link>
       <guid isPermaLink="false">SPHYNX - Lo Consigo</guid>
+    </item>
+    <item>
+      <title>Bad Bunny - MIA</title>
+      <link>https://www.google.com/search?q=Bad%20Bunny%20MIA</link>
+      <guid isPermaLink="false">Bad Bunny - MIA</guid>
     </item>
     <item>
       <title>Bad Bunny - NUEVAYoL</title>
@@ -21,24 +21,14 @@
       <guid isPermaLink="false">Bad Bunny - NUEVAYoL</guid>
     </item>
     <item>
-      <title>Bad Bunny - EoO</title>
-      <link>https://www.google.com/search?q=Bad%20Bunny%20EoO</link>
-      <guid isPermaLink="false">Bad Bunny - EoO</guid>
+      <title>Yera, Nacho &amp; Lil Silvio &amp; El Vega - Fincho</title>
+      <link>https://www.google.com/search?q=Yera%2C%20Nacho%20%26%20Lil%20Silvio%20%26%20El%20Vega%20Fincho</link>
+      <guid isPermaLink="false">Yera, Nacho &amp; Lil Silvio &amp; El Vega - Fincho</guid>
     </item>
     <item>
-      <title>Jombriel, DFZM &amp; Jøtta - VITAMINA</title>
-      <link>https://www.google.com/search?q=Jombriel%2C%20DFZM%20%26%20J%C3%B8tta%20VITAMINA</link>
-      <guid isPermaLink="false">Jombriel, DFZM &amp; Jøtta - VITAMINA</guid>
-    </item>
-    <item>
-      <title>Los Hermanos Rosario &amp; Tito Nieves - Rompecintura</title>
-      <link>https://www.google.com/search?q=Los%20Hermanos%20Rosario%20%26%20Tito%20Nieves%20Rompecintura</link>
-      <guid isPermaLink="false">Los Hermanos Rosario &amp; Tito Nieves - Rompecintura</guid>
-    </item>
-    <item>
-      <title>Young Miko - WASSUP</title>
-      <link>https://www.google.com/search?q=Young%20Miko%20WASSUP</link>
-      <guid isPermaLink="false">Young Miko - WASSUP</guid>
+      <title>KAROL G - Milagros</title>
+      <link>https://www.google.com/search?q=KAROL%20G%20Milagros</link>
+      <guid isPermaLink="false">KAROL G - Milagros</guid>
     </item>
     <item>
       <title>Cris Mj - Conmigo Se Escapa</title>
@@ -46,9 +36,14 @@
       <guid isPermaLink="false">Cris Mj - Conmigo Se Escapa</guid>
     </item>
     <item>
-      <title>HUGEL, Alleh &amp; Yorghaki - Una Noche Con Hugel</title>
-      <link>https://www.google.com/search?q=HUGEL%2C%20Alleh%20%26%20Yorghaki%20Una%20Noche%20Con%20Hugel</link>
-      <guid isPermaLink="false">HUGEL, Alleh &amp; Yorghaki - Una Noche Con Hugel</guid>
+      <title>Bad Bunny - EoO</title>
+      <link>https://www.google.com/search?q=Bad%20Bunny%20EoO</link>
+      <guid isPermaLink="false">Bad Bunny - EoO</guid>
+    </item>
+    <item>
+      <title>Young Miko - WASSUP</title>
+      <link>https://www.google.com/search?q=Young%20Miko%20WASSUP</link>
+      <guid isPermaLink="false">Young Miko - WASSUP</guid>
     </item>
     <item>
       <title>Piso 21, Beéle &amp; Marc Anthony - Volver</title>
@@ -56,14 +51,14 @@
       <guid isPermaLink="false">Piso 21, Beéle &amp; Marc Anthony - Volver</guid>
     </item>
     <item>
+      <title>HUGEL, Alleh &amp; Yorghaki - Una Noche Con Hugel</title>
+      <link>https://www.google.com/search?q=HUGEL%2C%20Alleh%20%26%20Yorghaki%20Una%20Noche%20Con%20Hugel</link>
+      <guid isPermaLink="false">HUGEL, Alleh &amp; Yorghaki - Una Noche Con Hugel</guid>
+    </item>
+    <item>
       <title>Anuel AA - Bugatti</title>
       <link>https://www.google.com/search?q=Anuel%20AA%20Bugatti</link>
       <guid isPermaLink="false">Anuel AA - Bugatti</guid>
-    </item>
-    <item>
-      <title>J Balvin &amp; Omega - KLK</title>
-      <link>https://www.google.com/search?q=J%20Balvin%20%26%20Omega%20KLK</link>
-      <guid isPermaLink="false">J Balvin &amp; Omega - KLK</guid>
     </item>
     <item>
       <title>Nicky Jam &amp; Beéle - Hiekka</title>
@@ -71,14 +66,19 @@
       <guid isPermaLink="false">Nicky Jam &amp; Beéle - Hiekka</guid>
     </item>
     <item>
-      <title>Pitbull &amp; Sensato - No Te Hagas</title>
-      <link>https://www.google.com/search?q=Pitbull%20%26%20Sensato%20No%20Te%20Hagas</link>
-      <guid isPermaLink="false">Pitbull &amp; Sensato - No Te Hagas</guid>
+      <title>J Balvin &amp; Omega - KLK</title>
+      <link>https://www.google.com/search?q=J%20Balvin%20%26%20Omega%20KLK</link>
+      <guid isPermaLink="false">J Balvin &amp; Omega - KLK</guid>
     </item>
     <item>
       <title>David Guetta, Willy William &amp; Nicky Jam - Cuentale</title>
       <link>https://www.google.com/search?q=David%20Guetta%2C%20Willy%20William%20%26%20Nicky%20Jam%20Cuentale</link>
       <guid isPermaLink="false">David Guetta, Willy William &amp; Nicky Jam - Cuentale</guid>
+    </item>
+    <item>
+      <title>Pitbull &amp; Sensato - No Te Hagas</title>
+      <link>https://www.google.com/search?q=Pitbull%20%26%20Sensato%20No%20Te%20Hagas</link>
+      <guid isPermaLink="false">Pitbull &amp; Sensato - No Te Hagas</guid>
     </item>
   </channel>
 </rss>
