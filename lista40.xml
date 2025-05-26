@@ -6,19 +6,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>FloyyMenor – Peligrosa</title>
-      <link>https://www.youtube.com/watch?v=LW5oQl0CxdQ</link>
-      <guid isPermaLink="false">FloyyMenor – Peligrosa</guid>
-    </item>
-    <item>
-      <title>Sabrina Carpenter – Please please please</title>
+      <title>Benson Boone – Mystical magical</title>
       <link>https://www.youtube.com/watch?v=cF1Na4AIecM</link>
-      <guid isPermaLink="false">Sabrina Carpenter – Please please please</guid>
+      <guid isPermaLink="false">Benson Boone – Mystical magical</guid>
     </item>
     <item>
-      <title>Chappell Roan – Good luck, babe!</title>
-      <link>https://www.youtube.com/watch?v=Dj9qJsJTsjQ</link>
-      <guid isPermaLink="false">Chappell Roan – Good luck, babe!</guid>
+      <title>Damiano David – Born with a broken heart</title>
+      <link>https://www.youtube.com/watch?v=Z4-g8UXa944</link>
+      <guid isPermaLink="false">Damiano David – Born with a broken heart</guid>
     </item>
     <item>
       <title>Kapo – Uwaie</title>
@@ -76,6 +71,11 @@
       <guid isPermaLink="false">Billie Eilish – Birds of a feather</guid>
     </item>
     <item>
+      <title>Morat &amp; Camilo – Me toca a mí</title>
+      <link>https://www.youtube.com/watch?v=-vOgEO13FYA</link>
+      <guid isPermaLink="false">Morat &amp; Camilo – Me toca a mí</guid>
+    </item>
+    <item>
       <title>Kapo – Ohnana</title>
       <link>https://www.youtube.com/watch?v=lmDfmilZ4Xo</link>
       <guid isPermaLink="false">Kapo – Ohnana</guid>
@@ -106,9 +106,9 @@
       <guid isPermaLink="false">Lola Índigo &amp; Kidd Voodoo – Q somos</guid>
     </item>
     <item>
-      <title>Rauw Alejandro – Carita linda</title>
-      <link>https://www.youtube.com/watch?v=OajhPIFvusk</link>
-      <guid isPermaLink="false">Rauw Alejandro – Carita linda</guid>
+      <title>Rosé feat. Bruno Mars – APT.</title>
+      <link>https://www.youtube.com/watch?v=ekr2nIex040</link>
+      <guid isPermaLink="false">Rosé feat. Bruno Mars – APT.</guid>
     </item>
     <item>
       <title>Jere Klein feat. Swift 047 &amp; Kidd Voodoo – Whisky a la roca</title>
@@ -121,9 +121,9 @@
       <guid isPermaLink="false">Beéle &amp; Ovy On The Drums – Mi refe</guid>
     </item>
     <item>
-      <title>Rosé feat. Bruno Mars – APT.</title>
-      <link>https://www.youtube.com/watch?v=ekr2nIex040</link>
-      <guid isPermaLink="false">Rosé feat. Bruno Mars – APT.</guid>
+      <title>Doechii – Anxiety</title>
+      <link>https://www.youtube.com/watch?v=riCP9x31Kuk</link>
+      <guid isPermaLink="false">Doechii – Anxiety</guid>
     </item>
     <item>
       <title>Beéle, WSound &amp; Ovy On The Drums – La plena</title>
@@ -131,9 +131,9 @@
       <guid isPermaLink="false">Beéle, WSound &amp; Ovy On The Drums – La plena</guid>
     </item>
     <item>
-      <title>Morat &amp; Camilo – Me toca a mí</title>
-      <link>https://www.youtube.com/watch?v=-vOgEO13FYA</link>
-      <guid isPermaLink="false">Morat &amp; Camilo – Me toca a mí</guid>
+      <title>Rauw Alejandro – Carita linda</title>
+      <link>https://www.youtube.com/watch?v=OajhPIFvusk</link>
+      <guid isPermaLink="false">Rauw Alejandro – Carita linda</guid>
     </item>
     <item>
       <title>Bad Bunny – Voy a llevarte pa pr</title>
