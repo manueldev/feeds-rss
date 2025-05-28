@@ -6,24 +6,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
+      <title>Polar Bears &amp; Nevve - Good On You</title>
+      <link>https://www.google.com/search?q=Polar%20Bears%20%26%20Nevve%20Good%20On%20You</link>
+      <guid isPermaLink="false">Polar Bears &amp; Nevve - Good On You</guid>
+    </item>
+    <item>
       <title>Trentino - Pull Me Back</title>
       <link>https://www.google.com/search?q=Trentino%20Pull%20Me%20Back</link>
       <guid isPermaLink="false">Trentino - Pull Me Back</guid>
-    </item>
-    <item>
-      <title>Dillon Nathaniel - Break The System</title>
-      <link>https://www.google.com/search?q=Dillon%20Nathaniel%20Break%20The%20System</link>
-      <guid isPermaLink="false">Dillon Nathaniel - Break The System</guid>
-    </item>
-    <item>
-      <title>Malo On The Beat &amp; Aleo - Thando</title>
-      <link>https://www.google.com/search?q=Malo%20On%20The%20Beat%20%26%20Aleo%20Thando</link>
-      <guid isPermaLink="false">Malo On The Beat &amp; Aleo - Thando</guid>
-    </item>
-    <item>
-      <title>Sammy Virji &amp; Issey Cross - Nostalgia</title>
-      <link>https://www.google.com/search?q=Sammy%20Virji%20%26%20Issey%20Cross%20Nostalgia</link>
-      <guid isPermaLink="false">Sammy Virji &amp; Issey Cross - Nostalgia</guid>
     </item>
     <item>
       <title>HUGEL, Topic &amp; Arash - I Adore You</title>
@@ -36,14 +26,19 @@
       <guid isPermaLink="false">Adam Port, Stryv &amp; Camila Cabello - Move</guid>
     </item>
     <item>
-      <title>Angel &amp; Dren - FSU!</title>
-      <link>https://www.google.com/search?q=Angel%20%26%20Dren%20FSU%21</link>
-      <guid isPermaLink="false">Angel &amp; Dren - FSU!</guid>
+      <title>Gryffin &amp; Band of Horses - The Funeral (2025 Edit)</title>
+      <link>https://www.google.com/search?q=Gryffin%20%26%20Band%20of%20Horses%20The%20Funeral%20%282025%20Edit%29</link>
+      <guid isPermaLink="false">Gryffin &amp; Band of Horses - The Funeral (2025 Edit)</guid>
     </item>
     <item>
-      <title>Don Diablo - Freek Like Me</title>
-      <link>https://www.google.com/search?q=Don%20Diablo%20Freek%20Like%20Me</link>
-      <guid isPermaLink="false">Don Diablo - Freek Like Me</guid>
+      <title>Malo On The Beat &amp; Aleo - Thando</title>
+      <link>https://www.google.com/search?q=Malo%20On%20The%20Beat%20%26%20Aleo%20Thando</link>
+      <guid isPermaLink="false">Malo On The Beat &amp; Aleo - Thando</guid>
+    </item>
+    <item>
+      <title>Dillon Nathaniel - Break The System</title>
+      <link>https://www.google.com/search?q=Dillon%20Nathaniel%20Break%20The%20System</link>
+      <guid isPermaLink="false">Dillon Nathaniel - Break The System</guid>
     </item>
     <item>
       <title>Avicii &amp; Elle King - Let's Ride Away</title>
@@ -51,14 +46,19 @@
       <guid isPermaLink="false">Avicii &amp; Elle King - Let's Ride Away</guid>
     </item>
     <item>
-      <title>FRASER - COMPLICATED</title>
-      <link>https://www.google.com/search?q=FRASER%20COMPLICATED</link>
-      <guid isPermaLink="false">FRASER - COMPLICATED</guid>
-    </item>
-    <item>
       <title>Martial Simon - Shake</title>
       <link>https://www.google.com/search?q=Martial%20Simon%20Shake</link>
       <guid isPermaLink="false">Martial Simon - Shake</guid>
+    </item>
+    <item>
+      <title>Don Diablo - Freek Like Me</title>
+      <link>https://www.google.com/search?q=Don%20Diablo%20Freek%20Like%20Me</link>
+      <guid isPermaLink="false">Don Diablo - Freek Like Me</guid>
+    </item>
+    <item>
+      <title>FRASER - COMPLICATED</title>
+      <link>https://www.google.com/search?q=FRASER%20COMPLICATED</link>
+      <guid isPermaLink="false">FRASER - COMPLICATED</guid>
     </item>
     <item>
       <title>Tiësto, Odd Mob &amp; Goodboys - Won't Be Possible</title>
@@ -71,14 +71,14 @@
       <guid isPermaLink="false">Richard Vission - Movin' Up</guid>
     </item>
     <item>
-      <title>Proppa &amp; Waka Flocka Flame - Grove St. Party</title>
-      <link>https://www.google.com/search?q=Proppa%20%26%20Waka%20Flocka%20Flame%20Grove%20St.%20Party</link>
-      <guid isPermaLink="false">Proppa &amp; Waka Flocka Flame - Grove St. Party</guid>
-    </item>
-    <item>
       <title>DJ Katch &amp; Smoothies - FAVELA</title>
       <link>https://www.google.com/search?q=DJ%20Katch%20%26%20Smoothies%20FAVELA</link>
       <guid isPermaLink="false">DJ Katch &amp; Smoothies - FAVELA</guid>
+    </item>
+    <item>
+      <title>Proppa &amp; Waka Flocka Flame - Grove St. Party</title>
+      <link>https://www.google.com/search?q=Proppa%20%26%20Waka%20Flocka%20Flame%20Grove%20St.%20Party</link>
+      <guid isPermaLink="false">Proppa &amp; Waka Flocka Flame - Grove St. Party</guid>
     </item>
   </channel>
 </rss>
