@@ -6,34 +6,9 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>J Balvin &amp; Omega - KLK</title>
-      <link>https://www.google.com/search?q=J%20Balvin%20%26%20Omega%20KLK</link>
-      <guid isPermaLink="false">J Balvin &amp; Omega - KLK</guid>
-    </item>
-    <item>
-      <title>Myaap - Fairy</title>
-      <link>https://www.google.com/search?q=Myaap%20Fairy</link>
-      <guid isPermaLink="false">Myaap - Fairy</guid>
-    </item>
-    <item>
-      <title>Myke Towers - DEGENERE</title>
-      <link>https://www.google.com/search?q=Myke%20Towers%20DEGENERE</link>
-      <guid isPermaLink="false">Myke Towers - DEGENERE</guid>
-    </item>
-    <item>
       <title>Bad Bunny - EoO</title>
       <link>https://www.google.com/search?q=Bad%20Bunny%20EoO</link>
       <guid isPermaLink="false">Bad Bunny - EoO</guid>
-    </item>
-    <item>
-      <title>Bad Bunny - NUEVAYoL</title>
-      <link>https://www.google.com/search?q=Bad%20Bunny%20NUEVAYoL</link>
-      <guid isPermaLink="false">Bad Bunny - NUEVAYoL</guid>
-    </item>
-    <item>
-      <title>El Alfa &amp; ANGEL DIOR - Que Te Cache</title>
-      <link>https://www.google.com/search?q=El%20Alfa%20%26%20ANGEL%20DIOR%20Que%20Te%20Cache</link>
-      <guid isPermaLink="false">El Alfa &amp; ANGEL DIOR - Que Te Cache</guid>
     </item>
     <item>
       <title>HUGEL, Alleh &amp; Yorghaki - Una Noche Con Hugel</title>
@@ -41,9 +16,14 @@
       <guid isPermaLink="false">HUGEL, Alleh &amp; Yorghaki - Una Noche Con Hugel</guid>
     </item>
     <item>
-      <title>Myke Towers - Baja California</title>
-      <link>https://www.google.com/search?q=Myke%20Towers%20Baja%20California</link>
-      <guid isPermaLink="false">Myke Towers - Baja California</guid>
+      <title>Tokischa &amp; Papatinho - PISCIS</title>
+      <link>https://www.google.com/search?q=Tokischa%20%26%20Papatinho%20PISCIS</link>
+      <guid isPermaLink="false">Tokischa &amp; Papatinho - PISCIS</guid>
+    </item>
+    <item>
+      <title>Gabito Ballesteros &amp; J Balvin - LA TROKA</title>
+      <link>https://www.google.com/search?q=Gabito%20Ballesteros%20%26%20J%20Balvin%20LA%20TROKA</link>
+      <guid isPermaLink="false">Gabito Ballesteros &amp; J Balvin - LA TROKA</guid>
     </item>
     <item>
       <title>RØZ &amp; Peso Pluma - Apaga La Luz</title>
@@ -51,9 +31,24 @@
       <guid isPermaLink="false">RØZ &amp; Peso Pluma - Apaga La Luz</guid>
     </item>
     <item>
-      <title>Feid - ANDO XXIL</title>
-      <link>https://www.google.com/search?q=Feid%20ANDO%20XXIL</link>
-      <guid isPermaLink="false">Feid - ANDO XXIL</guid>
+      <title>Myaap - Fairy</title>
+      <link>https://www.google.com/search?q=Myaap%20Fairy</link>
+      <guid isPermaLink="false">Myaap - Fairy</guid>
+    </item>
+    <item>
+      <title>Blessd &amp; SOG - CUÁNDO</title>
+      <link>https://www.google.com/search?q=Blessd%20%26%20SOG%20CU%C3%81NDO</link>
+      <guid isPermaLink="false">Blessd &amp; SOG - CUÁNDO</guid>
+    </item>
+    <item>
+      <title>Myke Towers - Baja California</title>
+      <link>https://www.google.com/search?q=Myke%20Towers%20Baja%20California</link>
+      <guid isPermaLink="false">Myke Towers - Baja California</guid>
+    </item>
+    <item>
+      <title>Myke Towers &amp; Quevedo - SOLEAO</title>
+      <link>https://www.google.com/search?q=Myke%20Towers%20%26%20Quevedo%20SOLEAO</link>
+      <guid isPermaLink="false">Myke Towers &amp; Quevedo - SOLEAO</guid>
     </item>
     <item>
       <title>Brray, Feid, De La Rose &amp; Yan Block - Te Colaboro Remix</title>
@@ -61,14 +56,19 @@
       <guid isPermaLink="false">Brray, Feid, De La Rose &amp; Yan Block - Te Colaboro Remix</guid>
     </item>
     <item>
-      <title>David Guetta, Willy William &amp; Nicky Jam - Cuentale</title>
-      <link>https://www.google.com/search?q=David%20Guetta%2C%20Willy%20William%20%26%20Nicky%20Jam%20Cuentale</link>
-      <guid isPermaLink="false">David Guetta, Willy William &amp; Nicky Jam - Cuentale</guid>
+      <title>Feid - ANDO XXIL</title>
+      <link>https://www.google.com/search?q=Feid%20ANDO%20XXIL</link>
+      <guid isPermaLink="false">Feid - ANDO XXIL</guid>
     </item>
     <item>
       <title>Pitbull &amp; Sensato - No Te Hagas</title>
       <link>https://www.google.com/search?q=Pitbull%20%26%20Sensato%20No%20Te%20Hagas</link>
       <guid isPermaLink="false">Pitbull &amp; Sensato - No Te Hagas</guid>
+    </item>
+    <item>
+      <title>David Guetta, Willy William &amp; Nicky Jam - Cuentale</title>
+      <link>https://www.google.com/search?q=David%20Guetta%2C%20Willy%20William%20%26%20Nicky%20Jam%20Cuentale</link>
+      <guid isPermaLink="false">David Guetta, Willy William &amp; Nicky Jam - Cuentale</guid>
     </item>
     <item>
       <title>Mattei, Arcángel, De La Ghetto &amp; Jowell &amp; Randy - Pa Las Girlas Remix</title>
