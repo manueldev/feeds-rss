@@ -6,14 +6,9 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Benson Boone – Mystical magical</title>
-      <link>https://www.youtube.com/watch?v=cF1Na4AIecM</link>
-      <guid isPermaLink="false">Benson Boone – Mystical magical</guid>
-    </item>
-    <item>
-      <title>Damiano David – Born with a broken heart</title>
-      <link>https://www.youtube.com/watch?v=Z4-g8UXa944</link>
-      <guid isPermaLink="false">Damiano David – Born with a broken heart</guid>
+      <title>TXT – Love language</title>
+      <link>https://www.youtube.com/watch?v=8aRTMQvbODs</link>
+      <guid isPermaLink="false">TXT – Love language</guid>
     </item>
     <item>
       <title>Kapo – Uwaie</title>
@@ -21,24 +16,19 @@
       <guid isPermaLink="false">Kapo – Uwaie</guid>
     </item>
     <item>
-      <title>Brytiago &amp; Loyaltty – Luna llena</title>
-      <link>https://www.youtube.com/watch?v=MgsdDfdGdHc</link>
-      <guid isPermaLink="false">Brytiago &amp; Loyaltty – Luna llena</guid>
+      <title>Kidd Voodoo feat. Los Bunkers – Debo aterrizar</title>
+      <link>https://www.youtube.com/watch?v=ECqGCH1TfLY</link>
+      <guid isPermaLink="false">Kidd Voodoo feat. Los Bunkers – Debo aterrizar</guid>
     </item>
     <item>
-      <title>Ela Taubert feat. Joe Jonas – ¿Cómo pasó?</title>
-      <link>https://www.youtube.com/watch?v=XxIF0bJba8k</link>
-      <guid isPermaLink="false">Ela Taubert feat. Joe Jonas – ¿Cómo pasó?</guid>
+      <title>Jin – Don't say you love me</title>
+      <link>https://www.youtube.com/watch?v=o7BcyAd6rqg</link>
+      <guid isPermaLink="false">Jin – Don't say you love me</guid>
     </item>
     <item>
-      <title>Bad Bunny – DtMF</title>
+      <title>Jennie – Like Jennie</title>
       <link>https://www.youtube.com/watch?v=oBofuVYDoG4</link>
-      <guid isPermaLink="false">Bad Bunny – DtMF</guid>
-    </item>
-    <item>
-      <title>Jimin – Who</title>
-      <link>https://www.youtube.com/watch?v=Av9DvtlJ9_M</link>
-      <guid isPermaLink="false">Jimin – Who</guid>
+      <guid isPermaLink="false">Jennie – Like Jennie</guid>
     </item>
     <item>
       <title>Trueno &amp; Young Miko – En la city</title>
@@ -51,8 +41,13 @@
       <guid isPermaLink="false">Myke Towers feat. Benny Blanco – Degenere</guid>
     </item>
     <item>
-      <title>Chappell Roan – The giver</title>
+      <title>Benson Boone – Mystical magical</title>
       <link>https://www.youtube.com/watch?v=ZGYxLv_P_nM</link>
+      <guid isPermaLink="false">Benson Boone – Mystical magical</guid>
+    </item>
+    <item>
+      <title>Chappell Roan – The giver</title>
+      <link>https://www.youtube.com/watch?v=Z4-g8UXa944</link>
       <guid isPermaLink="false">Chappell Roan – The giver</guid>
     </item>
     <item>
@@ -61,8 +56,13 @@
       <guid isPermaLink="false">J Balvin &amp; FEID – Doblexxó</guid>
     </item>
     <item>
-      <title>Bad Bunny – NuevaYol</title>
+      <title>Katteyes &amp; Kidd Voodoo – Ponte lokita</title>
       <link>https://www.youtube.com/watch?v=oNAx3WJiEsY</link>
+      <guid isPermaLink="false">Katteyes &amp; Kidd Voodoo – Ponte lokita</guid>
+    </item>
+    <item>
+      <title>Bad Bunny – NuevaYol</title>
+      <link>https://www.youtube.com/watch?v=Av9DvtlJ9_M</link>
       <guid isPermaLink="false">Bad Bunny – NuevaYol</guid>
     </item>
     <item>
@@ -106,11 +106,6 @@
       <guid isPermaLink="false">Lola Índigo &amp; Kidd Voodoo – Q somos</guid>
     </item>
     <item>
-      <title>Rosé feat. Bruno Mars – APT.</title>
-      <link>https://www.youtube.com/watch?v=ekr2nIex040</link>
-      <guid isPermaLink="false">Rosé feat. Bruno Mars – APT.</guid>
-    </item>
-    <item>
       <title>Jere Klein feat. Swift 047 &amp; Kidd Voodoo – Whisky a la roca</title>
       <link>https://www.youtube.com/watch?v=-BjM99sQ0Rg</link>
       <guid isPermaLink="false">Jere Klein feat. Swift 047 &amp; Kidd Voodoo – Whisky a la roca</guid>
@@ -124,6 +119,11 @@
       <title>Doechii – Anxiety</title>
       <link>https://www.youtube.com/watch?v=riCP9x31Kuk</link>
       <guid isPermaLink="false">Doechii – Anxiety</guid>
+    </item>
+    <item>
+      <title>Rosé feat. Bruno Mars – APT.</title>
+      <link>https://www.youtube.com/watch?v=ekr2nIex040</link>
+      <guid isPermaLink="false">Rosé feat. Bruno Mars – APT.</guid>
     </item>
     <item>
       <title>Beéle, WSound &amp; Ovy On The Drums – La plena</title>
