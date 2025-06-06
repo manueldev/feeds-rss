@@ -6,19 +6,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Sabrina Carpenter - Espresso</title>
-      <link>https://www.google.com/search?q=Sabrina%20Carpenter%20Espresso</link>
-      <guid isPermaLink="false">Sabrina Carpenter - Espresso</guid>
-    </item>
-    <item>
-      <title>Amelia Moore - spelling bee</title>
-      <link>https://www.google.com/search?q=Amelia%20Moore%20spelling%20bee</link>
-      <guid isPermaLink="false">Amelia Moore - spelling bee</guid>
-    </item>
-    <item>
       <title>Lady Gaga - Abracadabra</title>
       <link>https://www.google.com/search?q=Lady%20Gaga%20Abracadabra</link>
       <guid isPermaLink="false">Lady Gaga - Abracadabra</guid>
+    </item>
+    <item>
+      <title>Rihanna - Friend Of Mine</title>
+      <link>https://www.google.com/search?q=Rihanna%20Friend%20Of%20Mine</link>
+      <guid isPermaLink="false">Rihanna - Friend Of Mine</guid>
+    </item>
+    <item>
+      <title>Guru Randhawa, Sanjoy &amp; Gill Machhrai - Qatal</title>
+      <link>https://www.google.com/search?q=Guru%20Randhawa%2C%20Sanjoy%20%26%20Gill%20Machhrai%20Qatal</link>
+      <guid isPermaLink="false">Guru Randhawa, Sanjoy &amp; Gill Machhrai - Qatal</guid>
     </item>
     <item>
       <title>Marvin Gaye, Tammi Terrell &amp; Vandelux - Ain't No Mountain High Enough</title>
@@ -26,9 +26,9 @@
       <guid isPermaLink="false">Marvin Gaye, Tammi Terrell &amp; Vandelux - Ain't No Mountain High Enough</guid>
     </item>
     <item>
-      <title>Nina Chuba - Wenn Das Liebe Ist</title>
-      <link>https://www.google.com/search?q=Nina%20Chuba%20Wenn%20Das%20Liebe%20Ist</link>
-      <guid isPermaLink="false">Nina Chuba - Wenn Das Liebe Ist</guid>
+      <title>Michaël Brun &amp; Shirazee - Elevate</title>
+      <link>https://www.google.com/search?q=Micha%C3%ABl%20Brun%20%26%20Shirazee%20Elevate</link>
+      <guid isPermaLink="false">Michaël Brun &amp; Shirazee - Elevate</guid>
     </item>
     <item>
       <title>Ed Sheeran - Azizam</title>
@@ -36,9 +36,9 @@
       <guid isPermaLink="false">Ed Sheeran - Azizam</guid>
     </item>
     <item>
-      <title>Rihanna - Friend Of Mine</title>
-      <link>https://www.google.com/search?q=Rihanna%20Friend%20Of%20Mine</link>
-      <guid isPermaLink="false">Rihanna - Friend Of Mine</guid>
+      <title>Nina Chuba - Wenn Das Liebe Ist</title>
+      <link>https://www.google.com/search?q=Nina%20Chuba%20Wenn%20Das%20Liebe%20Ist</link>
+      <guid isPermaLink="false">Nina Chuba - Wenn Das Liebe Ist</guid>
     </item>
     <item>
       <title>Guru Randhawa, French Montana &amp; JSL Singh - Vibe</title>
