@@ -6,6 +6,36 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
+      <title>Allan Piziano - La Fiesta</title>
+      <link>https://www.google.com/search?q=Allan%20Piziano%20La%20Fiesta</link>
+      <guid isPermaLink="false">Allan Piziano - La Fiesta</guid>
+    </item>
+    <item>
+      <title>BRANDON &amp; SLIM TONY - No Second Guessing</title>
+      <link>https://www.google.com/search?q=BRANDON%20%26%20SLIM%20TONY%20No%20Second%20Guessing</link>
+      <guid isPermaLink="false">BRANDON &amp; SLIM TONY - No Second Guessing</guid>
+    </item>
+    <item>
+      <title>DA$ON - Do U Like It?</title>
+      <link>https://www.google.com/search?q=DA%24ON%20Do%20U%20Like%20It%3F</link>
+      <guid isPermaLink="false">DA$ON - Do U Like It?</guid>
+    </item>
+    <item>
+      <title>Adam Port, Stryv &amp; Camila Cabello - Move</title>
+      <link>https://www.google.com/search?q=Adam%20Port%2C%20Stryv%20%26%20Camila%20Cabello%20Move</link>
+      <guid isPermaLink="false">Adam Port, Stryv &amp; Camila Cabello - Move</guid>
+    </item>
+    <item>
+      <title>HUGEL, Topic &amp; Arash - I Adore You</title>
+      <link>https://www.google.com/search?q=HUGEL%2C%20Topic%20%26%20Arash%20I%20Adore%20You</link>
+      <guid isPermaLink="false">HUGEL, Topic &amp; Arash - I Adore You</guid>
+    </item>
+    <item>
+      <title>Martin Garrix &amp; Lauv - MAD</title>
+      <link>https://www.google.com/search?q=Martin%20Garrix%20%26%20Lauv%20MAD</link>
+      <guid isPermaLink="false">Martin Garrix &amp; Lauv - MAD</guid>
+    </item>
+    <item>
       <title>Rob DVS - Sugar Daddy</title>
       <link>https://www.google.com/search?q=Rob%20DVS%20Sugar%20Daddy</link>
       <guid isPermaLink="false">Rob DVS - Sugar Daddy</guid>
@@ -16,49 +46,19 @@
       <guid isPermaLink="false">Curbi, AC Slater &amp; BIG WETT - Psycho</guid>
     </item>
     <item>
-      <title>Adam Port, Stryv &amp; Camila Cabello - Move</title>
-      <link>https://www.google.com/search?q=Adam%20Port%2C%20Stryv%20%26%20Camila%20Cabello%20Move</link>
-      <guid isPermaLink="false">Adam Port, Stryv &amp; Camila Cabello - Move</guid>
+      <title>Don Diablo &amp; Nelly Furtado - Doing Nothin'</title>
+      <link>https://www.google.com/search?q=Don%20Diablo%20%26%20Nelly%20Furtado%20Doing%20Nothin%27</link>
+      <guid isPermaLink="false">Don Diablo &amp; Nelly Furtado - Doing Nothin'</guid>
     </item>
     <item>
-      <title>VNSSA &amp; Benson - Shiny Disco Balls</title>
-      <link>https://www.google.com/search?q=VNSSA%20%26%20Benson%20Shiny%20Disco%20Balls</link>
-      <guid isPermaLink="false">VNSSA &amp; Benson - Shiny Disco Balls</guid>
-    </item>
-    <item>
-      <title>HUGEL, Topic &amp; Arash - I Adore You</title>
-      <link>https://www.google.com/search?q=HUGEL%2C%20Topic%20%26%20Arash%20I%20Adore%20You</link>
-      <guid isPermaLink="false">HUGEL, Topic &amp; Arash - I Adore You</guid>
-    </item>
-    <item>
-      <title>Allan Piziano - La Fiesta</title>
-      <link>https://www.google.com/search?q=Allan%20Piziano%20La%20Fiesta</link>
-      <guid isPermaLink="false">Allan Piziano - La Fiesta</guid>
-    </item>
-    <item>
-      <title>DA$ON - Do U Like It?</title>
-      <link>https://www.google.com/search?q=DA%24ON%20Do%20U%20Like%20It%3F</link>
-      <guid isPermaLink="false">DA$ON - Do U Like It?</guid>
-    </item>
-    <item>
-      <title>BRANDON &amp; SLIM TONY - No Second Guessing</title>
-      <link>https://www.google.com/search?q=BRANDON%20%26%20SLIM%20TONY%20No%20Second%20Guessing</link>
-      <guid isPermaLink="false">BRANDON &amp; SLIM TONY - No Second Guessing</guid>
+      <title>Disco Lines &amp; Tinashe - No Broke Boys</title>
+      <link>https://www.google.com/search?q=Disco%20Lines%20%26%20Tinashe%20No%20Broke%20Boys</link>
+      <guid isPermaLink="false">Disco Lines &amp; Tinashe - No Broke Boys</guid>
     </item>
     <item>
       <title>Mike Posner &amp; Deorro - Cooler Than Me</title>
       <link>https://www.google.com/search?q=Mike%20Posner%20%26%20Deorro%20Cooler%20Than%20Me</link>
       <guid isPermaLink="false">Mike Posner &amp; Deorro - Cooler Than Me</guid>
-    </item>
-    <item>
-      <title>Martin Garrix &amp; Lauv - MAD</title>
-      <link>https://www.google.com/search?q=Martin%20Garrix%20%26%20Lauv%20MAD</link>
-      <guid isPermaLink="false">Martin Garrix &amp; Lauv - MAD</guid>
-    </item>
-    <item>
-      <title>Don Diablo &amp; Nelly Furtado - Doing Nothin'</title>
-      <link>https://www.google.com/search?q=Don%20Diablo%20%26%20Nelly%20Furtado%20Doing%20Nothin%27</link>
-      <guid isPermaLink="false">Don Diablo &amp; Nelly Furtado - Doing Nothin'</guid>
     </item>
     <item>
       <title>DJ Katch &amp; Smoothies - FAVELA</title>
@@ -71,14 +71,14 @@
       <guid isPermaLink="false">The Stickmen Project - Circles</guid>
     </item>
     <item>
-      <title>HUGEL, Brøder &amp; Spijker - Las Avispas</title>
-      <link>https://www.google.com/search?q=HUGEL%2C%20Br%C3%B8der%20%26%20Spijker%20Las%20Avispas</link>
-      <guid isPermaLink="false">HUGEL, Brøder &amp; Spijker - Las Avispas</guid>
-    </item>
-    <item>
       <title>Proppa &amp; Waka Flocka Flame - Grove St. Party</title>
       <link>https://www.google.com/search?q=Proppa%20%26%20Waka%20Flocka%20Flame%20Grove%20St.%20Party</link>
       <guid isPermaLink="false">Proppa &amp; Waka Flocka Flame - Grove St. Party</guid>
+    </item>
+    <item>
+      <title>HUGEL, Brøder &amp; Spijker - Las Avispas</title>
+      <link>https://www.google.com/search?q=HUGEL%2C%20Br%C3%B8der%20%26%20Spijker%20Las%20Avispas</link>
+      <guid isPermaLink="false">HUGEL, Brøder &amp; Spijker - Las Avispas</guid>
     </item>
   </channel>
 </rss>
