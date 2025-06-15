@@ -6,14 +6,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Marvin Gaye, Tammi Terrell &amp; Vandelux - Ain't No Mountain High Enough</title>
-      <link>https://www.google.com/search?q=Marvin%20Gaye%2C%20Tammi%20Terrell%20%26%20Vandelux%20Ain%27t%20No%20Mountain%20High%20Enough</link>
-      <guid isPermaLink="false">Marvin Gaye, Tammi Terrell &amp; Vandelux - Ain't No Mountain High Enough</guid>
+      <title>Chappell Roan - Pink Pony Club</title>
+      <link>https://www.google.com/search?q=Chappell%20Roan%20Pink%20Pony%20Club</link>
+      <guid isPermaLink="false">Chappell Roan - Pink Pony Club</guid>
     </item>
     <item>
-      <title>mgk - cliché</title>
-      <link>https://www.google.com/search?q=mgk%20clich%C3%A9</link>
-      <guid isPermaLink="false">mgk - cliché</guid>
+      <title>Justine Skye &amp; KAYTRANADA - Oh Lala</title>
+      <link>https://www.google.com/search?q=Justine%20Skye%20%26%20KAYTRANADA%20Oh%20Lala</link>
+      <guid isPermaLink="false">Justine Skye &amp; KAYTRANADA - Oh Lala</guid>
+    </item>
+    <item>
+      <title>Lady Gaga - Abracadabra</title>
+      <link>https://www.google.com/search?q=Lady%20Gaga%20Abracadabra</link>
+      <guid isPermaLink="false">Lady Gaga - Abracadabra</guid>
     </item>
     <item>
       <title>Sabrina Carpenter - Espresso</title>
@@ -26,24 +31,14 @@
       <guid isPermaLink="false">Ed Sheeran - Azizam</guid>
     </item>
     <item>
-      <title>Justine Skye &amp; KAYTRANADA - Oh Lala</title>
-      <link>https://www.google.com/search?q=Justine%20Skye%20%26%20KAYTRANADA%20Oh%20Lala</link>
-      <guid isPermaLink="false">Justine Skye &amp; KAYTRANADA - Oh Lala</guid>
-    </item>
-    <item>
-      <title>Michaël Brun &amp; Shirazee - Elevate</title>
-      <link>https://www.google.com/search?q=Micha%C3%ABl%20Brun%20%26%20Shirazee%20Elevate</link>
-      <guid isPermaLink="false">Michaël Brun &amp; Shirazee - Elevate</guid>
+      <title>Chris Daniel &amp; Lia Knapp - Good Day</title>
+      <link>https://www.google.com/search?q=Chris%20Daniel%20%26%20Lia%20Knapp%20Good%20Day</link>
+      <guid isPermaLink="false">Chris Daniel &amp; Lia Knapp - Good Day</guid>
     </item>
     <item>
       <title>Rosé &amp; Bruno Mars - APT.</title>
       <link>https://www.google.com/search?q=Ros%C3%A9%20%26%20Bruno%20Mars%20APT.</link>
       <guid isPermaLink="false">Rosé &amp; Bruno Mars - APT.</guid>
-    </item>
-    <item>
-      <title>Russell Dickerson - Happen To Me</title>
-      <link>https://www.google.com/search?q=Russell%20Dickerson%20Happen%20To%20Me</link>
-      <guid isPermaLink="false">Russell Dickerson - Happen To Me</guid>
     </item>
     <item>
       <title>Doechii - Anxiety</title>
@@ -56,14 +51,19 @@
       <guid isPermaLink="false">DJ Snake &amp; Bipolar Sunshine - Paradise</guid>
     </item>
     <item>
-      <title>Dasha - Not At This Party</title>
-      <link>https://www.google.com/search?q=Dasha%20Not%20At%20This%20Party</link>
-      <guid isPermaLink="false">Dasha - Not At This Party</guid>
+      <title>Russell Dickerson - Happen To Me</title>
+      <link>https://www.google.com/search?q=Russell%20Dickerson%20Happen%20To%20Me</link>
+      <guid isPermaLink="false">Russell Dickerson - Happen To Me</guid>
     </item>
     <item>
       <title>Tate McRae - Just Keep Watching</title>
       <link>https://www.google.com/search?q=Tate%20McRae%20Just%20Keep%20Watching</link>
       <guid isPermaLink="false">Tate McRae - Just Keep Watching</guid>
+    </item>
+    <item>
+      <title>Dasha - Not At This Party</title>
+      <link>https://www.google.com/search?q=Dasha%20Not%20At%20This%20Party</link>
+      <guid isPermaLink="false">Dasha - Not At This Party</guid>
     </item>
     <item>
       <title>Ed Sheeran - Sapphire</title>
