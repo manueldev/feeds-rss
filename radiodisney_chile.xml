@@ -6,14 +6,9 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Miley Cyrus – End Of The World</title>
-      <link>https://www.google.com/search?q=Miley%20Cyrus%20-%20End%20Of%20The%20World</link>
-      <guid isPermaLink="false">Miley Cyrus – End Of The World</guid>
-    </item>
-    <item>
-      <title>Carlos Rivera &amp; Andres Obregon – La Historia Jamas Contada</title>
-      <link>https://www.google.com/search?q=Carlos%20Rivera%20%26%20Andres%20Obregon%20-%20La%20Historia%20Jamas%20Contada</link>
-      <guid isPermaLink="false">Carlos Rivera &amp; Andres Obregon – La Historia Jamas Contada</guid>
+      <title>Sebastian Yatra – La Pelirroja</title>
+      <link>https://www.google.com/search?q=Sebastian%20Yatra%20-%20La%20Pelirroja</link>
+      <guid isPermaLink="false">Sebastian Yatra – La Pelirroja</guid>
     </item>
     <item>
       <title>Karol G – Latina Foreva</title>
@@ -21,9 +16,9 @@
       <guid isPermaLink="false">Karol G – Latina Foreva</guid>
     </item>
     <item>
-      <title>Pablo Alboran – KM 0</title>
-      <link>https://www.google.com/search?q=Pablo%20Alboran%20-%20KM%200</link>
-      <guid isPermaLink="false">Pablo Alboran – KM 0</guid>
+      <title>SebastiÃ¡n Yatra – Milagro</title>
+      <link>https://www.google.com/search?q=Sebasti%C3%83%C2%A1n%20Yatra%20-%20Milagro</link>
+      <guid isPermaLink="false">SebastiÃ¡n Yatra – Milagro</guid>
     </item>
     <item>
       <title>Manuel Turizo &amp; KAPO – Que Pecao</title>
@@ -31,34 +26,19 @@
       <guid isPermaLink="false">Manuel Turizo &amp; KAPO – Que Pecao</guid>
     </item>
     <item>
-      <title>RÃ­o Roma &amp; HaAsh – La Ãltima Carta</title>
-      <link>https://www.google.com/search?q=R%C3%83%C2%ADo%20Roma%20%26%20HaAsh%20-%20La%20%C3%83%C2%9Altima%20Carta</link>
-      <guid isPermaLink="false">RÃ­o Roma &amp; HaAsh – La Ãltima Carta</guid>
+      <title>Morat – Vuelvo a Ti</title>
+      <link>https://www.google.com/search?q=Morat%20-%20Vuelvo%20a%20Ti</link>
+      <guid isPermaLink="false">Morat – Vuelvo a Ti</guid>
     </item>
     <item>
-      <title>Rauw Alejandro &amp; Romeo Santos – Khe</title>
-      <link>https://www.google.com/search?q=Rauw%20Alejandro%20%26%20Romeo%20Santos%20-%20Khe</link>
-      <guid isPermaLink="false">Rauw Alejandro &amp; Romeo Santos – Khe</guid>
-    </item>
-    <item>
-      <title>Katy Perry – Crush</title>
-      <link>https://www.google.com/search?q=Katy%20Perry%20-%20Crush</link>
-      <guid isPermaLink="false">Katy Perry – Crush</guid>
-    </item>
-    <item>
-      <title>Shakira – Soltera</title>
-      <link>https://www.google.com/search?q=Shakira%20-%20Soltera</link>
-      <guid isPermaLink="false">Shakira – Soltera</guid>
+      <title>Pablo Alboran – KM 0</title>
+      <link>https://www.google.com/search?q=Pablo%20Alboran%20-%20KM%200</link>
+      <guid isPermaLink="false">Pablo Alboran – KM 0</guid>
     </item>
     <item>
       <title>Tini – El Cielo</title>
       <link>https://www.google.com/search?q=Tini%20-%20El%20Cielo</link>
       <guid isPermaLink="false">Tini – El Cielo</guid>
-    </item>
-    <item>
-      <title>Miley Cyrus – Easy Lover</title>
-      <link>https://www.google.com/search?q=Miley%20Cyrus%20-%20Easy%20Lover</link>
-      <guid isPermaLink="false">Miley Cyrus – Easy Lover</guid>
     </item>
     <item>
       <title>Lady Gaga – Abracadabra</title>
@@ -71,9 +51,19 @@
       <guid isPermaLink="false">Yami Safdie &amp; Camilo – Querida Yo</guid>
     </item>
     <item>
-      <title>Silvestre Dangond &amp; Emilia – Vestido rojo</title>
-      <link>https://www.google.com/search?q=Silvestre%20Dangond%20%26%20Emilia%20-%20Vestido%20rojo</link>
-      <guid isPermaLink="false">Silvestre Dangond &amp; Emilia – Vestido rojo</guid>
+      <title>Shakira – Soltera</title>
+      <link>https://www.google.com/search?q=Shakira%20-%20Soltera</link>
+      <guid isPermaLink="false">Shakira – Soltera</guid>
+    </item>
+    <item>
+      <title>Katy Perry – Crush</title>
+      <link>https://www.google.com/search?q=Katy%20Perry%20-%20Crush</link>
+      <guid isPermaLink="false">Katy Perry – Crush</guid>
+    </item>
+    <item>
+      <title>Sabrina Carpenter – Manchild</title>
+      <link>https://www.google.com/search?q=Sabrina%20Carpenter%20-%20Manchild</link>
+      <guid isPermaLink="false">Sabrina Carpenter – Manchild</guid>
     </item>
     <item>
       <title>Bad Bunny – Turista</title>
@@ -81,9 +71,14 @@
       <guid isPermaLink="false">Bad Bunny – Turista</guid>
     </item>
     <item>
-      <title>Aitana &amp; Myke Towers – Sentimiento Natural</title>
-      <link>https://www.google.com/search?q=Aitana%20%26%20Myke%20Towers%20-%20Sentimiento%20Natural</link>
-      <guid isPermaLink="false">Aitana &amp; Myke Towers – Sentimiento Natural</guid>
+      <title>Silvestre Dangond &amp; Emilia – Vestido rojo</title>
+      <link>https://www.google.com/search?q=Silvestre%20Dangond%20%26%20Emilia%20-%20Vestido%20rojo</link>
+      <guid isPermaLink="false">Silvestre Dangond &amp; Emilia – Vestido rojo</guid>
+    </item>
+    <item>
+      <title>Karol G – Milagros</title>
+      <link>https://www.google.com/search?q=Karol%20G%20-%20Milagros</link>
+      <guid isPermaLink="false">Karol G – Milagros</guid>
     </item>
     <item>
       <title>Prince Royce – How Deep Is Your Love</title>
@@ -91,14 +86,9 @@
       <guid isPermaLink="false">Prince Royce – How Deep Is Your Love</guid>
     </item>
     <item>
-      <title>Alejandro Sanz &amp; Shakira – Besame</title>
-      <link>https://www.google.com/search?q=Alejandro%20Sanz%20%26%20Shakira%20-%20Besame</link>
-      <guid isPermaLink="false">Alejandro Sanz &amp; Shakira – Besame</guid>
-    </item>
-    <item>
-      <title>Reik &amp; Yami Safdie – Es Tan Corta la Vida</title>
-      <link>https://www.google.com/search?q=Reik%20%26%20Yami%20Safdie%20-%20Es%20Tan%20Corta%20la%20Vida</link>
-      <guid isPermaLink="false">Reik &amp; Yami Safdie – Es Tan Corta la Vida</guid>
+      <title>Aitana &amp; Myke Towers – Sentimiento Natural</title>
+      <link>https://www.google.com/search?q=Aitana%20%26%20Myke%20Towers%20-%20Sentimiento%20Natural</link>
+      <guid isPermaLink="false">Aitana &amp; Myke Towers – Sentimiento Natural</guid>
     </item>
     <item>
       <title>j-hope – Mona Lisa</title>
@@ -106,14 +96,19 @@
       <guid isPermaLink="false">j-hope – Mona Lisa</guid>
     </item>
     <item>
-      <title>Maroon 5 &amp; Lisa – Priceless</title>
-      <link>https://www.google.com/search?q=Maroon%205%20%26%20Lisa%20-%20Priceless</link>
-      <guid isPermaLink="false">Maroon 5 &amp; Lisa – Priceless</guid>
-    </item>
-    <item>
       <title>Kapo – Aloh Aloh</title>
       <link>https://www.google.com/search?q=Kapo%20-%20Aloh%20Aloh</link>
       <guid isPermaLink="false">Kapo – Aloh Aloh</guid>
+    </item>
+    <item>
+      <title>Miley Cyrus – Easy Lover</title>
+      <link>https://www.google.com/search?q=Miley%20Cyrus%20-%20Easy%20Lover</link>
+      <guid isPermaLink="false">Miley Cyrus – Easy Lover</guid>
+    </item>
+    <item>
+      <title>Maroon 5 &amp; Lisa – Priceless</title>
+      <link>https://www.google.com/search?q=Maroon%205%20%26%20Lisa%20-%20Priceless</link>
+      <guid isPermaLink="false">Maroon 5 &amp; Lisa – Priceless</guid>
     </item>
     <item>
       <title>Ed Sheeran – Azizam</title>
@@ -121,14 +116,9 @@
       <guid isPermaLink="false">Ed Sheeran – Azizam</guid>
     </item>
     <item>
-      <title>Sebastian Yatra – La Pelirroja</title>
-      <link>https://www.google.com/search?q=Sebastian%20Yatra%20-%20La%20Pelirroja</link>
-      <guid isPermaLink="false">Sebastian Yatra – La Pelirroja</guid>
-    </item>
-    <item>
-      <title>Miranda! &amp; Tini – Me Gusta</title>
-      <link>https://www.google.com/search?q=Miranda%21%20%26%20Tini%20-%20Me%20Gusta</link>
-      <guid isPermaLink="false">Miranda! &amp; Tini – Me Gusta</guid>
+      <title>Carlos Rivera – QuÃ© Significa el Amor</title>
+      <link>https://www.google.com/search?q=Carlos%20Rivera%20-%20Qu%C3%83%C2%A9%20Significa%20el%20Amor</link>
+      <guid isPermaLink="false">Carlos Rivera – QuÃ© Significa el Amor</guid>
     </item>
     <item>
       <title>RosÃ© – Number One Girl</title>
@@ -136,9 +126,14 @@
       <guid isPermaLink="false">RosÃ© – Number One Girl</guid>
     </item>
     <item>
-      <title>Morat &amp; Camilo – Me Toca a Mi</title>
-      <link>https://www.google.com/search?q=Morat%20%26%20Camilo%20-%20Me%20Toca%20a%20Mi</link>
-      <guid isPermaLink="false">Morat &amp; Camilo – Me Toca a Mi</guid>
+      <title>Reik &amp; Yami Safdie – Es Tan Corta la Vida</title>
+      <link>https://www.google.com/search?q=Reik%20%26%20Yami%20Safdie%20-%20Es%20Tan%20Corta%20la%20Vida</link>
+      <guid isPermaLink="false">Reik &amp; Yami Safdie – Es Tan Corta la Vida</guid>
+    </item>
+    <item>
+      <title>Alejandro Sanz &amp; Shakira – Besame</title>
+      <link>https://www.google.com/search?q=Alejandro%20Sanz%20%26%20Shakira%20-%20Besame</link>
+      <guid isPermaLink="false">Alejandro Sanz &amp; Shakira – Besame</guid>
     </item>
     <item>
       <title>Elena Rose, Ãngeles Azules &amp; Camilo – Carteras Chinas</title>
@@ -146,14 +141,19 @@
       <guid isPermaLink="false">Elena Rose, Ãngeles Azules &amp; Camilo – Carteras Chinas</guid>
     </item>
     <item>
-      <title>Carlos Rivera – QuÃ© Significa el Amor</title>
-      <link>https://www.google.com/search?q=Carlos%20Rivera%20-%20Qu%C3%83%C2%A9%20Significa%20el%20Amor</link>
-      <guid isPermaLink="false">Carlos Rivera – QuÃ© Significa el Amor</guid>
-    </item>
-    <item>
       <title>Benson Boone – Mystical Magica</title>
       <link>https://www.google.com/search?q=Benson%20Boone%20-%20Mystical%20Magica</link>
       <guid isPermaLink="false">Benson Boone – Mystical Magica</guid>
+    </item>
+    <item>
+      <title>Miranda! &amp; Tini – Me Gusta</title>
+      <link>https://www.google.com/search?q=Miranda%21%20%26%20Tini%20-%20Me%20Gusta</link>
+      <guid isPermaLink="false">Miranda! &amp; Tini – Me Gusta</guid>
+    </item>
+    <item>
+      <title>Morat &amp; Camilo – Me Toca a Mi</title>
+      <link>https://www.google.com/search?q=Morat%20%26%20Camilo%20-%20Me%20Toca%20a%20Mi</link>
+      <guid isPermaLink="false">Morat &amp; Camilo – Me Toca a Mi</guid>
     </item>
   </channel>
 </rss>
