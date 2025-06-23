@@ -6,34 +6,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Pitbull &amp; Sensato - No Te Hagas</title>
-      <link>https://www.google.com/search?q=Pitbull%20%26%20Sensato%20No%20Te%20Hagas</link>
-      <guid isPermaLink="false">Pitbull &amp; Sensato - No Te Hagas</guid>
-    </item>
-    <item>
-      <title>Bad Bunny - EoO</title>
-      <link>https://www.google.com/search?q=Bad%20Bunny%20EoO</link>
-      <guid isPermaLink="false">Bad Bunny - EoO</guid>
-    </item>
-    <item>
-      <title>David Guetta, Willy William &amp; Nicky Jam - Cuentale</title>
-      <link>https://www.google.com/search?q=David%20Guetta%2C%20Willy%20William%20%26%20Nicky%20Jam%20Cuentale</link>
-      <guid isPermaLink="false">David Guetta, Willy William &amp; Nicky Jam - Cuentale</guid>
-    </item>
-    <item>
-      <title>Feid - NO ME DEJO XXIMBIAR</title>
-      <link>https://www.google.com/search?q=Feid%20NO%20ME%20DEJO%20XXIMBIAR</link>
-      <guid isPermaLink="false">Feid - NO ME DEJO XXIMBIAR</guid>
-    </item>
-    <item>
       <title>Bad Bunny - NUEVAYoL</title>
       <link>https://www.google.com/search?q=Bad%20Bunny%20NUEVAYoL</link>
       <guid isPermaLink="false">Bad Bunny - NUEVAYoL</guid>
     </item>
     <item>
-      <title>KAROL G - FKN Movie</title>
-      <link>https://www.google.com/search?q=KAROL%20G%20FKN%20Movie</link>
-      <guid isPermaLink="false">KAROL G - FKN Movie</guid>
+      <title>KAROL G - Tropicoqueta</title>
+      <link>https://www.google.com/search?q=KAROL%20G%20Tropicoqueta</link>
+      <guid isPermaLink="false">KAROL G - Tropicoqueta</guid>
+    </item>
+    <item>
+      <title>KAROL G - Cuando Me Muerta Te Olvido</title>
+      <link>https://www.google.com/search?q=KAROL%20G%20Cuando%20Me%20Muerta%20Te%20Olvido</link>
+      <guid isPermaLink="false">KAROL G - Cuando Me Muerta Te Olvido</guid>
     </item>
     <item>
       <title>Feid - KELOIDE</title>
@@ -41,14 +26,34 @@
       <guid isPermaLink="false">Feid - KELOIDE</guid>
     </item>
     <item>
-      <title>Fiamma &amp; Shenseea - Aguita E Coco</title>
-      <link>https://www.google.com/search?q=Fiamma%20%26%20Shenseea%20Aguita%20E%20Coco</link>
-      <guid isPermaLink="false">Fiamma &amp; Shenseea - Aguita E Coco</guid>
+      <title>Diplo, Benny Benassi &amp; Nfasis - TOMA TOMA</title>
+      <link>https://www.google.com/search?q=Diplo%2C%20Benny%20Benassi%20%26%20Nfasis%20TOMA%20TOMA</link>
+      <guid isPermaLink="false">Diplo, Benny Benassi &amp; Nfasis - TOMA TOMA</guid>
+    </item>
+    <item>
+      <title>KAROL G &amp; Feid - Verano Rosa</title>
+      <link>https://www.google.com/search?q=KAROL%20G%20%26%20Feid%20Verano%20Rosa</link>
+      <guid isPermaLink="false">KAROL G &amp; Feid - Verano Rosa</guid>
     </item>
     <item>
       <title>KAROL G - LATINA FOREVA</title>
       <link>https://www.google.com/search?q=KAROL%20G%20LATINA%20FOREVA</link>
       <guid isPermaLink="false">KAROL G - LATINA FOREVA</guid>
+    </item>
+    <item>
+      <title>KAROL G - FKN Movie</title>
+      <link>https://www.google.com/search?q=KAROL%20G%20FKN%20Movie</link>
+      <guid isPermaLink="false">KAROL G - FKN Movie</guid>
+    </item>
+    <item>
+      <title>IAmChino, Pitbull &amp; Victor Cardenas - Soy Asi</title>
+      <link>https://www.google.com/search?q=IAmChino%2C%20Pitbull%20%26%20Victor%20Cardenas%20Soy%20Asi</link>
+      <guid isPermaLink="false">IAmChino, Pitbull &amp; Victor Cardenas - Soy Asi</guid>
+    </item>
+    <item>
+      <title>Fiamma &amp; Shenseea - Aguita E Coco</title>
+      <link>https://www.google.com/search?q=Fiamma%20%26%20Shenseea%20Aguita%20E%20Coco</link>
+      <guid isPermaLink="false">Fiamma &amp; Shenseea - Aguita E Coco</guid>
     </item>
     <item>
       <title>Ovy On The Drums, Quevedo &amp; Beéle - YO y TÚ</title>
@@ -59,11 +64,6 @@
       <title>Yandel, Dei V &amp; Square Houze - Replay</title>
       <link>https://www.google.com/search?q=Yandel%2C%20Dei%20V%20%26%20Square%20Houze%20Replay</link>
       <guid isPermaLink="false">Yandel, Dei V &amp; Square Houze - Replay</guid>
-    </item>
-    <item>
-      <title>IAmChino, Pitbull &amp; Victor Cardenas - Soy Asi</title>
-      <link>https://www.google.com/search?q=IAmChino%2C%20Pitbull%20%26%20Victor%20Cardenas%20Soy%20Asi</link>
-      <guid isPermaLink="false">IAmChino, Pitbull &amp; Victor Cardenas - Soy Asi</guid>
     </item>
     <item>
       <title>Tokischa &amp; Bulin 47 - CELOS</title>
