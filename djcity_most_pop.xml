@@ -6,6 +6,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
+      <title>Lola Young - Not Like That Anymore</title>
+      <link>https://www.google.com/search?q=Lola%20Young%20Not%20Like%20That%20Anymore</link>
+      <guid isPermaLink="false">Lola Young - Not Like That Anymore</guid>
+    </item>
+    <item>
       <title>Lady Gaga - Abracadabra</title>
       <link>https://www.google.com/search?q=Lady%20Gaga%20Abracadabra</link>
       <guid isPermaLink="false">Lady Gaga - Abracadabra</guid>
@@ -14,21 +19,6 @@
       <title>Sabrina Carpenter - Manchild</title>
       <link>https://www.google.com/search?q=Sabrina%20Carpenter%20Manchild</link>
       <guid isPermaLink="false">Sabrina Carpenter - Manchild</guid>
-    </item>
-    <item>
-      <title>Lola Young - Not Like That Anymore</title>
-      <link>https://www.google.com/search?q=Lola%20Young%20Not%20Like%20That%20Anymore</link>
-      <guid isPermaLink="false">Lola Young - Not Like That Anymore</guid>
-    </item>
-    <item>
-      <title>Doechii - Anxiety</title>
-      <link>https://www.google.com/search?q=Doechii%20Anxiety</link>
-      <guid isPermaLink="false">Doechii - Anxiety</guid>
-    </item>
-    <item>
-      <title>Ed Sheeran - Sapphire</title>
-      <link>https://www.google.com/search?q=Ed%20Sheeran%20Sapphire</link>
-      <guid isPermaLink="false">Ed Sheeran - Sapphire</guid>
     </item>
     <item>
       <title>Teddy Swims &amp; BigXthaPlug - All Gas No Brakes</title>
@@ -41,9 +31,24 @@
       <guid isPermaLink="false">Will Smith - Pretty Girls</guid>
     </item>
     <item>
+      <title>Ed Sheeran - Sapphire</title>
+      <link>https://www.google.com/search?q=Ed%20Sheeran%20Sapphire</link>
+      <guid isPermaLink="false">Ed Sheeran - Sapphire</guid>
+    </item>
+    <item>
+      <title>Doechii - Anxiety</title>
+      <link>https://www.google.com/search?q=Doechii%20Anxiety</link>
+      <guid isPermaLink="false">Doechii - Anxiety</guid>
+    </item>
+    <item>
       <title>Tyla - Everything Goes With Blue</title>
       <link>https://www.google.com/search?q=Tyla%20Everything%20Goes%20With%20Blue</link>
       <guid isPermaLink="false">Tyla - Everything Goes With Blue</guid>
+    </item>
+    <item>
+      <title>Ed Sheeran - Drive</title>
+      <link>https://www.google.com/search?q=Ed%20Sheeran%20Drive</link>
+      <guid isPermaLink="false">Ed Sheeran - Drive</guid>
     </item>
     <item>
       <title>Fantomel &amp; KATE LINN - Dame Un Grrr</title>
@@ -54,11 +59,6 @@
       <title>Lizzo - IRL</title>
       <link>https://www.google.com/search?q=Lizzo%20IRL</link>
       <guid isPermaLink="false">Lizzo - IRL</guid>
-    </item>
-    <item>
-      <title>Ed Sheeran - Drive</title>
-      <link>https://www.google.com/search?q=Ed%20Sheeran%20Drive</link>
-      <guid isPermaLink="false">Ed Sheeran - Drive</guid>
     </item>
     <item>
       <title>Maroon 5 - All Night</title>
