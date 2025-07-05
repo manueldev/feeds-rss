@@ -6,9 +6,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>HUGEL, Topic &amp; Arash - I Adore You</title>
-      <link>https://www.google.com/search?q=HUGEL%2C%20Topic%20%26%20Arash%20I%20Adore%20You</link>
-      <guid isPermaLink="false">HUGEL, Topic &amp; Arash - I Adore You</guid>
+      <title>Martin Garrix &amp; Citadelle - Peace Of Mind</title>
+      <link>https://www.google.com/search?q=Martin%20Garrix%20%26%20Citadelle%20Peace%20Of%20Mind</link>
+      <guid isPermaLink="false">Martin Garrix &amp; Citadelle - Peace Of Mind</guid>
+    </item>
+    <item>
+      <title>Glass Petals &amp; Rose Motion - Just Let Go</title>
+      <link>https://www.google.com/search?q=Glass%20Petals%20%26%20Rose%20Motion%20Just%20Let%20Go</link>
+      <guid isPermaLink="false">Glass Petals &amp; Rose Motion - Just Let Go</guid>
     </item>
     <item>
       <title>Laidback Luke &amp; Linney - Gasoline</title>
@@ -16,14 +21,19 @@
       <guid isPermaLink="false">Laidback Luke &amp; Linney - Gasoline</guid>
     </item>
     <item>
-      <title>Huge Carter - Pon De Replay</title>
-      <link>https://www.google.com/search?q=Huge%20Carter%20Pon%20De%20Replay</link>
-      <guid isPermaLink="false">Huge Carter - Pon De Replay</guid>
+      <title>David Guetta &amp; Cedric Gervais - If (A Better World)</title>
+      <link>https://www.google.com/search?q=David%20Guetta%20%26%20Cedric%20Gervais%20If%20%28A%20Better%20World%29</link>
+      <guid isPermaLink="false">David Guetta &amp; Cedric Gervais - If (A Better World)</guid>
     </item>
     <item>
       <title>Loud Luxury - R U Down</title>
       <link>https://www.google.com/search?q=Loud%20Luxury%20R%20U%20Down</link>
       <guid isPermaLink="false">Loud Luxury - R U Down</guid>
+    </item>
+    <item>
+      <title>Disco Lines &amp; Tinashe - No Broke Boys</title>
+      <link>https://www.google.com/search?q=Disco%20Lines%20%26%20Tinashe%20No%20Broke%20Boys</link>
+      <guid isPermaLink="false">Disco Lines &amp; Tinashe - No Broke Boys</guid>
     </item>
     <item>
       <title>Glass Petals - Crazy Shit</title>
@@ -34,16 +44,6 @@
       <title>DJ Serg - People (Latinos In Da House)</title>
       <link>https://www.google.com/search?q=DJ%20Serg%20People%20%28Latinos%20In%20Da%20House%29</link>
       <guid isPermaLink="false">DJ Serg - People (Latinos In Da House)</guid>
-    </item>
-    <item>
-      <title>Disco Lines &amp; Tinashe - No Broke Boys</title>
-      <link>https://www.google.com/search?q=Disco%20Lines%20%26%20Tinashe%20No%20Broke%20Boys</link>
-      <guid isPermaLink="false">Disco Lines &amp; Tinashe - No Broke Boys</guid>
-    </item>
-    <item>
-      <title>David Guetta &amp; Cedric Gervais - If (A Better World)</title>
-      <link>https://www.google.com/search?q=David%20Guetta%20%26%20Cedric%20Gervais%20If%20%28A%20Better%20World%29</link>
-      <guid isPermaLink="false">David Guetta &amp; Cedric Gervais - If (A Better World)</guid>
     </item>
     <item>
       <title>Bingo Players, Disco Fries &amp; Boy Meets Girl - For A Star To Fall</title>
@@ -61,14 +61,14 @@
       <guid isPermaLink="false">HUGEL, Dawty &amp; Preston Harris - Loosen Up</guid>
     </item>
     <item>
-      <title>Stryv, Malachiii &amp; Adam Port - Positions</title>
-      <link>https://www.google.com/search?q=Stryv%2C%20Malachiii%20%26%20Adam%20Port%20Positions</link>
-      <guid isPermaLink="false">Stryv, Malachiii &amp; Adam Port - Positions</guid>
-    </item>
-    <item>
       <title>Majestic, L.A Discotekkers &amp; Dazz Band - Let It Whip</title>
       <link>https://www.google.com/search?q=Majestic%2C%20L.A%20Discotekkers%20%26%20Dazz%20Band%20Let%20It%20Whip</link>
       <guid isPermaLink="false">Majestic, L.A Discotekkers &amp; Dazz Band - Let It Whip</guid>
+    </item>
+    <item>
+      <title>Stryv, Malachiii &amp; Adam Port - Positions</title>
+      <link>https://www.google.com/search?q=Stryv%2C%20Malachiii%20%26%20Adam%20Port%20Positions</link>
+      <guid isPermaLink="false">Stryv, Malachiii &amp; Adam Port - Positions</guid>
     </item>
     <item>
       <title>HUGEL, Tom Enzy &amp; Jdr - Sonidito</title>
