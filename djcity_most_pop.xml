@@ -6,14 +6,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
+      <title>Sabrina Carpenter - Manchild</title>
+      <link>https://www.google.com/search?q=Sabrina%20Carpenter%20Manchild</link>
+      <guid isPermaLink="false">Sabrina Carpenter - Manchild</guid>
+    </item>
+    <item>
       <title>Royel Otis - car</title>
       <link>https://www.google.com/search?q=Royel%20Otis%20car</link>
       <guid isPermaLink="false">Royel Otis - car</guid>
-    </item>
-    <item>
-      <title>Alex Warren &amp; ROSÉ - On My Mind</title>
-      <link>https://www.google.com/search?q=Alex%20Warren%20%26%20ROS%C3%89%20On%20My%20Mind</link>
-      <guid isPermaLink="false">Alex Warren &amp; ROSÉ - On My Mind</guid>
     </item>
     <item>
       <title>Lady Gaga - Abracadabra</title>
@@ -21,9 +21,9 @@
       <guid isPermaLink="false">Lady Gaga - Abracadabra</guid>
     </item>
     <item>
-      <title>Lorde - Shapeshifter</title>
-      <link>https://www.google.com/search?q=Lorde%20Shapeshifter</link>
-      <guid isPermaLink="false">Lorde - Shapeshifter</guid>
+      <title>Alex Warren &amp; ROSÉ - On My Mind</title>
+      <link>https://www.google.com/search?q=Alex%20Warren%20%26%20ROS%C3%89%20On%20My%20Mind</link>
+      <guid isPermaLink="false">Alex Warren &amp; ROSÉ - On My Mind</guid>
     </item>
     <item>
       <title>Ed Sheeran - Sapphire</title>
@@ -31,19 +31,14 @@
       <guid isPermaLink="false">Ed Sheeran - Sapphire</guid>
     </item>
     <item>
-      <title>Lavish Life - All Night Long</title>
-      <link>https://www.google.com/search?q=Lavish%20Life%20All%20Night%20Long</link>
-      <guid isPermaLink="false">Lavish Life - All Night Long</guid>
+      <title>Lorde - Shapeshifter</title>
+      <link>https://www.google.com/search?q=Lorde%20Shapeshifter</link>
+      <guid isPermaLink="false">Lorde - Shapeshifter</guid>
     </item>
     <item>
       <title>Doechii - Anxiety</title>
       <link>https://www.google.com/search?q=Doechii%20Anxiety</link>
       <guid isPermaLink="false">Doechii - Anxiety</guid>
-    </item>
-    <item>
-      <title>BigXthaPlug &amp; Shaboozey - Home</title>
-      <link>https://www.google.com/search?q=BigXthaPlug%20%26%20Shaboozey%20Home</link>
-      <guid isPermaLink="false">BigXthaPlug &amp; Shaboozey - Home</guid>
     </item>
     <item>
       <title>Lizzo - IRL</title>
@@ -54,6 +49,11 @@
       <title>Maroon 5 - All Night</title>
       <link>https://www.google.com/search?q=Maroon%205%20All%20Night</link>
       <guid isPermaLink="false">Maroon 5 - All Night</guid>
+    </item>
+    <item>
+      <title>BigXthaPlug &amp; Shaboozey - Home</title>
+      <link>https://www.google.com/search?q=BigXthaPlug%20%26%20Shaboozey%20Home</link>
+      <guid isPermaLink="false">BigXthaPlug &amp; Shaboozey - Home</guid>
     </item>
     <item>
       <title>Tiësto &amp; Sexyy Red - OMG!</title>
