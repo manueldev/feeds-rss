@@ -6,24 +6,9 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Glass Petals - Crazy Shit</title>
-      <link>https://www.google.com/search?q=Glass%20Petals%20Crazy%20Shit</link>
-      <guid isPermaLink="false">Glass Petals - Crazy Shit</guid>
-    </item>
-    <item>
       <title>JareB34R &amp; Jones 2.0 - The Plug</title>
       <link>https://www.google.com/search?q=JareB34R%20%26%20Jones%202.0%20The%20Plug</link>
       <guid isPermaLink="false">JareB34R &amp; Jones 2.0 - The Plug</guid>
-    </item>
-    <item>
-      <title>ZULAN - Campeón</title>
-      <link>https://www.google.com/search?q=ZULAN%20Campe%C3%B3n</link>
-      <guid isPermaLink="false">ZULAN - Campeón</guid>
-    </item>
-    <item>
-      <title>Bingo Players, Disco Fries &amp; Boy Meets Girl - For A Star To Fall</title>
-      <link>https://www.google.com/search?q=Bingo%20Players%2C%20Disco%20Fries%20%26%20Boy%20Meets%20Girl%20For%20A%20Star%20To%20Fall</link>
-      <guid isPermaLink="false">Bingo Players, Disco Fries &amp; Boy Meets Girl - For A Star To Fall</guid>
     </item>
     <item>
       <title>Rosario - Let's Dip</title>
@@ -31,9 +16,29 @@
       <guid isPermaLink="false">Rosario - Let's Dip</guid>
     </item>
     <item>
+      <title>Bingo Players, Disco Fries &amp; Boy Meets Girl - For A Star To Fall</title>
+      <link>https://www.google.com/search?q=Bingo%20Players%2C%20Disco%20Fries%20%26%20Boy%20Meets%20Girl%20For%20A%20Star%20To%20Fall</link>
+      <guid isPermaLink="false">Bingo Players, Disco Fries &amp; Boy Meets Girl - For A Star To Fall</guid>
+    </item>
+    <item>
+      <title>The Scene Kings - Everybody's Dancing</title>
+      <link>https://www.google.com/search?q=The%20Scene%20Kings%20Everybody%27s%20Dancing</link>
+      <guid isPermaLink="false">The Scene Kings - Everybody's Dancing</guid>
+    </item>
+    <item>
+      <title>ZULAN - Campeón</title>
+      <link>https://www.google.com/search?q=ZULAN%20Campe%C3%B3n</link>
+      <guid isPermaLink="false">ZULAN - Campeón</guid>
+    </item>
+    <item>
       <title>Disco Lines &amp; Tinashe - No Broke Boys</title>
       <link>https://www.google.com/search?q=Disco%20Lines%20%26%20Tinashe%20No%20Broke%20Boys</link>
       <guid isPermaLink="false">Disco Lines &amp; Tinashe - No Broke Boys</guid>
+    </item>
+    <item>
+      <title>HUGEL, Dawty &amp; Preston Harris - Loosen Up</title>
+      <link>https://www.google.com/search?q=HUGEL%2C%20Dawty%20%26%20Preston%20Harris%20Loosen%20Up</link>
+      <guid isPermaLink="false">HUGEL, Dawty &amp; Preston Harris - Loosen Up</guid>
     </item>
     <item>
       <title>Glass Petals &amp; Rose Motion - Just Let Go</title>
@@ -46,14 +51,14 @@
       <guid isPermaLink="false">Martin Garrix &amp; Citadelle - Peace Of Mind</guid>
     </item>
     <item>
-      <title>HUGEL, Dawty &amp; Preston Harris - Loosen Up</title>
-      <link>https://www.google.com/search?q=HUGEL%2C%20Dawty%20%26%20Preston%20Harris%20Loosen%20Up</link>
-      <guid isPermaLink="false">HUGEL, Dawty &amp; Preston Harris - Loosen Up</guid>
-    </item>
-    <item>
       <title>Majestic, L.A Discotekkers &amp; Dazz Band - Let It Whip</title>
       <link>https://www.google.com/search?q=Majestic%2C%20L.A%20Discotekkers%20%26%20Dazz%20Band%20Let%20It%20Whip</link>
       <guid isPermaLink="false">Majestic, L.A Discotekkers &amp; Dazz Band - Let It Whip</guid>
+    </item>
+    <item>
+      <title>Stryv, Malachiii &amp; Adam Port - Positions</title>
+      <link>https://www.google.com/search?q=Stryv%2C%20Malachiii%20%26%20Adam%20Port%20Positions</link>
+      <guid isPermaLink="false">Stryv, Malachiii &amp; Adam Port - Positions</guid>
     </item>
     <item>
       <title>DJ Serg - People (Latinos In Da House)</title>
@@ -64,11 +69,6 @@
       <title>David Guetta, Hypaton &amp; Bonnie Tyler - Together</title>
       <link>https://www.google.com/search?q=David%20Guetta%2C%20Hypaton%20%26%20Bonnie%20Tyler%20Together</link>
       <guid isPermaLink="false">David Guetta, Hypaton &amp; Bonnie Tyler - Together</guid>
-    </item>
-    <item>
-      <title>Stryv, Malachiii &amp; Adam Port - Positions</title>
-      <link>https://www.google.com/search?q=Stryv%2C%20Malachiii%20%26%20Adam%20Port%20Positions</link>
-      <guid isPermaLink="false">Stryv, Malachiii &amp; Adam Port - Positions</guid>
     </item>
     <item>
       <title>Peggy Gou - D.A.N.C.E</title>

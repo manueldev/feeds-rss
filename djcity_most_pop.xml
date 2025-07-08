@@ -6,9 +6,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Sabrina Carpenter - Manchild</title>
-      <link>https://www.google.com/search?q=Sabrina%20Carpenter%20Manchild</link>
-      <guid isPermaLink="false">Sabrina Carpenter - Manchild</guid>
+      <title>Lady Gaga - Abracadabra</title>
+      <link>https://www.google.com/search?q=Lady%20Gaga%20Abracadabra</link>
+      <guid isPermaLink="false">Lady Gaga - Abracadabra</guid>
+    </item>
+    <item>
+      <title>Ava Max - Wet, Hot American Dream</title>
+      <link>https://www.google.com/search?q=Ava%20Max%20Wet%2C%20Hot%20American%20Dream</link>
+      <guid isPermaLink="false">Ava Max - Wet, Hot American Dream</guid>
     </item>
     <item>
       <title>Royel Otis - car</title>
@@ -16,19 +21,14 @@
       <guid isPermaLink="false">Royel Otis - car</guid>
     </item>
     <item>
-      <title>Lady Gaga - Abracadabra</title>
-      <link>https://www.google.com/search?q=Lady%20Gaga%20Abracadabra</link>
-      <guid isPermaLink="false">Lady Gaga - Abracadabra</guid>
+      <title>Ed Sheeran - Sapphire</title>
+      <link>https://www.google.com/search?q=Ed%20Sheeran%20Sapphire</link>
+      <guid isPermaLink="false">Ed Sheeran - Sapphire</guid>
     </item>
     <item>
       <title>Alex Warren &amp; ROSÉ - On My Mind</title>
       <link>https://www.google.com/search?q=Alex%20Warren%20%26%20ROS%C3%89%20On%20My%20Mind</link>
       <guid isPermaLink="false">Alex Warren &amp; ROSÉ - On My Mind</guid>
-    </item>
-    <item>
-      <title>Ed Sheeran - Sapphire</title>
-      <link>https://www.google.com/search?q=Ed%20Sheeran%20Sapphire</link>
-      <guid isPermaLink="false">Ed Sheeran - Sapphire</guid>
     </item>
     <item>
       <title>Lorde - Shapeshifter</title>
