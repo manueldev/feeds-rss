@@ -6,19 +6,9 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Sabrina Carpenter - Espresso</title>
-      <link>https://www.google.com/search?q=Sabrina%20Carpenter%20Espresso</link>
-      <guid isPermaLink="false">Sabrina Carpenter - Espresso</guid>
-    </item>
-    <item>
       <title>Lady Gaga - Abracadabra</title>
       <link>https://www.google.com/search?q=Lady%20Gaga%20Abracadabra</link>
       <guid isPermaLink="false">Lady Gaga - Abracadabra</guid>
-    </item>
-    <item>
-      <title>BigXthaPlug &amp; Shaboozey - Home</title>
-      <link>https://www.google.com/search?q=BigXthaPlug%20%26%20Shaboozey%20Home</link>
-      <guid isPermaLink="false">BigXthaPlug &amp; Shaboozey - Home</guid>
     </item>
     <item>
       <title>Sabrina Carpenter - Manchild</title>
@@ -36,14 +26,9 @@
       <guid isPermaLink="false">Lizzo - IRL</guid>
     </item>
     <item>
-      <title>Alex Warren - Ordinary</title>
-      <link>https://www.google.com/search?q=Alex%20Warren%20Ordinary</link>
-      <guid isPermaLink="false">Alex Warren - Ordinary</guid>
-    </item>
-    <item>
-      <title>Maroon 5 - All Night</title>
-      <link>https://www.google.com/search?q=Maroon%205%20All%20Night</link>
-      <guid isPermaLink="false">Maroon 5 - All Night</guid>
+      <title>ANNA - DÉSOLÉE</title>
+      <link>https://www.google.com/search?q=ANNA%20D%C3%89SOL%C3%89E</link>
+      <guid isPermaLink="false">ANNA - DÉSOLÉE</guid>
     </item>
     <item>
       <title>Bruno Mars - Bonde do Brunão</title>
@@ -51,9 +36,24 @@
       <guid isPermaLink="false">Bruno Mars - Bonde do Brunão</guid>
     </item>
     <item>
+      <title>Maroon 5 - All Night</title>
+      <link>https://www.google.com/search?q=Maroon%205%20All%20Night</link>
+      <guid isPermaLink="false">Maroon 5 - All Night</guid>
+    </item>
+    <item>
       <title>Doechii - Anxiety</title>
       <link>https://www.google.com/search?q=Doechii%20Anxiety</link>
       <guid isPermaLink="false">Doechii - Anxiety</guid>
+    </item>
+    <item>
+      <title>Alex Warren - Ordinary</title>
+      <link>https://www.google.com/search?q=Alex%20Warren%20Ordinary</link>
+      <guid isPermaLink="false">Alex Warren - Ordinary</guid>
+    </item>
+    <item>
+      <title>Tiësto &amp; Sexyy Red - OMG!</title>
+      <link>https://www.google.com/search?q=Ti%C3%ABsto%20%26%20Sexyy%20Red%20OMG%21</link>
+      <guid isPermaLink="false">Tiësto &amp; Sexyy Red - OMG!</guid>
     </item>
     <item>
       <title>Ava Max - Wet, Hot American Dream</title>
@@ -61,9 +61,9 @@
       <guid isPermaLink="false">Ava Max - Wet, Hot American Dream</guid>
     </item>
     <item>
-      <title>Tiësto &amp; Sexyy Red - OMG!</title>
-      <link>https://www.google.com/search?q=Ti%C3%ABsto%20%26%20Sexyy%20Red%20OMG%21</link>
-      <guid isPermaLink="false">Tiësto &amp; Sexyy Red - OMG!</guid>
+      <title>Justin Bieber - DAISIES</title>
+      <link>https://www.google.com/search?q=Justin%20Bieber%20DAISIES</link>
+      <guid isPermaLink="false">Justin Bieber - DAISIES</guid>
     </item>
     <item>
       <title>Fantomel &amp; KATE LINN - Dame Un Grrr</title>
