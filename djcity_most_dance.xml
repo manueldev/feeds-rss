@@ -6,24 +6,9 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Duke &amp; Jones - Funky Mama</title>
-      <link>https://www.google.com/search?q=Duke%20%26%20Jones%20Funky%20Mama</link>
-      <guid isPermaLink="false">Duke &amp; Jones - Funky Mama</guid>
-    </item>
-    <item>
-      <title>GATTÜSO &amp; Carla Morrison - Abrazarte (Disfruto)</title>
-      <link>https://www.google.com/search?q=GATT%C3%9CSO%20%26%20Carla%20Morrison%20Abrazarte%20%28Disfruto%29</link>
-      <guid isPermaLink="false">GATTÜSO &amp; Carla Morrison - Abrazarte (Disfruto)</guid>
-    </item>
-    <item>
       <title>CASHEW - Tipsy</title>
       <link>https://www.google.com/search?q=CASHEW%20Tipsy</link>
       <guid isPermaLink="false">CASHEW - Tipsy</guid>
-    </item>
-    <item>
-      <title>Jorja Smith - With You</title>
-      <link>https://www.google.com/search?q=Jorja%20Smith%20With%20You</link>
-      <guid isPermaLink="false">Jorja Smith - With You</guid>
     </item>
     <item>
       <title>BRANDON, Lackmus &amp; Kxne - Just Walk In</title>
@@ -31,9 +16,14 @@
       <guid isPermaLink="false">BRANDON, Lackmus &amp; Kxne - Just Walk In</guid>
     </item>
     <item>
-      <title>Disco Lines &amp; Tinashe - No Broke Boys</title>
-      <link>https://www.google.com/search?q=Disco%20Lines%20%26%20Tinashe%20No%20Broke%20Boys</link>
-      <guid isPermaLink="false">Disco Lines &amp; Tinashe - No Broke Boys</guid>
+      <title>HUGEL, Tom Enzy &amp; Jdr - Sonidito</title>
+      <link>https://www.google.com/search?q=HUGEL%2C%20Tom%20Enzy%20%26%20Jdr%20Sonidito</link>
+      <guid isPermaLink="false">HUGEL, Tom Enzy &amp; Jdr - Sonidito</guid>
+    </item>
+    <item>
+      <title>HONÜ &amp; WHOWHENWHY - Trip</title>
+      <link>https://www.google.com/search?q=HON%C3%9C%20%26%20WHOWHENWHY%20Trip</link>
+      <guid isPermaLink="false">HONÜ &amp; WHOWHENWHY - Trip</guid>
     </item>
     <item>
       <title>Gianni Blu &amp; LA EQUIS - No Te Veo</title>
@@ -41,9 +31,9 @@
       <guid isPermaLink="false">Gianni Blu &amp; LA EQUIS - No Te Veo</guid>
     </item>
     <item>
-      <title>Richard Vission - Can't You See</title>
-      <link>https://www.google.com/search?q=Richard%20Vission%20Can%27t%20You%20See</link>
-      <guid isPermaLink="false">Richard Vission - Can't You See</guid>
+      <title>Camisra &amp; James Hype - Let Me Show You</title>
+      <link>https://www.google.com/search?q=Camisra%20%26%20James%20Hype%20Let%20Me%20Show%20You</link>
+      <guid isPermaLink="false">Camisra &amp; James Hype - Let Me Show You</guid>
     </item>
     <item>
       <title>Adam Ten, Jackie (IT) &amp; Kool &amp; The Gang - GET DOWN</title>
@@ -51,9 +41,14 @@
       <guid isPermaLink="false">Adam Ten, Jackie (IT) &amp; Kool &amp; The Gang - GET DOWN</guid>
     </item>
     <item>
-      <title>Camisra &amp; James Hype - Let Me Show You</title>
-      <link>https://www.google.com/search?q=Camisra%20%26%20James%20Hype%20Let%20Me%20Show%20You</link>
-      <guid isPermaLink="false">Camisra &amp; James Hype - Let Me Show You</guid>
+      <title>Disco Lines &amp; Tinashe - No Broke Boys</title>
+      <link>https://www.google.com/search?q=Disco%20Lines%20%26%20Tinashe%20No%20Broke%20Boys</link>
+      <guid isPermaLink="false">Disco Lines &amp; Tinashe - No Broke Boys</guid>
+    </item>
+    <item>
+      <title>Jorja Smith - With You</title>
+      <link>https://www.google.com/search?q=Jorja%20Smith%20With%20You</link>
+      <guid isPermaLink="false">Jorja Smith - With You</guid>
     </item>
     <item>
       <title>Alle Farben &amp; Majestic - From Disco To Disco</title>
@@ -61,14 +56,19 @@
       <guid isPermaLink="false">Alle Farben &amp; Majestic - From Disco To Disco</guid>
     </item>
     <item>
-      <title>Wuki, DJ Susan &amp; Baha Men - Who Let The Dogs Out</title>
-      <link>https://www.google.com/search?q=Wuki%2C%20DJ%20Susan%20%26%20Baha%20Men%20Who%20Let%20The%20Dogs%20Out</link>
-      <guid isPermaLink="false">Wuki, DJ Susan &amp; Baha Men - Who Let The Dogs Out</guid>
-    </item>
-    <item>
       <title>Salvi, Franklin Dam &amp; Suekay - Seduceme</title>
       <link>https://www.google.com/search?q=Salvi%2C%20Franklin%20Dam%20%26%20Suekay%20Seduceme</link>
       <guid isPermaLink="false">Salvi, Franklin Dam &amp; Suekay - Seduceme</guid>
+    </item>
+    <item>
+      <title>Richard Vission - Can't You See</title>
+      <link>https://www.google.com/search?q=Richard%20Vission%20Can%27t%20You%20See</link>
+      <guid isPermaLink="false">Richard Vission - Can't You See</guid>
+    </item>
+    <item>
+      <title>Wuki, DJ Susan &amp; Baha Men - Who Let The Dogs Out</title>
+      <link>https://www.google.com/search?q=Wuki%2C%20DJ%20Susan%20%26%20Baha%20Men%20Who%20Let%20The%20Dogs%20Out</link>
+      <guid isPermaLink="false">Wuki, DJ Susan &amp; Baha Men - Who Let The Dogs Out</guid>
     </item>
     <item>
       <title>Proppa, Rich DietZ &amp; Smith &amp; Sorren - Work</title>
