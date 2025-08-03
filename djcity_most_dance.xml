@@ -6,14 +6,9 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>David Guetta, Hypaton &amp; Bonnie Tyler - Together</title>
-      <link>https://www.google.com/search?q=David%20Guetta%2C%20Hypaton%20%26%20Bonnie%20Tyler%20Together</link>
-      <guid isPermaLink="false">David Guetta, Hypaton &amp; Bonnie Tyler - Together</guid>
-    </item>
-    <item>
-      <title>Sammy Virji, Champion &amp; IRAH - Dis Badman</title>
-      <link>https://www.google.com/search?q=Sammy%20Virji%2C%20Champion%20%26%20IRAH%20Dis%20Badman</link>
-      <guid isPermaLink="false">Sammy Virji, Champion &amp; IRAH - Dis Badman</guid>
+      <title>HUGEL, Topic &amp; Arash - I Adore You</title>
+      <link>https://www.google.com/search?q=HUGEL%2C%20Topic%20%26%20Arash%20I%20Adore%20You</link>
+      <guid isPermaLink="false">HUGEL, Topic &amp; Arash - I Adore You</guid>
     </item>
     <item>
       <title>Robin Roij &amp; Kroegtijgers - Young, Wild &amp; Free</title>
@@ -21,9 +16,29 @@
       <guid isPermaLink="false">Robin Roij &amp; Kroegtijgers - Young, Wild &amp; Free</guid>
     </item>
     <item>
-      <title>HUGEL, Topic &amp; Arash - I Adore You</title>
-      <link>https://www.google.com/search?q=HUGEL%2C%20Topic%20%26%20Arash%20I%20Adore%20You</link>
-      <guid isPermaLink="false">HUGEL, Topic &amp; Arash - I Adore You</guid>
+      <title>Miami Funk Machine - Real Good</title>
+      <link>https://www.google.com/search?q=Miami%20Funk%20Machine%20Real%20Good</link>
+      <guid isPermaLink="false">Miami Funk Machine - Real Good</guid>
+    </item>
+    <item>
+      <title>Richard Vission - Can't You See</title>
+      <link>https://www.google.com/search?q=Richard%20Vission%20Can%27t%20You%20See</link>
+      <guid isPermaLink="false">Richard Vission - Can't You See</guid>
+    </item>
+    <item>
+      <title>Sammy Virji, Champion &amp; IRAH - Dis Badman</title>
+      <link>https://www.google.com/search?q=Sammy%20Virji%2C%20Champion%20%26%20IRAH%20Dis%20Badman</link>
+      <guid isPermaLink="false">Sammy Virji, Champion &amp; IRAH - Dis Badman</guid>
+    </item>
+    <item>
+      <title>Jorja Smith - With You</title>
+      <link>https://www.google.com/search?q=Jorja%20Smith%20With%20You</link>
+      <guid isPermaLink="false">Jorja Smith - With You</guid>
+    </item>
+    <item>
+      <title>Vanco - Ma Tnsani (Yalla Habibi)</title>
+      <link>https://www.google.com/search?q=Vanco%20Ma%20Tnsani%20%28Yalla%20Habibi%29</link>
+      <guid isPermaLink="false">Vanco - Ma Tnsani (Yalla Habibi)</guid>
     </item>
     <item>
       <title>HANGTYME - On The Line</title>
@@ -31,14 +46,19 @@
       <guid isPermaLink="false">HANGTYME - On The Line</guid>
     </item>
     <item>
-      <title>Adam Port, Stryv &amp; Camila Cabello - Move</title>
-      <link>https://www.google.com/search?q=Adam%20Port%2C%20Stryv%20%26%20Camila%20Cabello%20Move</link>
-      <guid isPermaLink="false">Adam Port, Stryv &amp; Camila Cabello - Move</guid>
+      <title>Martin Garrix, Alesso &amp; Shaun Farrugia - Inside Our Hearts</title>
+      <link>https://www.google.com/search?q=Martin%20Garrix%2C%20Alesso%20%26%20Shaun%20Farrugia%20Inside%20Our%20Hearts</link>
+      <guid isPermaLink="false">Martin Garrix, Alesso &amp; Shaun Farrugia - Inside Our Hearts</guid>
     </item>
     <item>
       <title>HUGEL, Tom Enzy &amp; Jdr - Sonidito</title>
       <link>https://www.google.com/search?q=HUGEL%2C%20Tom%20Enzy%20%26%20Jdr%20Sonidito</link>
       <guid isPermaLink="false">HUGEL, Tom Enzy &amp; Jdr - Sonidito</guid>
+    </item>
+    <item>
+      <title>DJ Katch - UNFORGETTABLE</title>
+      <link>https://www.google.com/search?q=DJ%20Katch%20UNFORGETTABLE</link>
+      <guid isPermaLink="false">DJ Katch - UNFORGETTABLE</guid>
     </item>
     <item>
       <title>Disco Lines &amp; Tinashe - No Broke Boys</title>
@@ -49,26 +69,6 @@
       <title>Sophie Ellis-Bextor - Dolce Vita</title>
       <link>https://www.google.com/search?q=Sophie%20Ellis-Bextor%20Dolce%20Vita</link>
       <guid isPermaLink="false">Sophie Ellis-Bextor - Dolce Vita</guid>
-    </item>
-    <item>
-      <title>Richard Vission - Can't You See</title>
-      <link>https://www.google.com/search?q=Richard%20Vission%20Can%27t%20You%20See</link>
-      <guid isPermaLink="false">Richard Vission - Can't You See</guid>
-    </item>
-    <item>
-      <title>Martin Garrix, Alesso &amp; Shaun Farrugia - Inside Our Hearts</title>
-      <link>https://www.google.com/search?q=Martin%20Garrix%2C%20Alesso%20%26%20Shaun%20Farrugia%20Inside%20Our%20Hearts</link>
-      <guid isPermaLink="false">Martin Garrix, Alesso &amp; Shaun Farrugia - Inside Our Hearts</guid>
-    </item>
-    <item>
-      <title>Jorja Smith - With You</title>
-      <link>https://www.google.com/search?q=Jorja%20Smith%20With%20You</link>
-      <guid isPermaLink="false">Jorja Smith - With You</guid>
-    </item>
-    <item>
-      <title>DJ Katch - UNFORGETTABLE</title>
-      <link>https://www.google.com/search?q=DJ%20Katch%20UNFORGETTABLE</link>
-      <guid isPermaLink="false">DJ Katch - UNFORGETTABLE</guid>
     </item>
     <item>
       <title>Wuki, DJ Susan &amp; Baha Men - Who Let The Dogs Out</title>
