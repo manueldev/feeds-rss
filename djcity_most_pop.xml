@@ -6,14 +6,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Lola Young - d£aler</title>
-      <link>https://www.google.com/search?q=Lola%20Young%20d%C2%A3aler</link>
-      <guid isPermaLink="false">Lola Young - d£aler</guid>
+      <title>Bruno Mars - Bonde do Brunão</title>
+      <link>https://www.google.com/search?q=Bruno%20Mars%20Bonde%20do%20Brun%C3%A3o</link>
+      <guid isPermaLink="false">Bruno Mars - Bonde do Brunão</guid>
     </item>
     <item>
       <title>Ed Sheeran - Sapphire</title>
       <link>https://www.google.com/search?q=Ed%20Sheeran%20Sapphire</link>
       <guid isPermaLink="false">Ed Sheeran - Sapphire</guid>
+    </item>
+    <item>
+      <title>Sabrina Carpenter - Espresso</title>
+      <link>https://www.google.com/search?q=Sabrina%20Carpenter%20Espresso</link>
+      <guid isPermaLink="false">Sabrina Carpenter - Espresso</guid>
     </item>
     <item>
       <title>Rosé &amp; Bruno Mars - APT.</title>
@@ -24,11 +29,6 @@
       <title>Sukha, The PropheC &amp; Navaan Sandhu - Dil Dardeh</title>
       <link>https://www.google.com/search?q=Sukha%2C%20The%20PropheC%20%26%20Navaan%20Sandhu%20Dil%20Dardeh</link>
       <guid isPermaLink="false">Sukha, The PropheC &amp; Navaan Sandhu - Dil Dardeh</guid>
-    </item>
-    <item>
-      <title>Sabrina Carpenter - Espresso</title>
-      <link>https://www.google.com/search?q=Sabrina%20Carpenter%20Espresso</link>
-      <guid isPermaLink="false">Sabrina Carpenter - Espresso</guid>
     </item>
     <item>
       <title>Sean Paul - Ginger</title>
@@ -56,14 +56,14 @@
       <guid isPermaLink="false">HUNTRX, EJAE, AUDREY NUNA, REI AMI &amp; KPop Demon Hunters Cast - Golden</guid>
     </item>
     <item>
-      <title>Justin Bieber - DAISIES</title>
-      <link>https://www.google.com/search?q=Justin%20Bieber%20DAISIES</link>
-      <guid isPermaLink="false">Justin Bieber - DAISIES</guid>
-    </item>
-    <item>
       <title>Doechii - Anxiety</title>
       <link>https://www.google.com/search?q=Doechii%20Anxiety</link>
       <guid isPermaLink="false">Doechii - Anxiety</guid>
+    </item>
+    <item>
+      <title>Justin Bieber - DAISIES</title>
+      <link>https://www.google.com/search?q=Justin%20Bieber%20DAISIES</link>
+      <guid isPermaLink="false">Justin Bieber - DAISIES</guid>
     </item>
     <item>
       <title>Justin Bieber - YUKON</title>
