@@ -6,19 +6,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Loud Luxury &amp; Natalie Jane - UH OH!</title>
-      <link>https://www.google.com/search?q=Loud%20Luxury%20%26%20Natalie%20Jane%20UH%20OH%21</link>
-      <guid isPermaLink="false">Loud Luxury &amp; Natalie Jane - UH OH!</guid>
-    </item>
-    <item>
-      <title>HUGEL, Topic &amp; Arash - I Adore You</title>
-      <link>https://www.google.com/search?q=HUGEL%2C%20Topic%20%26%20Arash%20I%20Adore%20You</link>
-      <guid isPermaLink="false">HUGEL, Topic &amp; Arash - I Adore You</guid>
-    </item>
-    <item>
       <title>Adam Port, Stryv &amp; Camila Cabello - Move</title>
       <link>https://www.google.com/search?q=Adam%20Port%2C%20Stryv%20%26%20Camila%20Cabello%20Move</link>
       <guid isPermaLink="false">Adam Port, Stryv &amp; Camila Cabello - Move</guid>
+    </item>
+    <item>
+      <title>Sophie Ellis-Bextor - Stay On Me</title>
+      <link>https://www.google.com/search?q=Sophie%20Ellis-Bextor%20Stay%20On%20Me</link>
+      <guid isPermaLink="false">Sophie Ellis-Bextor - Stay On Me</guid>
+    </item>
+    <item>
+      <title>Mike Cervello &amp; Karty - Area Code</title>
+      <link>https://www.google.com/search?q=Mike%20Cervello%20%26%20Karty%20Area%20Code</link>
+      <guid isPermaLink="false">Mike Cervello &amp; Karty - Area Code</guid>
     </item>
     <item>
       <title>JNR &amp; Natalie Gray - Lose Control</title>
@@ -31,9 +31,19 @@
       <guid isPermaLink="false">Vic Latino - Fall Right Back</guid>
     </item>
     <item>
+      <title>MistaJam &amp; Nu-La - Lost In The Feeling</title>
+      <link>https://www.google.com/search?q=MistaJam%20%26%20Nu-La%20Lost%20In%20The%20Feeling</link>
+      <guid isPermaLink="false">MistaJam &amp; Nu-La - Lost In The Feeling</guid>
+    </item>
+    <item>
       <title>Nautik - Hustling</title>
       <link>https://www.google.com/search?q=Nautik%20Hustling</link>
       <guid isPermaLink="false">Nautik - Hustling</guid>
+    </item>
+    <item>
+      <title>Odd Mob, OMNOM &amp; HYPERBEAM - System</title>
+      <link>https://www.google.com/search?q=Odd%20Mob%2C%20OMNOM%20%26%20HYPERBEAM%20System</link>
+      <guid isPermaLink="false">Odd Mob, OMNOM &amp; HYPERBEAM - System</guid>
     </item>
     <item>
       <title>Nautik &amp; Juany Bravo - Dark Beat</title>
@@ -41,19 +51,9 @@
       <guid isPermaLink="false">Nautik &amp; Juany Bravo - Dark Beat</guid>
     </item>
     <item>
-      <title>MistaJam &amp; Nu-La - Lost In The Feeling</title>
-      <link>https://www.google.com/search?q=MistaJam%20%26%20Nu-La%20Lost%20In%20The%20Feeling</link>
-      <guid isPermaLink="false">MistaJam &amp; Nu-La - Lost In The Feeling</guid>
-    </item>
-    <item>
       <title>Rich DietZ - House Music &amp; Anime</title>
       <link>https://www.google.com/search?q=Rich%20DietZ%20House%20Music%20%26%20Anime</link>
       <guid isPermaLink="false">Rich DietZ - House Music &amp; Anime</guid>
-    </item>
-    <item>
-      <title>Odd Mob, OMNOM &amp; HYPERBEAM - System</title>
-      <link>https://www.google.com/search?q=Odd%20Mob%2C%20OMNOM%20%26%20HYPERBEAM%20System</link>
-      <guid isPermaLink="false">Odd Mob, OMNOM &amp; HYPERBEAM - System</guid>
     </item>
     <item>
       <title>BLOND:ISH, The Pussycat Dolls &amp; Busta Rhymes - Don't Cha (with BLOND:ISH)</title>
@@ -71,14 +71,14 @@
       <guid isPermaLink="false">Fedde Le Grand - Got Your Money</guid>
     </item>
     <item>
-      <title>Kungs &amp; PNAU - Light Me Up</title>
-      <link>https://www.google.com/search?q=Kungs%20%26%20PNAU%20Light%20Me%20Up</link>
-      <guid isPermaLink="false">Kungs &amp; PNAU - Light Me Up</guid>
-    </item>
-    <item>
       <title>Faul &amp; Wad, Mëstiza &amp; Martina Camargo - Tambora</title>
       <link>https://www.google.com/search?q=Faul%20%26%20Wad%2C%20M%C3%ABstiza%20%26%20Martina%20Camargo%20Tambora</link>
       <guid isPermaLink="false">Faul &amp; Wad, Mëstiza &amp; Martina Camargo - Tambora</guid>
+    </item>
+    <item>
+      <title>Kungs &amp; PNAU - Light Me Up</title>
+      <link>https://www.google.com/search?q=Kungs%20%26%20PNAU%20Light%20Me%20Up</link>
+      <guid isPermaLink="false">Kungs &amp; PNAU - Light Me Up</guid>
     </item>
   </channel>
 </rss>

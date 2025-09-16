@@ -6,9 +6,9 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Reneé Rapp - Leave Me Alone</title>
-      <link>https://www.google.com/search?q=Rene%C3%A9%20Rapp%20Leave%20Me%20Alone</link>
-      <guid isPermaLink="false">Reneé Rapp - Leave Me Alone</guid>
+      <title>Doechii - Anxiety</title>
+      <link>https://www.google.com/search?q=Doechii%20Anxiety</link>
+      <guid isPermaLink="false">Doechii - Anxiety</guid>
     </item>
     <item>
       <title>Rosé &amp; Bruno Mars - APT.</title>
@@ -16,24 +16,14 @@
       <guid isPermaLink="false">Rosé &amp; Bruno Mars - APT.</guid>
     </item>
     <item>
-      <title>Lewis Capaldi - Survive</title>
-      <link>https://www.google.com/search?q=Lewis%20Capaldi%20Survive</link>
-      <guid isPermaLink="false">Lewis Capaldi - Survive</guid>
-    </item>
-    <item>
-      <title>Benson Boone - Mr Electric Blue</title>
-      <link>https://www.google.com/search?q=Benson%20Boone%20Mr%20Electric%20Blue</link>
-      <guid isPermaLink="false">Benson Boone - Mr Electric Blue</guid>
-    </item>
-    <item>
-      <title>Demi Lovato - Here All Night</title>
-      <link>https://www.google.com/search?q=Demi%20Lovato%20Here%20All%20Night</link>
-      <guid isPermaLink="false">Demi Lovato - Here All Night</guid>
-    </item>
-    <item>
       <title>Josh Ross &amp; Akon - Drunk Right Now (Na Na Na)</title>
       <link>https://www.google.com/search?q=Josh%20Ross%20%26%20Akon%20Drunk%20Right%20Now%20%28Na%20Na%20Na%29</link>
       <guid isPermaLink="false">Josh Ross &amp; Akon - Drunk Right Now (Na Na Na)</guid>
+    </item>
+    <item>
+      <title>Kali Uchis &amp; Ravyn Lenae - Cry About It!</title>
+      <link>https://www.google.com/search?q=Kali%20Uchis%20%26%20Ravyn%20Lenae%20Cry%20About%20It%21</link>
+      <guid isPermaLink="false">Kali Uchis &amp; Ravyn Lenae - Cry About It!</guid>
     </item>
     <item>
       <title>BLACKPINK - JUMP</title>
@@ -41,9 +31,19 @@
       <guid isPermaLink="false">BLACKPINK - JUMP</guid>
     </item>
     <item>
+      <title>Lewis Capaldi - Survive</title>
+      <link>https://www.google.com/search?q=Lewis%20Capaldi%20Survive</link>
+      <guid isPermaLink="false">Lewis Capaldi - Survive</guid>
+    </item>
+    <item>
       <title>HUNTRX, EJAE, AUDREY NUNA, REI AMI &amp; KPop Demon Hunters Cast - Golden</title>
       <link>https://www.google.com/search?q=HUNTRX%2C%20EJAE%2C%20AUDREY%20NUNA%2C%20REI%20AMI%20%26%20KPop%20Demon%20Hunters%20Cast%20Golden</link>
       <guid isPermaLink="false">HUNTRX, EJAE, AUDREY NUNA, REI AMI &amp; KPop Demon Hunters Cast - Golden</guid>
+    </item>
+    <item>
+      <title>Demi Lovato - Here All Night</title>
+      <link>https://www.google.com/search?q=Demi%20Lovato%20Here%20All%20Night</link>
+      <guid isPermaLink="false">Demi Lovato - Here All Night</guid>
     </item>
     <item>
       <title>Fantomel &amp; KATE LINN - Dame Un Grrr</title>
