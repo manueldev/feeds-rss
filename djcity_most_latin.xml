@@ -6,44 +6,9 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>DJ Overule - Que Rico</title>
-      <link>https://www.google.com/search?q=DJ%20Overule%20Que%20Rico</link>
-      <guid isPermaLink="false">DJ Overule - Que Rico</guid>
-    </item>
-    <item>
-      <title>IAmChino, Pitbull &amp; Flo Rida - Borracho Y Loco</title>
-      <link>https://www.google.com/search?q=IAmChino%2C%20Pitbull%20%26%20Flo%20Rida%20Borracho%20Y%20Loco</link>
-      <guid isPermaLink="false">IAmChino, Pitbull &amp; Flo Rida - Borracho Y Loco</guid>
-    </item>
-    <item>
-      <title>Bad Bunny - EoO</title>
-      <link>https://www.google.com/search?q=Bad%20Bunny%20EoO</link>
-      <guid isPermaLink="false">Bad Bunny - EoO</guid>
-    </item>
-    <item>
       <title>DJ Serg - Otra Noche</title>
       <link>https://www.google.com/search?q=DJ%20Serg%20Otra%20Noche</link>
       <guid isPermaLink="false">DJ Serg - Otra Noche</guid>
-    </item>
-    <item>
-      <title>Bellakath - LA REINA DEL REGGAETON MEXICANO</title>
-      <link>https://www.google.com/search?q=Bellakath%20LA%20REINA%20DEL%20REGGAETON%20MEXICANO</link>
-      <guid isPermaLink="false">Bellakath - LA REINA DEL REGGAETON MEXICANO</guid>
-    </item>
-    <item>
-      <title>Tokischa - MIAMI</title>
-      <link>https://www.google.com/search?q=Tokischa%20MIAMI</link>
-      <guid isPermaLink="false">Tokischa - MIAMI</guid>
-    </item>
-    <item>
-      <title>Bad Bunny - NUEVAYoL</title>
-      <link>https://www.google.com/search?q=Bad%20Bunny%20NUEVAYoL</link>
-      <guid isPermaLink="false">Bad Bunny - NUEVAYoL</guid>
-    </item>
-    <item>
-      <title>DJ Snake &amp; J Balvin - Noventa</title>
-      <link>https://www.google.com/search?q=DJ%20Snake%20%26%20J%20Balvin%20Noventa</link>
-      <guid isPermaLink="false">DJ Snake &amp; J Balvin - Noventa</guid>
     </item>
     <item>
       <title>Jay Wheeler &amp; KENNYY - Ya Ni Se</title>
@@ -51,14 +16,44 @@
       <guid isPermaLink="false">Jay Wheeler &amp; KENNYY - Ya Ni Se</guid>
     </item>
     <item>
-      <title>Play N Skillz, Nicky Jam &amp; Justin Quiles - Morena</title>
-      <link>https://www.google.com/search?q=Play%20N%20Skillz%2C%20Nicky%20Jam%20%26%20Justin%20Quiles%20Morena</link>
-      <guid isPermaLink="false">Play N Skillz, Nicky Jam &amp; Justin Quiles - Morena</guid>
+      <title>Juan Duque &amp; Altafulla - La Fría</title>
+      <link>https://www.google.com/search?q=Juan%20Duque%20%26%20Altafulla%20La%20Fr%C3%ADa</link>
+      <guid isPermaLink="false">Juan Duque &amp; Altafulla - La Fría</guid>
+    </item>
+    <item>
+      <title>Alex Sensation, Darell &amp; Aaantonio - La Depre</title>
+      <link>https://www.google.com/search?q=Alex%20Sensation%2C%20Darell%20%26%20Aaantonio%20La%20Depre</link>
+      <guid isPermaLink="false">Alex Sensation, Darell &amp; Aaantonio - La Depre</guid>
+    </item>
+    <item>
+      <title>Bad Bunny - NUEVAYoL</title>
+      <link>https://www.google.com/search?q=Bad%20Bunny%20NUEVAYoL</link>
+      <guid isPermaLink="false">Bad Bunny - NUEVAYoL</guid>
+    </item>
+    <item>
+      <title>Tokischa - MIAMI</title>
+      <link>https://www.google.com/search?q=Tokischa%20MIAMI</link>
+      <guid isPermaLink="false">Tokischa - MIAMI</guid>
     </item>
     <item>
       <title>Reykon - GUAIA</title>
       <link>https://www.google.com/search?q=Reykon%20GUAIA</link>
       <guid isPermaLink="false">Reykon - GUAIA</guid>
+    </item>
+    <item>
+      <title>Play N Skillz, Nicky Jam &amp; Justin Quiles - Morena</title>
+      <link>https://www.google.com/search?q=Play%20N%20Skillz%2C%20Nicky%20Jam%20%26%20Justin%20Quiles%20Morena</link>
+      <guid isPermaLink="false">Play N Skillz, Nicky Jam &amp; Justin Quiles - Morena</guid>
+    </item>
+    <item>
+      <title>DJ Snake &amp; J Balvin - Noventa</title>
+      <link>https://www.google.com/search?q=DJ%20Snake%20%26%20J%20Balvin%20Noventa</link>
+      <guid isPermaLink="false">DJ Snake &amp; J Balvin - Noventa</guid>
+    </item>
+    <item>
+      <title>Brray, DIA &amp; L-O-N - Puej Claro</title>
+      <link>https://www.google.com/search?q=Brray%2C%20DIA%20%26%20L-O-N%20Puej%20Claro</link>
+      <guid isPermaLink="false">Brray, DIA &amp; L-O-N - Puej Claro</guid>
     </item>
     <item>
       <title>ARIA VEGA - AGUA E' PANELA (cule_nota)</title>
@@ -69,6 +64,11 @@
       <title>Raymix - La Cumbia Fresa</title>
       <link>https://www.google.com/search?q=Raymix%20La%20Cumbia%20Fresa</link>
       <guid isPermaLink="false">Raymix - La Cumbia Fresa</guid>
+    </item>
+    <item>
+      <title>Bellakath - LA REINA DEL REGGAETON MEXICANO</title>
+      <link>https://www.google.com/search?q=Bellakath%20LA%20REINA%20DEL%20REGGAETON%20MEXICANO</link>
+      <guid isPermaLink="false">Bellakath - LA REINA DEL REGGAETON MEXICANO</guid>
     </item>
     <item>
       <title>Gianni Blu &amp; Vikina - AMOR DE UNA NOCHE</title>
