@@ -6,24 +6,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Alejandro Sanz ft Shakira – Besame</title>
-      <link>https://www.google.com/search?q=Alejandro%20Sanz%20ft%20Shakira%20-%20Besame</link>
-      <guid isPermaLink="false">Alejandro Sanz ft Shakira – Besame</guid>
-    </item>
-    <item>
-      <title>Beele – No Tiene Sentido</title>
-      <link>https://www.google.com/search?q=Beele%20-%20No%20Tiene%20Sentido</link>
-      <guid isPermaLink="false">Beele – No Tiene Sentido</guid>
-    </item>
-    <item>
       <title>Ed Sheeran – Azizam</title>
       <link>https://www.google.com/search?q=Ed%20Sheeran%20-%20Azizam</link>
       <guid isPermaLink="false">Ed Sheeran – Azizam</guid>
     </item>
     <item>
-      <title>Karol G – Papasito</title>
-      <link>https://www.google.com/search?q=Karol%20G%20-%20Papasito</link>
-      <guid isPermaLink="false">Karol G – Papasito</guid>
+      <title>Karol G ft Marco Antonio Solis – Coleccionando Heridas</title>
+      <link>https://www.google.com/search?q=Karol%20G%20ft%20Marco%20Antonio%20Solis%20-%20Coleccionando%20Heridas</link>
+      <guid isPermaLink="false">Karol G ft Marco Antonio Solis – Coleccionando Heridas</guid>
     </item>
     <item>
       <title>Young Cister ft Kreamly – Qloo</title>
@@ -31,9 +21,24 @@
       <guid isPermaLink="false">Young Cister ft Kreamly – Qloo</guid>
     </item>
     <item>
-      <title>Rose ft Bruno Mars – APT</title>
-      <link>https://www.google.com/search?q=Rose%20ft%20Bruno%20Mars%20-%20APT</link>
-      <guid isPermaLink="false">Rose ft Bruno Mars – APT</guid>
+      <title>Morat ft Jay Wheeler – Sin Ti</title>
+      <link>https://www.google.com/search?q=Morat%20ft%20Jay%20Wheeler%20-%20Sin%20Ti</link>
+      <guid isPermaLink="false">Morat ft Jay Wheeler – Sin Ti</guid>
+    </item>
+    <item>
+      <title>Beele – No Tiene Sentido</title>
+      <link>https://www.google.com/search?q=Beele%20-%20No%20Tiene%20Sentido</link>
+      <guid isPermaLink="false">Beele – No Tiene Sentido</guid>
+    </item>
+    <item>
+      <title>Feid – Se Lo Juro Mor</title>
+      <link>https://www.google.com/search?q=Feid%20-%20Se%20Lo%20Juro%20Mor</link>
+      <guid isPermaLink="false">Feid – Se Lo Juro Mor</guid>
+    </item>
+    <item>
+      <title>Lola Indigo – Moja1ta</title>
+      <link>https://www.google.com/search?q=Lola%20Indigo%20-%20Moja1ta</link>
+      <guid isPermaLink="false">Lola Indigo – Moja1ta</guid>
     </item>
     <item>
       <title>Sabrina Carpenter – Tears</title>
@@ -41,19 +46,14 @@
       <guid isPermaLink="false">Sabrina Carpenter – Tears</guid>
     </item>
     <item>
+      <title>Jere Klein ft Katteyes ft Mateo On The Beatz – Todo Ke Ver</title>
+      <link>https://www.google.com/search?q=Jere%20Klein%20ft%20Katteyes%20ft%20Mateo%20On%20The%20Beatz%20-%20Todo%20Ke%20Ver</link>
+      <guid isPermaLink="false">Jere Klein ft Katteyes ft Mateo On The Beatz – Todo Ke Ver</guid>
+    </item>
+    <item>
       <title>Karol G ft Feid – Verano Rosa</title>
       <link>https://www.google.com/search?q=Karol%20G%20ft%20Feid%20-%20Verano%20Rosa</link>
       <guid isPermaLink="false">Karol G ft Feid – Verano Rosa</guid>
-    </item>
-    <item>
-      <title>Morat ft Jay Wheeler – Sin Ti</title>
-      <link>https://www.google.com/search?q=Morat%20ft%20Jay%20Wheeler%20-%20Sin%20Ti</link>
-      <guid isPermaLink="false">Morat ft Jay Wheeler – Sin Ti</guid>
-    </item>
-    <item>
-      <title>Feid – Se Lo Juro Mor</title>
-      <link>https://www.google.com/search?q=Feid%20-%20Se%20Lo%20Juro%20Mor</link>
-      <guid isPermaLink="false">Feid – Se Lo Juro Mor</guid>
     </item>
   </channel>
 </rss>
