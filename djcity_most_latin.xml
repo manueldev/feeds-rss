@@ -6,21 +6,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Gianni Blu &amp; Vikina - AMOR DE UNA NOCHE</title>
-      <link>https://www.google.com/search?q=Gianni%20Blu%20%26%20Vikina%20AMOR%20DE%20UNA%20NOCHE</link>
-      <guid isPermaLink="false">Gianni Blu &amp; Vikina - AMOR DE UNA NOCHE</guid>
-    </item>
-    <item>
-      <title>Bad Bunny - MIA</title>
-      <link>https://www.google.com/search?q=Bad%20Bunny%20MIA</link>
-      <guid isPermaLink="false">Bad Bunny - MIA</guid>
-    </item>
-    <item>
-      <title>Bad Bunny - EoO</title>
-      <link>https://www.google.com/search?q=Bad%20Bunny%20EoO</link>
-      <guid isPermaLink="false">Bad Bunny - EoO</guid>
-    </item>
-    <item>
       <title>Tokischa - MIAMI</title>
       <link>https://www.google.com/search?q=Tokischa%20MIAMI</link>
       <guid isPermaLink="false">Tokischa - MIAMI</guid>
@@ -31,9 +16,9 @@
       <guid isPermaLink="false">DJ Snake &amp; J Balvin - Noventa</guid>
     </item>
     <item>
-      <title>Bad Bunny - NUEVAYoL</title>
-      <link>https://www.google.com/search?q=Bad%20Bunny%20NUEVAYoL</link>
-      <guid isPermaLink="false">Bad Bunny - NUEVAYoL</guid>
+      <title>Jombriel, Maldy &amp; Jøtta - Perreo Fina</title>
+      <link>https://www.google.com/search?q=Jombriel%2C%20Maldy%20%26%20J%C3%B8tta%20Perreo%20Fina</link>
+      <guid isPermaLink="false">Jombriel, Maldy &amp; Jøtta - Perreo Fina</guid>
     </item>
     <item>
       <title>Junior H - Culpable</title>
@@ -41,14 +26,14 @@
       <guid isPermaLink="false">Junior H - Culpable</guid>
     </item>
     <item>
-      <title>Zion &amp; Bad Gyal - Ella</title>
-      <link>https://www.google.com/search?q=Zion%20%26%20Bad%20Gyal%20Ella</link>
-      <guid isPermaLink="false">Zion &amp; Bad Gyal - Ella</guid>
+      <title>Dani Flow &amp; DJ Luian - LA BRONCA</title>
+      <link>https://www.google.com/search?q=Dani%20Flow%20%26%20DJ%20Luian%20LA%20BRONCA</link>
+      <guid isPermaLink="false">Dani Flow &amp; DJ Luian - LA BRONCA</guid>
     </item>
     <item>
-      <title>El Alfa &amp; Myke Towers - Se Riega</title>
-      <link>https://www.google.com/search?q=El%20Alfa%20%26%20Myke%20Towers%20Se%20Riega</link>
-      <guid isPermaLink="false">El Alfa &amp; Myke Towers - Se Riega</guid>
+      <title>Bad Bunny - NUEVAYoL</title>
+      <link>https://www.google.com/search?q=Bad%20Bunny%20NUEVAYoL</link>
+      <guid isPermaLink="false">Bad Bunny - NUEVAYoL</guid>
     </item>
     <item>
       <title>Hamilton &amp; Ryan Castro - 4LIFE</title>
@@ -56,9 +41,14 @@
       <guid isPermaLink="false">Hamilton &amp; Ryan Castro - 4LIFE</guid>
     </item>
     <item>
-      <title>Juan Duque &amp; Altafulla - La Fría</title>
-      <link>https://www.google.com/search?q=Juan%20Duque%20%26%20Altafulla%20La%20Fr%C3%ADa</link>
-      <guid isPermaLink="false">Juan Duque &amp; Altafulla - La Fría</guid>
+      <title>El Alfa - JamRock</title>
+      <link>https://www.google.com/search?q=El%20Alfa%20JamRock</link>
+      <guid isPermaLink="false">El Alfa - JamRock</guid>
+    </item>
+    <item>
+      <title>El Alfa &amp; Myke Towers - Se Riega</title>
+      <link>https://www.google.com/search?q=El%20Alfa%20%26%20Myke%20Towers%20Se%20Riega</link>
+      <guid isPermaLink="false">El Alfa &amp; Myke Towers - Se Riega</guid>
     </item>
     <item>
       <title>Alex Sensation, Darell &amp; Aaantonio - La Depre</title>
@@ -66,9 +56,19 @@
       <guid isPermaLink="false">Alex Sensation, Darell &amp; Aaantonio - La Depre</guid>
     </item>
     <item>
+      <title>Juan Duque &amp; Altafulla - La Fría</title>
+      <link>https://www.google.com/search?q=Juan%20Duque%20%26%20Altafulla%20La%20Fr%C3%ADa</link>
+      <guid isPermaLink="false">Juan Duque &amp; Altafulla - La Fría</guid>
+    </item>
+    <item>
       <title>Brray, DIA &amp; L-O-N - Puej Claro</title>
       <link>https://www.google.com/search?q=Brray%2C%20DIA%20%26%20L-O-N%20Puej%20Claro</link>
       <guid isPermaLink="false">Brray, DIA &amp; L-O-N - Puej Claro</guid>
+    </item>
+    <item>
+      <title>Zion &amp; Bad Gyal - Ella</title>
+      <link>https://www.google.com/search?q=Zion%20%26%20Bad%20Gyal%20Ella</link>
+      <guid isPermaLink="false">Zion &amp; Bad Gyal - Ella</guid>
     </item>
     <item>
       <title>Bellakath - LA REINA DEL REGGAETON MEXICANO</title>
