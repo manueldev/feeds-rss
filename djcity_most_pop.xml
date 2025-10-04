@@ -6,9 +6,9 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Justin Bieber - SPEED DEMON</title>
-      <link>https://www.google.com/search?q=Justin%20Bieber%20SPEED%20DEMON</link>
-      <guid isPermaLink="false">Justin Bieber - SPEED DEMON</guid>
+      <title>Amaarae - Girlie-Pop!</title>
+      <link>https://www.google.com/search?q=Amaarae%20Girlie-Pop%21</link>
+      <guid isPermaLink="false">Amaarae - Girlie-Pop!</guid>
     </item>
     <item>
       <title>Fantomel &amp; KATE LINN - Dame Un Grrr</title>
@@ -16,44 +16,9 @@
       <guid isPermaLink="false">Fantomel &amp; KATE LINN - Dame Un Grrr</guid>
     </item>
     <item>
-      <title>Kevin Powers &amp; Shaboozey - Move On</title>
-      <link>https://www.google.com/search?q=Kevin%20Powers%20%26%20Shaboozey%20Move%20On</link>
-      <guid isPermaLink="false">Kevin Powers &amp; Shaboozey - Move On</guid>
-    </item>
-    <item>
-      <title>Amaarae - Girlie-Pop!</title>
-      <link>https://www.google.com/search?q=Amaarae%20Girlie-Pop%21</link>
-      <guid isPermaLink="false">Amaarae - Girlie-Pop!</guid>
-    </item>
-    <item>
       <title>Bailey Zimmerman &amp; The Kid LAROI - Lost</title>
       <link>https://www.google.com/search?q=Bailey%20Zimmerman%20%26%20The%20Kid%20LAROI%20Lost</link>
       <guid isPermaLink="false">Bailey Zimmerman &amp; The Kid LAROI - Lost</guid>
-    </item>
-    <item>
-      <title>Lady Gaga - The Dead Dance</title>
-      <link>https://www.google.com/search?q=Lady%20Gaga%20The%20Dead%20Dance</link>
-      <guid isPermaLink="false">Lady Gaga - The Dead Dance</guid>
-    </item>
-    <item>
-      <title>HUNTRX, EJAE, AUDREY NUNA, REI AMI &amp; KPop Demon Hunters Cast - Golden</title>
-      <link>https://www.google.com/search?q=HUNTRX%2C%20EJAE%2C%20AUDREY%20NUNA%2C%20REI%20AMI%20%26%20KPop%20Demon%20Hunters%20Cast%20Golden</link>
-      <guid isPermaLink="false">HUNTRX, EJAE, AUDREY NUNA, REI AMI &amp; KPop Demon Hunters Cast - Golden</guid>
-    </item>
-    <item>
-      <title>Rochelle Jordan - The Boy</title>
-      <link>https://www.google.com/search?q=Rochelle%20Jordan%20The%20Boy</link>
-      <guid isPermaLink="false">Rochelle Jordan - The Boy</guid>
-    </item>
-    <item>
-      <title>Olivia Dean - Man I Need</title>
-      <link>https://www.google.com/search?q=Olivia%20Dean%20Man%20I%20Need</link>
-      <guid isPermaLink="false">Olivia Dean - Man I Need</guid>
-    </item>
-    <item>
-      <title>RAYE - WHERE IS MY HUSBAND!</title>
-      <link>https://www.google.com/search?q=RAYE%20WHERE%20IS%20MY%20HUSBAND%21</link>
-      <guid isPermaLink="false">RAYE - WHERE IS MY HUSBAND!</guid>
     </item>
     <item>
       <title>Jonas Brothers - Tantrum</title>
@@ -61,9 +26,39 @@
       <guid isPermaLink="false">Jonas Brothers - Tantrum</guid>
     </item>
     <item>
+      <title>HUNTRX, EJAE, AUDREY NUNA, REI AMI &amp; KPop Demon Hunters Cast - Golden</title>
+      <link>https://www.google.com/search?q=HUNTRX%2C%20EJAE%2C%20AUDREY%20NUNA%2C%20REI%20AMI%20%26%20KPop%20Demon%20Hunters%20Cast%20Golden</link>
+      <guid isPermaLink="false">HUNTRX, EJAE, AUDREY NUNA, REI AMI &amp; KPop Demon Hunters Cast - Golden</guid>
+    </item>
+    <item>
+      <title>Olivia Dean - Man I Need</title>
+      <link>https://www.google.com/search?q=Olivia%20Dean%20Man%20I%20Need</link>
+      <guid isPermaLink="false">Olivia Dean - Man I Need</guid>
+    </item>
+    <item>
+      <title>Lady Gaga - The Dead Dance</title>
+      <link>https://www.google.com/search?q=Lady%20Gaga%20The%20Dead%20Dance</link>
+      <guid isPermaLink="false">Lady Gaga - The Dead Dance</guid>
+    </item>
+    <item>
+      <title>Rochelle Jordan - The Boy</title>
+      <link>https://www.google.com/search?q=Rochelle%20Jordan%20The%20Boy</link>
+      <guid isPermaLink="false">Rochelle Jordan - The Boy</guid>
+    </item>
+    <item>
+      <title>RAYE - WHERE IS MY HUSBAND!</title>
+      <link>https://www.google.com/search?q=RAYE%20WHERE%20IS%20MY%20HUSBAND%21</link>
+      <guid isPermaLink="false">RAYE - WHERE IS MY HUSBAND!</guid>
+    </item>
+    <item>
       <title>Rita Ora - All Natural</title>
       <link>https://www.google.com/search?q=Rita%20Ora%20All%20Natural</link>
       <guid isPermaLink="false">Rita Ora - All Natural</guid>
+    </item>
+    <item>
+      <title>Sabrina Carpenter - Tears</title>
+      <link>https://www.google.com/search?q=Sabrina%20Carpenter%20Tears</link>
+      <guid isPermaLink="false">Sabrina Carpenter - Tears</guid>
     </item>
     <item>
       <title>Marshmello &amp; Hudson Westbrook - Better Man Than Me</title>
@@ -71,9 +66,14 @@
       <guid isPermaLink="false">Marshmello &amp; Hudson Westbrook - Better Man Than Me</guid>
     </item>
     <item>
-      <title>Sabrina Carpenter - Tears</title>
-      <link>https://www.google.com/search?q=Sabrina%20Carpenter%20Tears</link>
-      <guid isPermaLink="false">Sabrina Carpenter - Tears</guid>
+      <title>Taylor Swift - The Life Of A Showgirl</title>
+      <link>https://www.google.com/search?q=Taylor%20Swift%20The%20Life%20Of%20A%20Showgirl</link>
+      <guid isPermaLink="false">Taylor Swift - The Life Of A Showgirl</guid>
+    </item>
+    <item>
+      <title>Taylor Swift - Opalite</title>
+      <link>https://www.google.com/search?q=Taylor%20Swift%20Opalite</link>
+      <guid isPermaLink="false">Taylor Swift - Opalite</guid>
     </item>
     <item>
       <title>Saja Boys, Andrew Choi, Neckwav, Danny Chung, Kevin Woo, samUIL Lee KPop Demon Hunters Cast - Soda Pop</title>
