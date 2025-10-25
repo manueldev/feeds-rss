@@ -6,14 +6,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Adam Port, Stryv &amp; Camila Cabello - Move</title>
-      <link>https://www.google.com/search?q=Adam%20Port%2C%20Stryv%20%26%20Camila%20Cabello%20Move</link>
-      <guid isPermaLink="false">Adam Port, Stryv &amp; Camila Cabello - Move</guid>
+      <title>Steve Aoki &amp; Blasterjaxx - Shake That</title>
+      <link>https://www.google.com/search?q=Steve%20Aoki%20%26%20Blasterjaxx%20Shake%20That</link>
+      <guid isPermaLink="false">Steve Aoki &amp; Blasterjaxx - Shake That</guid>
     </item>
     <item>
       <title>Tall Boys - Kill Bill Halloween Remix</title>
       <link>https://www.google.com/search?q=Tall%20Boys%20Kill%20Bill%20Halloween%20Remix</link>
       <guid isPermaLink="false">Tall Boys - Kill Bill Halloween Remix</guid>
+    </item>
+    <item>
+      <title>Salvi, Yuly &amp; Franklin Dam - Sugar Love</title>
+      <link>https://www.google.com/search?q=Salvi%2C%20Yuly%20%26%20Franklin%20Dam%20Sugar%20Love</link>
+      <guid isPermaLink="false">Salvi, Yuly &amp; Franklin Dam - Sugar Love</guid>
+    </item>
+    <item>
+      <title>Fred again.., Caribou &amp; MC Tetu - Facilita</title>
+      <link>https://www.google.com/search?q=Fred%20again..%2C%20Caribou%20%26%20MC%20Tetu%20Facilita</link>
+      <guid isPermaLink="false">Fred again.., Caribou &amp; MC Tetu - Facilita</guid>
+    </item>
+    <item>
+      <title>Major Lazer, Parris Goebel, America Foster &amp; SadBoi - BRUK DOWN</title>
+      <link>https://www.google.com/search?q=Major%20Lazer%2C%20Parris%20Goebel%2C%20America%20Foster%20%26%20SadBoi%20BRUK%20DOWN</link>
+      <guid isPermaLink="false">Major Lazer, Parris Goebel, America Foster &amp; SadBoi - BRUK DOWN</guid>
     </item>
     <item>
       <title>Matsu &amp; Confession - Automatic</title>
@@ -26,21 +41,6 @@
       <guid isPermaLink="false">Steve Aoki, Blasterjaxx &amp;  Lil Jon - Get Down</guid>
     </item>
     <item>
-      <title>Koffee &amp; Kandee - Thrill 25</title>
-      <link>https://www.google.com/search?q=Koffee%20%26%20Kandee%20Thrill%2025</link>
-      <guid isPermaLink="false">Koffee &amp; Kandee - Thrill 25</guid>
-    </item>
-    <item>
-      <title>Things You Say - Thank You Baby</title>
-      <link>https://www.google.com/search?q=Things%20You%20Say%20Thank%20You%20Baby</link>
-      <guid isPermaLink="false">Things You Say - Thank You Baby</guid>
-    </item>
-    <item>
-      <title>Sonny Fodera, D.O.D &amp; Poppy Baskcomb - Think About Us</title>
-      <link>https://www.google.com/search?q=Sonny%20Fodera%2C%20D.O.D%20%26%20Poppy%20Baskcomb%20Think%20About%20Us</link>
-      <guid isPermaLink="false">Sonny Fodera, D.O.D &amp; Poppy Baskcomb - Think About Us</guid>
-    </item>
-    <item>
       <title>desamor. - IM ON IT</title>
       <link>https://www.google.com/search?q=desamor.%20IM%20ON%20IT</link>
       <guid isPermaLink="false">desamor. - IM ON IT</guid>
@@ -51,14 +51,14 @@
       <guid isPermaLink="false">James Carter - Don't Blame Me</guid>
     </item>
     <item>
-      <title>Brett Allen &amp; Noola - 3am</title>
-      <link>https://www.google.com/search?q=Brett%20Allen%20%26%20Noola%203am</link>
-      <guid isPermaLink="false">Brett Allen &amp; Noola - 3am</guid>
-    </item>
-    <item>
       <title>Luis Torres, Mike Renza &amp; Alkemy - Jumpin'</title>
       <link>https://www.google.com/search?q=Luis%20Torres%2C%20Mike%20Renza%20%26%20Alkemy%20Jumpin%27</link>
       <guid isPermaLink="false">Luis Torres, Mike Renza &amp; Alkemy - Jumpin'</guid>
+    </item>
+    <item>
+      <title>Brett Allen &amp; Noola - 3am</title>
+      <link>https://www.google.com/search?q=Brett%20Allen%20%26%20Noola%203am</link>
+      <guid isPermaLink="false">Brett Allen &amp; Noola - 3am</guid>
     </item>
     <item>
       <title>Disco Lines &amp; Tinashe - No Broke Boys</title>
@@ -66,14 +66,14 @@
       <guid isPermaLink="false">Disco Lines &amp; Tinashe - No Broke Boys</guid>
     </item>
     <item>
-      <title>Alesso &amp; SACHA - Destiny</title>
-      <link>https://www.google.com/search?q=Alesso%20%26%20SACHA%20Destiny</link>
-      <guid isPermaLink="false">Alesso &amp; SACHA - Destiny</guid>
-    </item>
-    <item>
       <title>RetroVision, Landis &amp; Wheatus - Teenage Dirtbag</title>
       <link>https://www.google.com/search?q=RetroVision%2C%20Landis%20%26%20Wheatus%20Teenage%20Dirtbag</link>
       <guid isPermaLink="false">RetroVision, Landis &amp; Wheatus - Teenage Dirtbag</guid>
+    </item>
+    <item>
+      <title>Alesso &amp; SACHA - Destiny</title>
+      <link>https://www.google.com/search?q=Alesso%20%26%20SACHA%20Destiny</link>
+      <guid isPermaLink="false">Alesso &amp; SACHA - Destiny</guid>
     </item>
     <item>
       <title>CID &amp; Taylr Renee - Fancy $hit</title>
