@@ -6,19 +6,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>DancingFaraZ - Space From You</title>
-      <link>https://www.google.com/search?q=DancingFaraZ%20Space%20From%20You</link>
-      <guid isPermaLink="false">DancingFaraZ - Space From You</guid>
-    </item>
-    <item>
       <title>Laidback Luke - Sippin'</title>
       <link>https://www.google.com/search?q=Laidback%20Luke%20Sippin%27</link>
       <guid isPermaLink="false">Laidback Luke - Sippin'</guid>
     </item>
     <item>
-      <title>Brett Allen &amp; Noola - 3am</title>
-      <link>https://www.google.com/search?q=Brett%20Allen%20%26%20Noola%203am</link>
-      <guid isPermaLink="false">Brett Allen &amp; Noola - 3am</guid>
+      <title>Alesso &amp; SACHA - Destiny</title>
+      <link>https://www.google.com/search?q=Alesso%20%26%20SACHA%20Destiny</link>
+      <guid isPermaLink="false">Alesso &amp; SACHA - Destiny</guid>
+    </item>
+    <item>
+      <title>DancingFaraZ - Space From You</title>
+      <link>https://www.google.com/search?q=DancingFaraZ%20Space%20From%20You</link>
+      <guid isPermaLink="false">DancingFaraZ - Space From You</guid>
+    </item>
+    <item>
+      <title>Dan Aux - Gangstaz</title>
+      <link>https://www.google.com/search?q=Dan%20Aux%20Gangstaz</link>
+      <guid isPermaLink="false">Dan Aux - Gangstaz</guid>
+    </item>
+    <item>
+      <title>CID &amp; Taylr Renee - Fancy $hit</title>
+      <link>https://www.google.com/search?q=CID%20%26%20Taylr%20Renee%20Fancy%20%24hit</link>
+      <guid isPermaLink="false">CID &amp; Taylr Renee - Fancy $hit</guid>
     </item>
     <item>
       <title>Salvi, Yuly &amp; Franklin Dam - Sugar Love</title>
@@ -26,9 +36,9 @@
       <guid isPermaLink="false">Salvi, Yuly &amp; Franklin Dam - Sugar Love</guid>
     </item>
     <item>
-      <title>RetroVision, Landis &amp; Wheatus - Teenage Dirtbag</title>
-      <link>https://www.google.com/search?q=RetroVision%2C%20Landis%20%26%20Wheatus%20Teenage%20Dirtbag</link>
-      <guid isPermaLink="false">RetroVision, Landis &amp; Wheatus - Teenage Dirtbag</guid>
+      <title>Dirty Werk - Hit The Floor</title>
+      <link>https://www.google.com/search?q=Dirty%20Werk%20Hit%20The%20Floor</link>
+      <guid isPermaLink="false">Dirty Werk - Hit The Floor</guid>
     </item>
     <item>
       <title>Matsu &amp; Confession - Automatic</title>
@@ -41,24 +51,19 @@
       <guid isPermaLink="false">Steve Aoki &amp; Blasterjaxx - Shake That</guid>
     </item>
     <item>
-      <title>Mochakk &amp; J.J. Fad - Hypersilent</title>
-      <link>https://www.google.com/search?q=Mochakk%20%26%20J.J.%20Fad%20Hypersilent</link>
-      <guid isPermaLink="false">Mochakk &amp; J.J. Fad - Hypersilent</guid>
-    </item>
-    <item>
-      <title>CID &amp; Taylr Renee - Fancy $hit</title>
-      <link>https://www.google.com/search?q=CID%20%26%20Taylr%20Renee%20Fancy%20%24hit</link>
-      <guid isPermaLink="false">CID &amp; Taylr Renee - Fancy $hit</guid>
-    </item>
-    <item>
       <title>Disco Lines &amp; Tinashe - No Broke Boys</title>
       <link>https://www.google.com/search?q=Disco%20Lines%20%26%20Tinashe%20No%20Broke%20Boys</link>
       <guid isPermaLink="false">Disco Lines &amp; Tinashe - No Broke Boys</guid>
     </item>
     <item>
-      <title>Alesso &amp; SACHA - Destiny</title>
-      <link>https://www.google.com/search?q=Alesso%20%26%20SACHA%20Destiny</link>
-      <guid isPermaLink="false">Alesso &amp; SACHA - Destiny</guid>
+      <title>Mochakk &amp; J.J. Fad - Hypersilent</title>
+      <link>https://www.google.com/search?q=Mochakk%20%26%20J.J.%20Fad%20Hypersilent</link>
+      <guid isPermaLink="false">Mochakk &amp; J.J. Fad - Hypersilent</guid>
+    </item>
+    <item>
+      <title>Steve Aoki, Blasterjaxx &amp;  Lil Jon - Get Down</title>
+      <link>https://www.google.com/search?q=Steve%20Aoki%2C%20Blasterjaxx%20%26%20%20Lil%20Jon%20Get%20Down</link>
+      <guid isPermaLink="false">Steve Aoki, Blasterjaxx &amp;  Lil Jon - Get Down</guid>
     </item>
     <item>
       <title>Fred again.., Caribou &amp; MC Tetu - Facilita</title>
@@ -69,11 +74,6 @@
       <title>Major Lazer, Parris Goebel, America Foster &amp; SadBoi - BRUK DOWN</title>
       <link>https://www.google.com/search?q=Major%20Lazer%2C%20Parris%20Goebel%2C%20America%20Foster%20%26%20SadBoi%20BRUK%20DOWN</link>
       <guid isPermaLink="false">Major Lazer, Parris Goebel, America Foster &amp; SadBoi - BRUK DOWN</guid>
-    </item>
-    <item>
-      <title>Steve Aoki, Blasterjaxx &amp;  Lil Jon - Get Down</title>
-      <link>https://www.google.com/search?q=Steve%20Aoki%2C%20Blasterjaxx%20%26%20%20Lil%20Jon%20Get%20Down</link>
-      <guid isPermaLink="false">Steve Aoki, Blasterjaxx &amp;  Lil Jon - Get Down</guid>
     </item>
     <item>
       <title>desamor. - IM ON IT</title>
