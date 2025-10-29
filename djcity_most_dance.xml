@@ -6,14 +6,9 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Laidback Luke - Sippin'</title>
-      <link>https://www.google.com/search?q=Laidback%20Luke%20Sippin%27</link>
-      <guid isPermaLink="false">Laidback Luke - Sippin'</guid>
-    </item>
-    <item>
-      <title>Alesso &amp; SACHA - Destiny</title>
-      <link>https://www.google.com/search?q=Alesso%20%26%20SACHA%20Destiny</link>
-      <guid isPermaLink="false">Alesso &amp; SACHA - Destiny</guid>
+      <title>Tall Boys - Kill Bill Halloween Remix</title>
+      <link>https://www.google.com/search?q=Tall%20Boys%20Kill%20Bill%20Halloween%20Remix</link>
+      <guid isPermaLink="false">Tall Boys - Kill Bill Halloween Remix</guid>
     </item>
     <item>
       <title>DancingFaraZ - Space From You</title>
@@ -26,19 +21,19 @@
       <guid isPermaLink="false">Dan Aux - Gangstaz</guid>
     </item>
     <item>
+      <title>Laidback Luke - Sippin'</title>
+      <link>https://www.google.com/search?q=Laidback%20Luke%20Sippin%27</link>
+      <guid isPermaLink="false">Laidback Luke - Sippin'</guid>
+    </item>
+    <item>
       <title>CID &amp; Taylr Renee - Fancy $hit</title>
       <link>https://www.google.com/search?q=CID%20%26%20Taylr%20Renee%20Fancy%20%24hit</link>
       <guid isPermaLink="false">CID &amp; Taylr Renee - Fancy $hit</guid>
     </item>
     <item>
-      <title>Salvi, Yuly &amp; Franklin Dam - Sugar Love</title>
-      <link>https://www.google.com/search?q=Salvi%2C%20Yuly%20%26%20Franklin%20Dam%20Sugar%20Love</link>
-      <guid isPermaLink="false">Salvi, Yuly &amp; Franklin Dam - Sugar Love</guid>
-    </item>
-    <item>
-      <title>Dirty Werk - Hit The Floor</title>
-      <link>https://www.google.com/search?q=Dirty%20Werk%20Hit%20The%20Floor</link>
-      <guid isPermaLink="false">Dirty Werk - Hit The Floor</guid>
+      <title>desamor. - IM ON IT</title>
+      <link>https://www.google.com/search?q=desamor.%20IM%20ON%20IT</link>
+      <guid isPermaLink="false">desamor. - IM ON IT</guid>
     </item>
     <item>
       <title>Matsu &amp; Confession - Automatic</title>
@@ -46,14 +41,24 @@
       <guid isPermaLink="false">Matsu &amp; Confession - Automatic</guid>
     </item>
     <item>
-      <title>Steve Aoki &amp; Blasterjaxx - Shake That</title>
-      <link>https://www.google.com/search?q=Steve%20Aoki%20%26%20Blasterjaxx%20Shake%20That</link>
-      <guid isPermaLink="false">Steve Aoki &amp; Blasterjaxx - Shake That</guid>
+      <title>Salvi, Yuly &amp; Franklin Dam - Sugar Love</title>
+      <link>https://www.google.com/search?q=Salvi%2C%20Yuly%20%26%20Franklin%20Dam%20Sugar%20Love</link>
+      <guid isPermaLink="false">Salvi, Yuly &amp; Franklin Dam - Sugar Love</guid>
     </item>
     <item>
       <title>Disco Lines &amp; Tinashe - No Broke Boys</title>
       <link>https://www.google.com/search?q=Disco%20Lines%20%26%20Tinashe%20No%20Broke%20Boys</link>
       <guid isPermaLink="false">Disco Lines &amp; Tinashe - No Broke Boys</guid>
+    </item>
+    <item>
+      <title>Dirty Werk - Hit The Floor</title>
+      <link>https://www.google.com/search?q=Dirty%20Werk%20Hit%20The%20Floor</link>
+      <guid isPermaLink="false">Dirty Werk - Hit The Floor</guid>
+    </item>
+    <item>
+      <title>Steve Aoki &amp; Blasterjaxx - Shake That</title>
+      <link>https://www.google.com/search?q=Steve%20Aoki%20%26%20Blasterjaxx%20Shake%20That</link>
+      <guid isPermaLink="false">Steve Aoki &amp; Blasterjaxx - Shake That</guid>
     </item>
     <item>
       <title>Mochakk &amp; J.J. Fad - Hypersilent</title>
@@ -74,11 +79,6 @@
       <title>Major Lazer, Parris Goebel, America Foster &amp; SadBoi - BRUK DOWN</title>
       <link>https://www.google.com/search?q=Major%20Lazer%2C%20Parris%20Goebel%2C%20America%20Foster%20%26%20SadBoi%20BRUK%20DOWN</link>
       <guid isPermaLink="false">Major Lazer, Parris Goebel, America Foster &amp; SadBoi - BRUK DOWN</guid>
-    </item>
-    <item>
-      <title>desamor. - IM ON IT</title>
-      <link>https://www.google.com/search?q=desamor.%20IM%20ON%20IT</link>
-      <guid isPermaLink="false">desamor. - IM ON IT</guid>
     </item>
   </channel>
 </rss>
