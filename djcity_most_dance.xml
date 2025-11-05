@@ -6,19 +6,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Steve Aoki &amp; Blasterjaxx - Shake That</title>
-      <link>https://www.google.com/search?q=Steve%20Aoki%20%26%20Blasterjaxx%20Shake%20That</link>
-      <guid isPermaLink="false">Steve Aoki &amp; Blasterjaxx - Shake That</guid>
-    </item>
-    <item>
       <title>Cheyenne Giles - San Diego</title>
       <link>https://www.google.com/search?q=Cheyenne%20Giles%20San%20Diego</link>
       <guid isPermaLink="false">Cheyenne Giles - San Diego</guid>
     </item>
     <item>
-      <title>Serite - Yabani Dance</title>
-      <link>https://www.google.com/search?q=Serite%20Yabani%20Dance</link>
-      <guid isPermaLink="false">Serite - Yabani Dance</guid>
+      <title>HUGEL, Topic &amp; Arash - I Adore You</title>
+      <link>https://www.google.com/search?q=HUGEL%2C%20Topic%20%26%20Arash%20I%20Adore%20You</link>
+      <guid isPermaLink="false">HUGEL, Topic &amp; Arash - I Adore You</guid>
     </item>
     <item>
       <title>Mochakk &amp; J.J. Fad - Hypersilent</title>
@@ -26,14 +21,9 @@
       <guid isPermaLink="false">Mochakk &amp; J.J. Fad - Hypersilent</guid>
     </item>
     <item>
-      <title>Chew Fu &amp; J-Cast - I See The Light</title>
-      <link>https://www.google.com/search?q=Chew%20Fu%20%26%20J-Cast%20I%20See%20The%20Light</link>
-      <guid isPermaLink="false">Chew Fu &amp; J-Cast - I See The Light</guid>
-    </item>
-    <item>
-      <title>Adam Port, Stryv &amp; Camila Cabello - Move</title>
-      <link>https://www.google.com/search?q=Adam%20Port%2C%20Stryv%20%26%20Camila%20Cabello%20Move</link>
-      <guid isPermaLink="false">Adam Port, Stryv &amp; Camila Cabello - Move</guid>
+      <title>Dirty Werk - Hit The Floor</title>
+      <link>https://www.google.com/search?q=Dirty%20Werk%20Hit%20The%20Floor</link>
+      <guid isPermaLink="false">Dirty Werk - Hit The Floor</guid>
     </item>
     <item>
       <title>Disclosure, Chris Lake &amp; Leven Kali - one2three</title>
@@ -41,19 +31,9 @@
       <guid isPermaLink="false">Disclosure, Chris Lake &amp; Leven Kali - one2three</guid>
     </item>
     <item>
-      <title>Dirty Werk - Hit The Floor</title>
-      <link>https://www.google.com/search?q=Dirty%20Werk%20Hit%20The%20Floor</link>
-      <guid isPermaLink="false">Dirty Werk - Hit The Floor</guid>
-    </item>
-    <item>
-      <title>CID &amp; Taylr Renee - Fancy $hit</title>
-      <link>https://www.google.com/search?q=CID%20%26%20Taylr%20Renee%20Fancy%20%24hit</link>
-      <guid isPermaLink="false">CID &amp; Taylr Renee - Fancy $hit</guid>
-    </item>
-    <item>
-      <title>Roddy Lima - TOXIC</title>
-      <link>https://www.google.com/search?q=Roddy%20Lima%20TOXIC</link>
-      <guid isPermaLink="false">Roddy Lima - TOXIC</guid>
+      <title>Adam Port, Stryv &amp; Camila Cabello - Move</title>
+      <link>https://www.google.com/search?q=Adam%20Port%2C%20Stryv%20%26%20Camila%20Cabello%20Move</link>
+      <guid isPermaLink="false">Adam Port, Stryv &amp; Camila Cabello - Move</guid>
     </item>
     <item>
       <title>DJ Scene - Champions</title>
@@ -61,9 +41,29 @@
       <guid isPermaLink="false">DJ Scene - Champions</guid>
     </item>
     <item>
+      <title>Chew Fu &amp; J-Cast - I See The Light</title>
+      <link>https://www.google.com/search?q=Chew%20Fu%20%26%20J-Cast%20I%20See%20The%20Light</link>
+      <guid isPermaLink="false">Chew Fu &amp; J-Cast - I See The Light</guid>
+    </item>
+    <item>
+      <title>Serite - Yabani Dance</title>
+      <link>https://www.google.com/search?q=Serite%20Yabani%20Dance</link>
+      <guid isPermaLink="false">Serite - Yabani Dance</guid>
+    </item>
+    <item>
+      <title>CID &amp; Taylr Renee - Fancy $hit</title>
+      <link>https://www.google.com/search?q=CID%20%26%20Taylr%20Renee%20Fancy%20%24hit</link>
+      <guid isPermaLink="false">CID &amp; Taylr Renee - Fancy $hit</guid>
+    </item>
+    <item>
       <title>Jordan Peak - Ruffneck</title>
       <link>https://www.google.com/search?q=Jordan%20Peak%20Ruffneck</link>
       <guid isPermaLink="false">Jordan Peak - Ruffneck</guid>
+    </item>
+    <item>
+      <title>Roddy Lima - TOXIC</title>
+      <link>https://www.google.com/search?q=Roddy%20Lima%20TOXIC</link>
+      <guid isPermaLink="false">Roddy Lima - TOXIC</guid>
     </item>
     <item>
       <title>Tall Boys - Kill Bill Halloween Remix</title>

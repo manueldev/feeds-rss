@@ -6,14 +6,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
+      <title>Doechii - Anxiety</title>
+      <link>https://www.google.com/search?q=Doechii%20Anxiety</link>
+      <guid isPermaLink="false">Doechii - Anxiety</guid>
+    </item>
+    <item>
       <title>Rosé &amp; Bruno Mars - APT.</title>
       <link>https://www.google.com/search?q=Ros%C3%A9%20%26%20Bruno%20Mars%20APT.</link>
       <guid isPermaLink="false">Rosé &amp; Bruno Mars - APT.</guid>
-    </item>
-    <item>
-      <title>Ed Sheeran - Symmetry Remix</title>
-      <link>https://www.google.com/search?q=Ed%20Sheeran%20Symmetry%20Remix</link>
-      <guid isPermaLink="false">Ed Sheeran - Symmetry Remix</guid>
     </item>
     <item>
       <title>Olivia Dean - Man I Need</title>
@@ -36,6 +36,16 @@
       <guid isPermaLink="false">Sabrina Carpenter - Tears</guid>
     </item>
     <item>
+      <title>Selena Gomez - In The Dark</title>
+      <link>https://www.google.com/search?q=Selena%20Gomez%20In%20The%20Dark</link>
+      <guid isPermaLink="false">Selena Gomez - In The Dark</guid>
+    </item>
+    <item>
+      <title>David Guetta, Teddy Swims &amp; Tones And I - Gone Gone Gone</title>
+      <link>https://www.google.com/search?q=David%20Guetta%2C%20Teddy%20Swims%20%26%20Tones%20And%20I%20Gone%20Gone%20Gone</link>
+      <guid isPermaLink="false">David Guetta, Teddy Swims &amp; Tones And I - Gone Gone Gone</guid>
+    </item>
+    <item>
       <title>5 Seconds Of Summer - Telephone Busy</title>
       <link>https://www.google.com/search?q=5%20Seconds%20Of%20Summer%20Telephone%20Busy</link>
       <guid isPermaLink="false">5 Seconds Of Summer - Telephone Busy</guid>
@@ -46,19 +56,9 @@
       <guid isPermaLink="false">Taylor Swift - The Fate Of Ophelia</guid>
     </item>
     <item>
-      <title>David Guetta, Teddy Swims &amp; Tones And I - Gone Gone Gone</title>
-      <link>https://www.google.com/search?q=David%20Guetta%2C%20Teddy%20Swims%20%26%20Tones%20And%20I%20Gone%20Gone%20Gone</link>
-      <guid isPermaLink="false">David Guetta, Teddy Swims &amp; Tones And I - Gone Gone Gone</guid>
-    </item>
-    <item>
       <title>Taylor Swift - Opalite</title>
       <link>https://www.google.com/search?q=Taylor%20Swift%20Opalite</link>
       <guid isPermaLink="false">Taylor Swift - Opalite</guid>
-    </item>
-    <item>
-      <title>Selena Gomez - In The Dark</title>
-      <link>https://www.google.com/search?q=Selena%20Gomez%20In%20The%20Dark</link>
-      <guid isPermaLink="false">Selena Gomez - In The Dark</guid>
     </item>
     <item>
       <title>HUNTRX, EJAE, AUDREY NUNA, REI AMI &amp; KPop Demon Hunters Cast - Golden</title>
@@ -71,14 +71,14 @@
       <guid isPermaLink="false">Saja Boys, Andrew Choi, Neckwav, Danny Chung, Kevin Woo, samUIL Lee KPop Demon Hunters Cast - Soda Pop</guid>
     </item>
     <item>
-      <title>Reneé Rapp - Lucky</title>
-      <link>https://www.google.com/search?q=Rene%C3%A9%20Rapp%20Lucky</link>
-      <guid isPermaLink="false">Reneé Rapp - Lucky</guid>
-    </item>
-    <item>
       <title>Lady Gaga - Zombieboy</title>
       <link>https://www.google.com/search?q=Lady%20Gaga%20Zombieboy</link>
       <guid isPermaLink="false">Lady Gaga - Zombieboy</guid>
+    </item>
+    <item>
+      <title>Reneé Rapp - Lucky</title>
+      <link>https://www.google.com/search?q=Rene%C3%A9%20Rapp%20Lucky</link>
+      <guid isPermaLink="false">Reneé Rapp - Lucky</guid>
     </item>
   </channel>
 </rss>
