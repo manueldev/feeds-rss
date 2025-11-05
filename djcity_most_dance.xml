@@ -6,11 +6,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Cheyenne Giles - San Diego</title>
-      <link>https://www.google.com/search?q=Cheyenne%20Giles%20San%20Diego</link>
-      <guid isPermaLink="false">Cheyenne Giles - San Diego</guid>
-    </item>
-    <item>
       <title>HUGEL, Topic &amp; Arash - I Adore You</title>
       <link>https://www.google.com/search?q=HUGEL%2C%20Topic%20%26%20Arash%20I%20Adore%20You</link>
       <guid isPermaLink="false">HUGEL, Topic &amp; Arash - I Adore You</guid>
@@ -24,6 +19,11 @@
       <title>Dirty Werk - Hit The Floor</title>
       <link>https://www.google.com/search?q=Dirty%20Werk%20Hit%20The%20Floor</link>
       <guid isPermaLink="false">Dirty Werk - Hit The Floor</guid>
+    </item>
+    <item>
+      <title>Sam Collins &amp; Scrufizzer - Wine Up</title>
+      <link>https://www.google.com/search?q=Sam%20Collins%20%26%20Scrufizzer%20Wine%20Up</link>
+      <guid isPermaLink="false">Sam Collins &amp; Scrufizzer - Wine Up</guid>
     </item>
     <item>
       <title>Disclosure, Chris Lake &amp; Leven Kali - one2three</title>
@@ -51,14 +51,14 @@
       <guid isPermaLink="false">Serite - Yabani Dance</guid>
     </item>
     <item>
-      <title>CID &amp; Taylr Renee - Fancy $hit</title>
-      <link>https://www.google.com/search?q=CID%20%26%20Taylr%20Renee%20Fancy%20%24hit</link>
-      <guid isPermaLink="false">CID &amp; Taylr Renee - Fancy $hit</guid>
-    </item>
-    <item>
       <title>Jordan Peak - Ruffneck</title>
       <link>https://www.google.com/search?q=Jordan%20Peak%20Ruffneck</link>
       <guid isPermaLink="false">Jordan Peak - Ruffneck</guid>
+    </item>
+    <item>
+      <title>CID &amp; Taylr Renee - Fancy $hit</title>
+      <link>https://www.google.com/search?q=CID%20%26%20Taylr%20Renee%20Fancy%20%24hit</link>
+      <guid isPermaLink="false">CID &amp; Taylr Renee - Fancy $hit</guid>
     </item>
     <item>
       <title>Roddy Lima - TOXIC</title>
