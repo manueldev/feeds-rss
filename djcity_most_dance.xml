@@ -6,9 +6,9 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Brian Matrix - Baiana</title>
-      <link>https://www.google.com/search?q=Brian%20Matrix%20Baiana</link>
-      <guid isPermaLink="false">Brian Matrix - Baiana</guid>
+      <title>Draxx (ITA) &amp; Cavalli - Ride Or Die</title>
+      <link>https://www.google.com/search?q=Draxx%20%28ITA%29%20%26%20Cavalli%20Ride%20Or%20Die</link>
+      <guid isPermaLink="false">Draxx (ITA) &amp; Cavalli - Ride Or Die</guid>
     </item>
     <item>
       <title>Disco Lines &amp; Tinashe - No Broke Boys</title>
@@ -16,34 +16,14 @@
       <guid isPermaLink="false">Disco Lines &amp; Tinashe - No Broke Boys</guid>
     </item>
     <item>
-      <title>SOSA - Be Without You</title>
-      <link>https://www.google.com/search?q=SOSA%20Be%20Without%20You</link>
-      <guid isPermaLink="false">SOSA - Be Without You</guid>
-    </item>
-    <item>
-      <title>Diplo &amp; Local Singles - Lift Me Up</title>
-      <link>https://www.google.com/search?q=Diplo%20%26%20Local%20Singles%20Lift%20Me%20Up</link>
-      <guid isPermaLink="false">Diplo &amp; Local Singles - Lift Me Up</guid>
-    </item>
-    <item>
-      <title>Wuki &amp; Devo - Whip It</title>
-      <link>https://www.google.com/search?q=Wuki%20%26%20Devo%20Whip%20It</link>
-      <guid isPermaLink="false">Wuki &amp; Devo - Whip It</guid>
-    </item>
-    <item>
       <title>Angie Brown &amp; Austin Millz - I'm Gonna Get You</title>
       <link>https://www.google.com/search?q=Angie%20Brown%20%26%20Austin%20Millz%20I%27m%20Gonna%20Get%20You</link>
       <guid isPermaLink="false">Angie Brown &amp; Austin Millz - I'm Gonna Get You</guid>
     </item>
     <item>
-      <title>BARTS &amp; Kelland - I WANNA ROCK</title>
-      <link>https://www.google.com/search?q=BARTS%20%26%20Kelland%20I%20WANNA%20ROCK</link>
-      <guid isPermaLink="false">BARTS &amp; Kelland - I WANNA ROCK</guid>
-    </item>
-    <item>
-      <title>HAYLA &amp; Nelly Furtado - FADED</title>
-      <link>https://www.google.com/search?q=HAYLA%20%26%20Nelly%20Furtado%20FADED</link>
-      <guid isPermaLink="false">HAYLA &amp; Nelly Furtado - FADED</guid>
+      <title>SOSA - Be Without You</title>
+      <link>https://www.google.com/search?q=SOSA%20Be%20Without%20You</link>
+      <guid isPermaLink="false">SOSA - Be Without You</guid>
     </item>
     <item>
       <title>R3HAB &amp; AFROJACK - Louder For The People</title>
@@ -51,9 +31,34 @@
       <guid isPermaLink="false">R3HAB &amp; AFROJACK - Louder For The People</guid>
     </item>
     <item>
+      <title>Wuki &amp; Devo - Whip It</title>
+      <link>https://www.google.com/search?q=Wuki%20%26%20Devo%20Whip%20It</link>
+      <guid isPermaLink="false">Wuki &amp; Devo - Whip It</guid>
+    </item>
+    <item>
+      <title>BARTS &amp; Kelland - I WANNA ROCK</title>
+      <link>https://www.google.com/search?q=BARTS%20%26%20Kelland%20I%20WANNA%20ROCK</link>
+      <guid isPermaLink="false">BARTS &amp; Kelland - I WANNA ROCK</guid>
+    </item>
+    <item>
+      <title>Brian Matrix - Baiana</title>
+      <link>https://www.google.com/search?q=Brian%20Matrix%20Baiana</link>
+      <guid isPermaLink="false">Brian Matrix - Baiana</guid>
+    </item>
+    <item>
+      <title>HAYLA &amp; Nelly Furtado - FADED</title>
+      <link>https://www.google.com/search?q=HAYLA%20%26%20Nelly%20Furtado%20FADED</link>
+      <guid isPermaLink="false">HAYLA &amp; Nelly Furtado - FADED</guid>
+    </item>
+    <item>
       <title>Lance Savali - Ain't No Party</title>
       <link>https://www.google.com/search?q=Lance%20Savali%20Ain%27t%20No%20Party</link>
       <guid isPermaLink="false">Lance Savali - Ain't No Party</guid>
+    </item>
+    <item>
+      <title>DJ Snake &amp; Damian "Jr. Gong" Marley - Bam Bam</title>
+      <link>https://www.google.com/search?q=DJ%20Snake%20%26%20Damian%20%22Jr.%20Gong%22%20Marley%20Bam%20Bam</link>
+      <guid isPermaLink="false">DJ Snake &amp; Damian "Jr. Gong" Marley - Bam Bam</guid>
     </item>
     <item>
       <title>Odd Mob, OMNOM &amp; HYPERBEAM - Coming Up (It's Dare)</title>
@@ -69,11 +74,6 @@
       <title>Vice &amp; Eric Dlux - UP N DOWN</title>
       <link>https://www.google.com/search?q=Vice%20%26%20Eric%20Dlux%20UP%20N%20DOWN</link>
       <guid isPermaLink="false">Vice &amp; Eric Dlux - UP N DOWN</guid>
-    </item>
-    <item>
-      <title>DJ Snake &amp; Damian "Jr. Gong" Marley - Bam Bam</title>
-      <link>https://www.google.com/search?q=DJ%20Snake%20%26%20Damian%20%22Jr.%20Gong%22%20Marley%20Bam%20Bam</link>
-      <guid isPermaLink="false">DJ Snake &amp; Damian "Jr. Gong" Marley - Bam Bam</guid>
     </item>
     <item>
       <title>HUGEL &amp; SOLTO (FR) - Jamaican (Bam Bam)</title>
