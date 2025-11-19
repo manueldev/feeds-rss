@@ -6,9 +6,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
+      <title>Doechii - Anxiety</title>
+      <link>https://www.google.com/search?q=Doechii%20Anxiety</link>
+      <guid isPermaLink="false">Doechii - Anxiety</guid>
+    </item>
+    <item>
       <title>David Guetta, Teddy Swims &amp; Tones And I - Gone Gone Gone</title>
       <link>https://www.google.com/search?q=David%20Guetta%2C%20Teddy%20Swims%20%26%20Tones%20And%20I%20Gone%20Gone%20Gone</link>
       <guid isPermaLink="false">David Guetta, Teddy Swims &amp; Tones And I - Gone Gone Gone</guid>
+    </item>
+    <item>
+      <title>Kings Of Leon - To Space</title>
+      <link>https://www.google.com/search?q=Kings%20Of%20Leon%20To%20Space</link>
+      <guid isPermaLink="false">Kings Of Leon - To Space</guid>
     </item>
     <item>
       <title>Olivia Dean - Man I Need</title>
@@ -31,19 +41,9 @@
       <guid isPermaLink="false">Taylor Swift - Opalite</guid>
     </item>
     <item>
-      <title>Kings Of Leon - To Space</title>
-      <link>https://www.google.com/search?q=Kings%20Of%20Leon%20To%20Space</link>
-      <guid isPermaLink="false">Kings Of Leon - To Space</guid>
-    </item>
-    <item>
       <title>Taylor Swift - The Fate Of Ophelia</title>
       <link>https://www.google.com/search?q=Taylor%20Swift%20The%20Fate%20Of%20Ophelia</link>
       <guid isPermaLink="false">Taylor Swift - The Fate Of Ophelia</guid>
-    </item>
-    <item>
-      <title>Joji - Past Won't Leave My Bed</title>
-      <link>https://www.google.com/search?q=Joji%20Past%20Won%27t%20Leave%20My%20Bed</link>
-      <guid isPermaLink="false">Joji - Past Won't Leave My Bed</guid>
     </item>
     <item>
       <title>Saja Boys, Andrew Choi, Neckwav, Danny Chung, Kevin Woo, samUIL Lee KPop Demon Hunters Cast - Soda Pop</title>
@@ -51,14 +51,14 @@
       <guid isPermaLink="false">Saja Boys, Andrew Choi, Neckwav, Danny Chung, Kevin Woo, samUIL Lee KPop Demon Hunters Cast - Soda Pop</guid>
     </item>
     <item>
+      <title>DJ Snake &amp; Stray Kids - In The Dark</title>
+      <link>https://www.google.com/search?q=DJ%20Snake%20%26%20Stray%20Kids%20In%20The%20Dark</link>
+      <guid isPermaLink="false">DJ Snake &amp; Stray Kids - In The Dark</guid>
+    </item>
+    <item>
       <title>HUNTRX, EJAE, AUDREY NUNA, REI AMI &amp; KPop Demon Hunters Cast - Golden</title>
       <link>https://www.google.com/search?q=HUNTRX%2C%20EJAE%2C%20AUDREY%20NUNA%2C%20REI%20AMI%20%26%20KPop%20Demon%20Hunters%20Cast%20Golden</link>
       <guid isPermaLink="false">HUNTRX, EJAE, AUDREY NUNA, REI AMI &amp; KPop Demon Hunters Cast - Golden</guid>
-    </item>
-    <item>
-      <title>Ed Sheeran - Symmetry</title>
-      <link>https://www.google.com/search?q=Ed%20Sheeran%20Symmetry</link>
-      <guid isPermaLink="false">Ed Sheeran - Symmetry</guid>
     </item>
     <item>
       <title>Hilary Duff - Mature</title>
@@ -66,19 +66,19 @@
       <guid isPermaLink="false">Hilary Duff - Mature</guid>
     </item>
     <item>
-      <title>The Juniperos - If You Wanna Be My Lover</title>
-      <link>https://www.google.com/search?q=The%20Juniperos%20If%20You%20Wanna%20Be%20My%20Lover</link>
-      <guid isPermaLink="false">The Juniperos - If You Wanna Be My Lover</guid>
-    </item>
-    <item>
-      <title>DJ Snake &amp; Stray Kids - In The Dark</title>
-      <link>https://www.google.com/search?q=DJ%20Snake%20%26%20Stray%20Kids%20In%20The%20Dark</link>
-      <guid isPermaLink="false">DJ Snake &amp; Stray Kids - In The Dark</guid>
-    </item>
-    <item>
       <title>Katy Perry - bandaids</title>
       <link>https://www.google.com/search?q=Katy%20Perry%20bandaids</link>
       <guid isPermaLink="false">Katy Perry - bandaids</guid>
+    </item>
+    <item>
+      <title>Ed Sheeran - Symmetry</title>
+      <link>https://www.google.com/search?q=Ed%20Sheeran%20Symmetry</link>
+      <guid isPermaLink="false">Ed Sheeran - Symmetry</guid>
+    </item>
+    <item>
+      <title>The Juniperos - If You Wanna Be My Lover</title>
+      <link>https://www.google.com/search?q=The%20Juniperos%20If%20You%20Wanna%20Be%20My%20Lover</link>
+      <guid isPermaLink="false">The Juniperos - If You Wanna Be My Lover</guid>
     </item>
   </channel>
 </rss>
