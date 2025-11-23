@@ -6,14 +6,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Brett Allen &amp; Alva Gracia - Balenciaga</title>
-      <link>https://www.google.com/search?q=Brett%20Allen%20%26%20Alva%20Gracia%20Balenciaga</link>
-      <guid isPermaLink="false">Brett Allen &amp; Alva Gracia - Balenciaga</guid>
+      <title>HAYLA &amp; Nelly Furtado - FADED</title>
+      <link>https://www.google.com/search?q=HAYLA%20%26%20Nelly%20Furtado%20FADED</link>
+      <guid isPermaLink="false">HAYLA &amp; Nelly Furtado - FADED</guid>
     </item>
     <item>
-      <title>Wuki &amp; Devo - Whip It</title>
-      <link>https://www.google.com/search?q=Wuki%20%26%20Devo%20Whip%20It</link>
-      <guid isPermaLink="false">Wuki &amp; Devo - Whip It</guid>
+      <title>Major Lazer &amp; Diplo - GUAYANDO</title>
+      <link>https://www.google.com/search?q=Major%20Lazer%20%26%20Diplo%20GUAYANDO</link>
+      <guid isPermaLink="false">Major Lazer &amp; Diplo - GUAYANDO</guid>
+    </item>
+    <item>
+      <title>Tiga &amp; MEDUZA - You Gonna Want Me (I Know)</title>
+      <link>https://www.google.com/search?q=Tiga%20%26%20MEDUZA%20You%20Gonna%20Want%20Me%20%28I%20Know%29</link>
+      <guid isPermaLink="false">Tiga &amp; MEDUZA - You Gonna Want Me (I Know)</guid>
     </item>
     <item>
       <title>Crunkz - I Don't Care</title>
@@ -21,19 +26,9 @@
       <guid isPermaLink="false">Crunkz - I Don't Care</guid>
     </item>
     <item>
-      <title>Layton Giordani - Hold It Down (DARE)</title>
-      <link>https://www.google.com/search?q=Layton%20Giordani%20Hold%20It%20Down%20%28DARE%29</link>
-      <guid isPermaLink="false">Layton Giordani - Hold It Down (DARE)</guid>
-    </item>
-    <item>
-      <title>Loud Luxury &amp; Emily Roberts - LOVE YOU FOR LIFE.</title>
-      <link>https://www.google.com/search?q=Loud%20Luxury%20%26%20Emily%20Roberts%20LOVE%20YOU%20FOR%20LIFE.</link>
-      <guid isPermaLink="false">Loud Luxury &amp; Emily Roberts - LOVE YOU FOR LIFE.</guid>
-    </item>
-    <item>
-      <title>Flex (UK) - So Fine</title>
-      <link>https://www.google.com/search?q=Flex%20%28UK%29%20So%20Fine</link>
-      <guid isPermaLink="false">Flex (UK) - So Fine</guid>
+      <title>ESSE - Ooops</title>
+      <link>https://www.google.com/search?q=ESSE%20Ooops</link>
+      <guid isPermaLink="false">ESSE - Ooops</guid>
     </item>
     <item>
       <title>TWOPILOTS, James Hersey &amp; ARTUNIS - Strangers</title>
@@ -41,19 +36,19 @@
       <guid isPermaLink="false">TWOPILOTS, James Hersey &amp; ARTUNIS - Strangers</guid>
     </item>
     <item>
-      <title>Steve Aoki &amp; Nicky Romero - Higher Off The Ground</title>
-      <link>https://www.google.com/search?q=Steve%20Aoki%20%26%20Nicky%20Romero%20Higher%20Off%20The%20Ground</link>
-      <guid isPermaLink="false">Steve Aoki &amp; Nicky Romero - Higher Off The Ground</guid>
+      <title>Richard Vission &amp; Alex Peace - Bring Back The Funk</title>
+      <link>https://www.google.com/search?q=Richard%20Vission%20%26%20Alex%20Peace%20Bring%20Back%20The%20Funk</link>
+      <guid isPermaLink="false">Richard Vission &amp; Alex Peace - Bring Back The Funk</guid>
     </item>
     <item>
-      <title>ESSE - Ooops</title>
-      <link>https://www.google.com/search?q=ESSE%20Ooops</link>
-      <guid isPermaLink="false">ESSE - Ooops</guid>
+      <title>Flex (UK) - So Fine</title>
+      <link>https://www.google.com/search?q=Flex%20%28UK%29%20So%20Fine</link>
+      <guid isPermaLink="false">Flex (UK) - So Fine</guid>
     </item>
     <item>
-      <title>HAYLA &amp; Nelly Furtado - FADED</title>
-      <link>https://www.google.com/search?q=HAYLA%20%26%20Nelly%20Furtado%20FADED</link>
-      <guid isPermaLink="false">HAYLA &amp; Nelly Furtado - FADED</guid>
+      <title>Layton Giordani - Hold It Down (DARE)</title>
+      <link>https://www.google.com/search?q=Layton%20Giordani%20Hold%20It%20Down%20%28DARE%29</link>
+      <guid isPermaLink="false">Layton Giordani - Hold It Down (DARE)</guid>
     </item>
     <item>
       <title>Kungs - Nasty</title>
@@ -64,6 +59,11 @@
       <title>Odd Mob, OMNOM &amp; HYPERBEAM - Coming Up (It's Dare)</title>
       <link>https://www.google.com/search?q=Odd%20Mob%2C%20OMNOM%20%26%20HYPERBEAM%20Coming%20Up%20%28It%27s%20Dare%29</link>
       <guid isPermaLink="false">Odd Mob, OMNOM &amp; HYPERBEAM - Coming Up (It's Dare)</guid>
+    </item>
+    <item>
+      <title>Loud Luxury &amp; Emily Roberts - LOVE YOU FOR LIFE.</title>
+      <link>https://www.google.com/search?q=Loud%20Luxury%20%26%20Emily%20Roberts%20LOVE%20YOU%20FOR%20LIFE.</link>
+      <guid isPermaLink="false">Loud Luxury &amp; Emily Roberts - LOVE YOU FOR LIFE.</guid>
     </item>
     <item>
       <title>Brian Matrix - Baiana</title>
