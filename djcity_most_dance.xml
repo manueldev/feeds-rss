@@ -6,9 +6,9 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Supermassive - Eyes On Me</title>
-      <link>https://www.google.com/search?q=Supermassive%20Eyes%20On%20Me</link>
-      <guid isPermaLink="false">Supermassive - Eyes On Me</guid>
+      <title>Tiësto &amp; FORS - Bring Me To Life</title>
+      <link>https://www.google.com/search?q=Ti%C3%ABsto%20%26%20FORS%20Bring%20Me%20To%20Life</link>
+      <guid isPermaLink="false">Tiësto &amp; FORS - Bring Me To Life</guid>
     </item>
     <item>
       <title>REDD - Give It Up</title>
@@ -16,24 +16,19 @@
       <guid isPermaLink="false">REDD - Give It Up</guid>
     </item>
     <item>
-      <title>Disco Lines &amp; Tinashe - No Broke Boys</title>
-      <link>https://www.google.com/search?q=Disco%20Lines%20%26%20Tinashe%20No%20Broke%20Boys</link>
-      <guid isPermaLink="false">Disco Lines &amp; Tinashe - No Broke Boys</guid>
-    </item>
-    <item>
       <title>Phantogram &amp; HNTR - Fall In Love Again</title>
       <link>https://www.google.com/search?q=Phantogram%20%26%20HNTR%20Fall%20In%20Love%20Again</link>
       <guid isPermaLink="false">Phantogram &amp; HNTR - Fall In Love Again</guid>
     </item>
     <item>
+      <title>Disco Lines &amp; Tinashe - No Broke Boys</title>
+      <link>https://www.google.com/search?q=Disco%20Lines%20%26%20Tinashe%20No%20Broke%20Boys</link>
+      <guid isPermaLink="false">Disco Lines &amp; Tinashe - No Broke Boys</guid>
+    </item>
+    <item>
       <title>Odd Mob, OMNOM &amp; HYPERBEAM - Coming Up (It's Dare)</title>
       <link>https://www.google.com/search?q=Odd%20Mob%2C%20OMNOM%20%26%20HYPERBEAM%20Coming%20Up%20%28It%27s%20Dare%29</link>
       <guid isPermaLink="false">Odd Mob, OMNOM &amp; HYPERBEAM - Coming Up (It's Dare)</guid>
-    </item>
-    <item>
-      <title>Major Lazer &amp; Diplo - GUAYANDO</title>
-      <link>https://www.google.com/search?q=Major%20Lazer%20%26%20Diplo%20GUAYANDO</link>
-      <guid isPermaLink="false">Major Lazer &amp; Diplo - GUAYANDO</guid>
     </item>
     <item>
       <title>Tiga &amp; MEDUZA - You Gonna Want Me (I Know)</title>
@@ -44,6 +39,11 @@
       <title>Crunkz - I Don't Care</title>
       <link>https://www.google.com/search?q=Crunkz%20I%20Don%27t%20Care</link>
       <guid isPermaLink="false">Crunkz - I Don't Care</guid>
+    </item>
+    <item>
+      <title>Major Lazer &amp; Diplo - GUAYANDO</title>
+      <link>https://www.google.com/search?q=Major%20Lazer%20%26%20Diplo%20GUAYANDO</link>
+      <guid isPermaLink="false">Major Lazer &amp; Diplo - GUAYANDO</guid>
     </item>
     <item>
       <title>Flex (UK) - So Fine</title>
