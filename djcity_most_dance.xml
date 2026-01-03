@@ -6,24 +6,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
+      <title>Koffee &amp; Kandee - Lights Off</title>
+      <link>https://www.google.com/search?q=Koffee%20%26%20Kandee%20Lights%20Off</link>
+      <guid isPermaLink="false">Koffee &amp; Kandee - Lights Off</guid>
+    </item>
+    <item>
       <title>Riordan &amp; A+ - Party Out</title>
       <link>https://www.google.com/search?q=Riordan%20%26%20A%2B%20Party%20Out</link>
       <guid isPermaLink="false">Riordan &amp; A+ - Party Out</guid>
     </item>
     <item>
-      <title>P-LO, DJ E-Rock, Clayton William &amp; Teen Wolf - Same Squad</title>
-      <link>https://www.google.com/search?q=P-LO%2C%20DJ%20E-Rock%2C%20Clayton%20William%20%26%20Teen%20Wolf%20Same%20Squad</link>
-      <guid isPermaLink="false">P-LO, DJ E-Rock, Clayton William &amp; Teen Wolf - Same Squad</guid>
-    </item>
-    <item>
-      <title>DJ Katch &amp; Smoothies - FAVELA</title>
-      <link>https://www.google.com/search?q=DJ%20Katch%20%26%20Smoothies%20FAVELA</link>
-      <guid isPermaLink="false">DJ Katch &amp; Smoothies - FAVELA</guid>
-    </item>
-    <item>
-      <title>Koffee &amp; Kandee - Lights Off</title>
-      <link>https://www.google.com/search?q=Koffee%20%26%20Kandee%20Lights%20Off</link>
-      <guid isPermaLink="false">Koffee &amp; Kandee - Lights Off</guid>
+      <title>HUGEL, Topic &amp; Arash - I Adore You</title>
+      <link>https://www.google.com/search?q=HUGEL%2C%20Topic%20%26%20Arash%20I%20Adore%20You</link>
+      <guid isPermaLink="false">HUGEL, Topic &amp; Arash - I Adore You</guid>
     </item>
     <item>
       <title>Freejak - Dark Horse</title>
@@ -36,14 +31,14 @@
       <guid isPermaLink="false">Maesic, Marshall Jefferson &amp; Salomé Das - Life Is Simple (Move Your Body)</guid>
     </item>
     <item>
+      <title>DJ Katch &amp; Smoothies - FAVELA</title>
+      <link>https://www.google.com/search?q=DJ%20Katch%20%26%20Smoothies%20FAVELA</link>
+      <guid isPermaLink="false">DJ Katch &amp; Smoothies - FAVELA</guid>
+    </item>
+    <item>
       <title>ZERB &amp; Wiz Khalifa - Location</title>
       <link>https://www.google.com/search?q=ZERB%20%26%20Wiz%20Khalifa%20Location</link>
       <guid isPermaLink="false">ZERB &amp; Wiz Khalifa - Location</guid>
-    </item>
-    <item>
-      <title>2CHECKS - Nobody But U</title>
-      <link>https://www.google.com/search?q=2CHECKS%20Nobody%20But%20U</link>
-      <guid isPermaLink="false">2CHECKS - Nobody But U</guid>
     </item>
     <item>
       <title>HAVEN. &amp; Kaitlin Aragon - I Run</title>
@@ -56,6 +51,11 @@
       <guid isPermaLink="false">HUGEL &amp; SOLTO (FR) - Jamaican (Bam Bam)</guid>
     </item>
     <item>
+      <title>2CHECKS - Nobody But U</title>
+      <link>https://www.google.com/search?q=2CHECKS%20Nobody%20But%20U</link>
+      <guid isPermaLink="false">2CHECKS - Nobody But U</guid>
+    </item>
+    <item>
       <title>GROSSOMODDO, Danny Roma &amp; Manrix - Halab</title>
       <link>https://www.google.com/search?q=GROSSOMODDO%2C%20Danny%20Roma%20%26%20Manrix%20Halab</link>
       <guid isPermaLink="false">GROSSOMODDO, Danny Roma &amp; Manrix - Halab</guid>
@@ -66,9 +66,9 @@
       <guid isPermaLink="false">Disco Lines &amp; Tinashe - No Broke Boys</guid>
     </item>
     <item>
-      <title>HUGEL &amp; Mydoz - Pull Up</title>
-      <link>https://www.google.com/search?q=HUGEL%20%26%20Mydoz%20Pull%20Up</link>
-      <guid isPermaLink="false">HUGEL &amp; Mydoz - Pull Up</guid>
+      <title>HUGEL &amp; DYSTINCT - YAMA BY NIGHT</title>
+      <link>https://www.google.com/search?q=HUGEL%20%26%20DYSTINCT%20YAMA%20BY%20NIGHT</link>
+      <guid isPermaLink="false">HUGEL &amp; DYSTINCT - YAMA BY NIGHT</guid>
     </item>
     <item>
       <title>HUGEL &amp; Ultra Naté - Free (You Got To Live)</title>
@@ -76,9 +76,9 @@
       <guid isPermaLink="false">HUGEL &amp; Ultra Naté - Free (You Got To Live)</guid>
     </item>
     <item>
-      <title>HUGEL &amp; DYSTINCT - YAMA BY NIGHT</title>
-      <link>https://www.google.com/search?q=HUGEL%20%26%20DYSTINCT%20YAMA%20BY%20NIGHT</link>
-      <guid isPermaLink="false">HUGEL &amp; DYSTINCT - YAMA BY NIGHT</guid>
+      <title>HUGEL &amp; Mydoz - Pull Up</title>
+      <link>https://www.google.com/search?q=HUGEL%20%26%20Mydoz%20Pull%20Up</link>
+      <guid isPermaLink="false">HUGEL &amp; Mydoz - Pull Up</guid>
     </item>
   </channel>
 </rss>
