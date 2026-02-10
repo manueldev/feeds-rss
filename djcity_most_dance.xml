@@ -6,24 +6,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Thomas Gold &amp; Barmuda - Gimme Your Love</title>
-      <link>https://www.google.com/search?q=Thomas%20Gold%20%26%20Barmuda%20Gimme%20Your%20Love</link>
-      <guid isPermaLink="false">Thomas Gold &amp; Barmuda - Gimme Your Love</guid>
-    </item>
-    <item>
-      <title>Cobrah - Hush</title>
-      <link>https://www.google.com/search?q=Cobrah%20Hush</link>
-      <guid isPermaLink="false">Cobrah - Hush</guid>
-    </item>
-    <item>
-      <title>D.O.D &amp; Poppy Baskcomb - Confession</title>
-      <link>https://www.google.com/search?q=D.O.D%20%26%20Poppy%20Baskcomb%20Confession</link>
-      <guid isPermaLink="false">D.O.D &amp; Poppy Baskcomb - Confession</guid>
-    </item>
-    <item>
       <title>Smoothies &amp; MC Rennan - Não Precisa De Academia</title>
       <link>https://www.google.com/search?q=Smoothies%20%26%20MC%20Rennan%20N%C3%A3o%20Precisa%20De%20Academia</link>
       <guid isPermaLink="false">Smoothies &amp; MC Rennan - Não Precisa De Academia</guid>
+    </item>
+    <item>
+      <title>DJ HABIBEATS &amp; Giovanni Khoury - DAL3OUNA!</title>
+      <link>https://www.google.com/search?q=DJ%20HABIBEATS%20%26%20Giovanni%20Khoury%20DAL3OUNA%21</link>
+      <guid isPermaLink="false">DJ HABIBEATS &amp; Giovanni Khoury - DAL3OUNA!</guid>
+    </item>
+    <item>
+      <title>ILLENIUM &amp; Ellie Goulding - Don't Want Your Love</title>
+      <link>https://www.google.com/search?q=ILLENIUM%20%26%20Ellie%20Goulding%20Don%27t%20Want%20Your%20Love</link>
+      <guid isPermaLink="false">ILLENIUM &amp; Ellie Goulding - Don't Want Your Love</guid>
     </item>
     <item>
       <title>Panjabi MC, Sanjay &amp; Glory Bawa - Bawa Boli</title>
@@ -31,14 +26,19 @@
       <guid isPermaLink="false">Panjabi MC, Sanjay &amp; Glory Bawa - Bawa Boli</guid>
     </item>
     <item>
+      <title>Smoothies, Sico Vox &amp; Mc Vininho - Vai Vai</title>
+      <link>https://www.google.com/search?q=Smoothies%2C%20Sico%20Vox%20%26%20Mc%20Vininho%20Vai%20Vai</link>
+      <guid isPermaLink="false">Smoothies, Sico Vox &amp; Mc Vininho - Vai Vai</guid>
+    </item>
+    <item>
+      <title>D.O.D &amp; Poppy Baskcomb - Confession</title>
+      <link>https://www.google.com/search?q=D.O.D%20%26%20Poppy%20Baskcomb%20Confession</link>
+      <guid isPermaLink="false">D.O.D &amp; Poppy Baskcomb - Confession</guid>
+    </item>
+    <item>
       <title>Marlon Hoffstadt, DJ Konik, Dimitri Vegas &amp; Like Mike - Makina Time</title>
       <link>https://www.google.com/search?q=Marlon%20Hoffstadt%2C%20DJ%20Konik%2C%20Dimitri%20Vegas%20%26%20Like%20Mike%20Makina%20Time</link>
       <guid isPermaLink="false">Marlon Hoffstadt, DJ Konik, Dimitri Vegas &amp; Like Mike - Makina Time</guid>
-    </item>
-    <item>
-      <title>CASHEW - Funk Phenomenon</title>
-      <link>https://www.google.com/search?q=CASHEW%20Funk%20Phenomenon</link>
-      <guid isPermaLink="false">CASHEW - Funk Phenomenon</guid>
     </item>
     <item>
       <title>Disco Lines &amp; Tinashe - No Broke Boys</title>
@@ -46,9 +46,9 @@
       <guid isPermaLink="false">Disco Lines &amp; Tinashe - No Broke Boys</guid>
     </item>
     <item>
-      <title>Smoothies, Sico Vox &amp; Mc Vininho - Vai Vai</title>
-      <link>https://www.google.com/search?q=Smoothies%2C%20Sico%20Vox%20%26%20Mc%20Vininho%20Vai%20Vai</link>
-      <guid isPermaLink="false">Smoothies, Sico Vox &amp; Mc Vininho - Vai Vai</guid>
+      <title>CASHEW - Funk Phenomenon</title>
+      <link>https://www.google.com/search?q=CASHEW%20Funk%20Phenomenon</link>
+      <guid isPermaLink="false">CASHEW - Funk Phenomenon</guid>
     </item>
     <item>
       <title>Joel Corry - Stuck In A Loop</title>
