@@ -6,19 +6,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Billie Eilish - BIRDS OF A FEATHER</title>
-      <link>https://www.google.com/search?q=Billie%20Eilish%20BIRDS%20OF%20A%20FEATHER</link>
-      <guid isPermaLink="false">Billie Eilish - BIRDS OF A FEATHER</guid>
+      <title>Lady Gaga - Abracadabra</title>
+      <link>https://www.google.com/search?q=Lady%20Gaga%20Abracadabra</link>
+      <guid isPermaLink="false">Lady Gaga - Abracadabra</guid>
     </item>
     <item>
       <title>PinkPantheress - Illegal</title>
       <link>https://www.google.com/search?q=PinkPantheress%20Illegal</link>
       <guid isPermaLink="false">PinkPantheress - Illegal</guid>
-    </item>
-    <item>
-      <title>Lady Gaga - Abracadabra</title>
-      <link>https://www.google.com/search?q=Lady%20Gaga%20Abracadabra</link>
-      <guid isPermaLink="false">Lady Gaga - Abracadabra</guid>
     </item>
     <item>
       <title>Marvin Gaye, Tammi Terrell &amp; Vandelux - Ain't No Mountain High Enough</title>
@@ -31,6 +26,16 @@
       <guid isPermaLink="false">Doechii - Anxiety</guid>
     </item>
     <item>
+      <title>Nick Jonas - London Foolishly</title>
+      <link>https://www.google.com/search?q=Nick%20Jonas%20London%20Foolishly</link>
+      <guid isPermaLink="false">Nick Jonas - London Foolishly</guid>
+    </item>
+    <item>
+      <title>PinkPantheress &amp; Zara Larsson - Stateside</title>
+      <link>https://www.google.com/search?q=PinkPantheress%20%26%20Zara%20Larsson%20Stateside</link>
+      <guid isPermaLink="false">PinkPantheress &amp; Zara Larsson - Stateside</guid>
+    </item>
+    <item>
       <title>Joji - Hotel California</title>
       <link>https://www.google.com/search?q=Joji%20Hotel%20California</link>
       <guid isPermaLink="false">Joji - Hotel California</guid>
@@ -41,19 +46,9 @@
       <guid isPermaLink="false">Nick Jonas - Sweet To Me</guid>
     </item>
     <item>
-      <title>PinkPantheress &amp; Zara Larsson - Stateside</title>
-      <link>https://www.google.com/search?q=PinkPantheress%20%26%20Zara%20Larsson%20Stateside</link>
-      <guid isPermaLink="false">PinkPantheress &amp; Zara Larsson - Stateside</guid>
-    </item>
-    <item>
       <title>HUNTRX, EJAE, AUDREY NUNA, REI AMI &amp; KPop Demon Hunters Cast - Golden</title>
       <link>https://www.google.com/search?q=HUNTRX%2C%20EJAE%2C%20AUDREY%20NUNA%2C%20REI%20AMI%20%26%20KPop%20Demon%20Hunters%20Cast%20Golden</link>
       <guid isPermaLink="false">HUNTRX, EJAE, AUDREY NUNA, REI AMI &amp; KPop Demon Hunters Cast - Golden</guid>
-    </item>
-    <item>
-      <title>Charlie Puth &amp; Kenny G - Cry</title>
-      <link>https://www.google.com/search?q=Charlie%20Puth%20%26%20Kenny%20G%20Cry</link>
-      <guid isPermaLink="false">Charlie Puth &amp; Kenny G - Cry</guid>
     </item>
     <item>
       <title>RAYE - WHERE IS MY HUSBAND!</title>
@@ -64,6 +59,11 @@
       <title>sombr - Homewrecker</title>
       <link>https://www.google.com/search?q=sombr%20Homewrecker</link>
       <guid isPermaLink="false">sombr - Homewrecker</guid>
+    </item>
+    <item>
+      <title>Charlie Puth &amp; Kenny G - Cry</title>
+      <link>https://www.google.com/search?q=Charlie%20Puth%20%26%20Kenny%20G%20Cry</link>
+      <guid isPermaLink="false">Charlie Puth &amp; Kenny G - Cry</guid>
     </item>
     <item>
       <title>Olivia Dean - Man I Need</title>
