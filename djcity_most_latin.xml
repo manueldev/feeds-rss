@@ -6,19 +6,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Bad Bunny - MONACO</title>
-      <link>https://www.google.com/search?q=Bad%20Bunny%20MONACO</link>
-      <guid isPermaLink="false">Bad Bunny - MONACO</guid>
-    </item>
-    <item>
       <title>Bad Bunny - Yo Perreo Sola</title>
       <link>https://www.google.com/search?q=Bad%20Bunny%20Yo%20Perreo%20Sola</link>
       <guid isPermaLink="false">Bad Bunny - Yo Perreo Sola</guid>
     </item>
     <item>
-      <title>Alu Mix &amp; Brray - Ñero Session 19</title>
-      <link>https://www.google.com/search?q=Alu%20Mix%20%26%20Brray%20%C3%91ero%20Session%2019</link>
-      <guid isPermaLink="false">Alu Mix &amp; Brray - Ñero Session 19</guid>
+      <title>Bad Bunny - MONACO</title>
+      <link>https://www.google.com/search?q=Bad%20Bunny%20MONACO</link>
+      <guid isPermaLink="false">Bad Bunny - MONACO</guid>
+    </item>
+    <item>
+      <title>KAROL G - LATINA FOREVA</title>
+      <link>https://www.google.com/search?q=KAROL%20G%20LATINA%20FOREVA</link>
+      <guid isPermaLink="false">KAROL G - LATINA FOREVA</guid>
     </item>
     <item>
       <title>Bad Bunny &amp; Rauw Alejandro - Party</title>
@@ -26,14 +26,14 @@
       <guid isPermaLink="false">Bad Bunny &amp; Rauw Alejandro - Party</guid>
     </item>
     <item>
-      <title>Justin Quiles &amp; Lenny Tavárez - CHAMPAGNE</title>
-      <link>https://www.google.com/search?q=Justin%20Quiles%20%26%20Lenny%20Tav%C3%A1rez%20CHAMPAGNE</link>
-      <guid isPermaLink="false">Justin Quiles &amp; Lenny Tavárez - CHAMPAGNE</guid>
-    </item>
-    <item>
       <title>Bad Bunny - VOY A LLeVARTE PA PR</title>
       <link>https://www.google.com/search?q=Bad%20Bunny%20VOY%20A%20LLeVARTE%20PA%20PR</link>
       <guid isPermaLink="false">Bad Bunny - VOY A LLeVARTE PA PR</guid>
+    </item>
+    <item>
+      <title>Bad Bunny - MIA</title>
+      <link>https://www.google.com/search?q=Bad%20Bunny%20MIA</link>
+      <guid isPermaLink="false">Bad Bunny - MIA</guid>
     </item>
     <item>
       <title>Bad Bunny - DtMF</title>
@@ -41,9 +41,14 @@
       <guid isPermaLink="false">Bad Bunny - DtMF</guid>
     </item>
     <item>
-      <title>Bad Bunny - MIA</title>
-      <link>https://www.google.com/search?q=Bad%20Bunny%20MIA</link>
-      <guid isPermaLink="false">Bad Bunny - MIA</guid>
+      <title>Justin Quiles &amp; Lenny Tavárez - CHAMPAGNE</title>
+      <link>https://www.google.com/search?q=Justin%20Quiles%20%26%20Lenny%20Tav%C3%A1rez%20CHAMPAGNE</link>
+      <guid isPermaLink="false">Justin Quiles &amp; Lenny Tavárez - CHAMPAGNE</guid>
+    </item>
+    <item>
+      <title>Quevedo - NI BORRACHO</title>
+      <link>https://www.google.com/search?q=Quevedo%20NI%20BORRACHO</link>
+      <guid isPermaLink="false">Quevedo - NI BORRACHO</guid>
     </item>
     <item>
       <title>Luxx Babyy - FRAGANCIA</title>
@@ -59,11 +64,6 @@
       <title>Bad Bunny - EoO</title>
       <link>https://www.google.com/search?q=Bad%20Bunny%20EoO</link>
       <guid isPermaLink="false">Bad Bunny - EoO</guid>
-    </item>
-    <item>
-      <title>Quevedo - NI BORRACHO</title>
-      <link>https://www.google.com/search?q=Quevedo%20NI%20BORRACHO</link>
-      <guid isPermaLink="false">Quevedo - NI BORRACHO</guid>
     </item>
     <item>
       <title>Bad Bunny - NUEVAYoL</title>
