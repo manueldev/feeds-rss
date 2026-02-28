@@ -6,39 +6,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Saja Boys, Andrew Choi, Neckwav, Danny Chung, Kevin Woo, samUIL Lee KPop Demon Hunters Cast - Soda Pop</title>
-      <link>https://www.google.com/search?q=Saja%20Boys%2C%20Andrew%20Choi%2C%20Neckwav%2C%20Danny%20Chung%2C%20Kevin%20Woo%2C%20samUIL%20Lee%20KPop%20Demon%20Hunters%20Cast%20Soda%20Pop</link>
-      <guid isPermaLink="false">Saja Boys, Andrew Choi, Neckwav, Danny Chung, Kevin Woo, samUIL Lee KPop Demon Hunters Cast - Soda Pop</guid>
-    </item>
-    <item>
-      <title>Taylor Swift - The Fate Of Ophelia</title>
-      <link>https://www.google.com/search?q=Taylor%20Swift%20The%20Fate%20Of%20Ophelia</link>
-      <guid isPermaLink="false">Taylor Swift - The Fate Of Ophelia</guid>
-    </item>
-    <item>
-      <title>Sabrina Carpenter - Manchild</title>
-      <link>https://www.google.com/search?q=Sabrina%20Carpenter%20Manchild</link>
-      <guid isPermaLink="false">Sabrina Carpenter - Manchild</guid>
-    </item>
-    <item>
-      <title>PinkPantheress &amp; Zara Larsson - Stateside</title>
-      <link>https://www.google.com/search?q=PinkPantheress%20%26%20Zara%20Larsson%20Stateside</link>
-      <guid isPermaLink="false">PinkPantheress &amp; Zara Larsson - Stateside</guid>
-    </item>
-    <item>
-      <title>Dev - Don't Play</title>
-      <link>https://www.google.com/search?q=Dev%20Don%27t%20Play</link>
-      <guid isPermaLink="false">Dev - Don't Play</guid>
-    </item>
-    <item>
-      <title>The Neighbourhood - Private</title>
-      <link>https://www.google.com/search?q=The%20Neighbourhood%20Private</link>
-      <guid isPermaLink="false">The Neighbourhood - Private</guid>
-    </item>
-    <item>
       <title>Doechii - Anxiety</title>
       <link>https://www.google.com/search?q=Doechii%20Anxiety</link>
       <guid isPermaLink="false">Doechii - Anxiety</guid>
+    </item>
+    <item>
+      <title>The Neighbourhood - Good Grief</title>
+      <link>https://www.google.com/search?q=The%20Neighbourhood%20Good%20Grief</link>
+      <guid isPermaLink="false">The Neighbourhood - Good Grief</guid>
+    </item>
+    <item>
+      <title>twenty one pilots - Drag Path</title>
+      <link>https://www.google.com/search?q=twenty%20one%20pilots%20Drag%20Path</link>
+      <guid isPermaLink="false">twenty one pilots - Drag Path</guid>
     </item>
     <item>
       <title>HUNTRX, EJAE, AUDREY NUNA, REI AMI &amp; KPop Demon Hunters Cast - Golden</title>
@@ -46,9 +26,14 @@
       <guid isPermaLink="false">HUNTRX, EJAE, AUDREY NUNA, REI AMI &amp; KPop Demon Hunters Cast - Golden</guid>
     </item>
     <item>
-      <title>SZA - Save The Day</title>
-      <link>https://www.google.com/search?q=SZA%20Save%20The%20Day</link>
-      <guid isPermaLink="false">SZA - Save The Day</guid>
+      <title>Nicknames - Too Bad</title>
+      <link>https://www.google.com/search?q=Nicknames%20Too%20Bad</link>
+      <guid isPermaLink="false">Nicknames - Too Bad</guid>
+    </item>
+    <item>
+      <title>The Neighbourhood - Private</title>
+      <link>https://www.google.com/search?q=The%20Neighbourhood%20Private</link>
+      <guid isPermaLink="false">The Neighbourhood - Private</guid>
     </item>
     <item>
       <title>Charli xcx - Dying For You</title>
@@ -61,9 +46,19 @@
       <guid isPermaLink="false">Olivia Dean - Man I Need</guid>
     </item>
     <item>
+      <title>Benson Boone - Wanted Man</title>
+      <link>https://www.google.com/search?q=Benson%20Boone%20Wanted%20Man</link>
+      <guid isPermaLink="false">Benson Boone - Wanted Man</guid>
+    </item>
+    <item>
       <title>RAYE - WHERE IS MY HUSBAND!</title>
       <link>https://www.google.com/search?q=RAYE%20WHERE%20IS%20MY%20HUSBAND%21</link>
       <guid isPermaLink="false">RAYE - WHERE IS MY HUSBAND!</guid>
+    </item>
+    <item>
+      <title>SZA - Save The Day</title>
+      <link>https://www.google.com/search?q=SZA%20Save%20The%20Day</link>
+      <guid isPermaLink="false">SZA - Save The Day</guid>
     </item>
     <item>
       <title>mikeeysmind, Chill77 &amp; Unjaps - Papaoutai (Afro Soul)</title>
@@ -71,14 +66,19 @@
       <guid isPermaLink="false">mikeeysmind, Chill77 &amp; Unjaps - Papaoutai (Afro Soul)</guid>
     </item>
     <item>
-      <title>Benson Boone - Wanted Man</title>
-      <link>https://www.google.com/search?q=Benson%20Boone%20Wanted%20Man</link>
-      <guid isPermaLink="false">Benson Boone - Wanted Man</guid>
-    </item>
-    <item>
       <title>Bruno Mars - I Just Might</title>
       <link>https://www.google.com/search?q=Bruno%20Mars%20I%20Just%20Might</link>
       <guid isPermaLink="false">Bruno Mars - I Just Might</guid>
+    </item>
+    <item>
+      <title>Bruno Mars - On My Soul</title>
+      <link>https://www.google.com/search?q=Bruno%20Mars%20On%20My%20Soul</link>
+      <guid isPermaLink="false">Bruno Mars - On My Soul</guid>
+    </item>
+    <item>
+      <title>Bruno Mars - Something Serious</title>
+      <link>https://www.google.com/search?q=Bruno%20Mars%20Something%20Serious</link>
+      <guid isPermaLink="false">Bruno Mars - Something Serious</guid>
     </item>
   </channel>
 </rss>
