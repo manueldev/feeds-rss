@@ -6,24 +6,9 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Bruno Mars - Why You Wanna Fight</title>
-      <link>https://www.google.com/search?q=Bruno%20Mars%20Why%20You%20Wanna%20Fight</link>
-      <guid isPermaLink="false">Bruno Mars - Why You Wanna Fight</guid>
-    </item>
-    <item>
       <title>RAYE - WHERE IS MY HUSBAND!</title>
       <link>https://www.google.com/search?q=RAYE%20WHERE%20IS%20MY%20HUSBAND%21</link>
       <guid isPermaLink="false">RAYE - WHERE IS MY HUSBAND!</guid>
-    </item>
-    <item>
-      <title>Bruno Mars - God Was Showing Off</title>
-      <link>https://www.google.com/search?q=Bruno%20Mars%20God%20Was%20Showing%20Off</link>
-      <guid isPermaLink="false">Bruno Mars - God Was Showing Off</guid>
-    </item>
-    <item>
-      <title>Ava Max - KiLL iT QUEEN</title>
-      <link>https://www.google.com/search?q=Ava%20Max%20KiLL%20iT%20QUEEN</link>
-      <guid isPermaLink="false">Ava Max - KiLL iT QUEEN</guid>
     </item>
     <item>
       <title>The Neighbourhood - Private</title>
@@ -31,9 +16,19 @@
       <guid isPermaLink="false">The Neighbourhood - Private</guid>
     </item>
     <item>
+      <title>Ava Max - KiLL iT QUEEN</title>
+      <link>https://www.google.com/search?q=Ava%20Max%20KiLL%20iT%20QUEEN</link>
+      <guid isPermaLink="false">Ava Max - KiLL iT QUEEN</guid>
+    </item>
+    <item>
       <title>Alex Warren - FEVER DREAM</title>
       <link>https://www.google.com/search?q=Alex%20Warren%20FEVER%20DREAM</link>
       <guid isPermaLink="false">Alex Warren - FEVER DREAM</guid>
+    </item>
+    <item>
+      <title>Bruno Mars - Why You Wanna Fight</title>
+      <link>https://www.google.com/search?q=Bruno%20Mars%20Why%20You%20Wanna%20Fight</link>
+      <guid isPermaLink="false">Bruno Mars - Why You Wanna Fight</guid>
     </item>
     <item>
       <title>Nicknames - Too Bad</title>
@@ -44,6 +39,11 @@
       <title>Bruno Mars - I Just Might</title>
       <link>https://www.google.com/search?q=Bruno%20Mars%20I%20Just%20Might</link>
       <guid isPermaLink="false">Bruno Mars - I Just Might</guid>
+    </item>
+    <item>
+      <title>Bruno Mars - God Was Showing Off</title>
+      <link>https://www.google.com/search?q=Bruno%20Mars%20God%20Was%20Showing%20Off</link>
+      <guid isPermaLink="false">Bruno Mars - God Was Showing Off</guid>
     </item>
     <item>
       <title>SZA - Save The Day</title>
