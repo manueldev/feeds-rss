@@ -6,9 +6,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Bruno Mars - God Was Showing Off</title>
-      <link>https://www.google.com/search?q=Bruno%20Mars%20God%20Was%20Showing%20Off</link>
-      <guid isPermaLink="false">Bruno Mars - God Was Showing Off</guid>
+      <title>Benson Boone - Beautiful Things</title>
+      <link>https://www.google.com/search?q=Benson%20Boone%20Beautiful%20Things</link>
+      <guid isPermaLink="false">Benson Boone - Beautiful Things</guid>
+    </item>
+    <item>
+      <title>Panic! At The Disco - High Hopes</title>
+      <link>https://www.google.com/search?q=Panic%21%20At%20The%20Disco%20High%20Hopes</link>
+      <guid isPermaLink="false">Panic! At The Disco - High Hopes</guid>
+    </item>
+    <item>
+      <title>Charlie Puth - Home</title>
+      <link>https://www.google.com/search?q=Charlie%20Puth%20Home</link>
+      <guid isPermaLink="false">Charlie Puth - Home</guid>
     </item>
     <item>
       <title>Dasha - Austin (Boots Stop Workin')</title>
@@ -16,24 +26,9 @@
       <guid isPermaLink="false">Dasha - Austin (Boots Stop Workin')</guid>
     </item>
     <item>
-      <title>Bruno Mars - Risk It All</title>
-      <link>https://www.google.com/search?q=Bruno%20Mars%20Risk%20It%20All</link>
-      <guid isPermaLink="false">Bruno Mars - Risk It All</guid>
-    </item>
-    <item>
-      <title>Juice WRLD &amp; Marshmello - We Don't Get Along</title>
-      <link>https://www.google.com/search?q=Juice%20WRLD%20%26%20Marshmello%20We%20Don%27t%20Get%20Along</link>
-      <guid isPermaLink="false">Juice WRLD &amp; Marshmello - We Don't Get Along</guid>
-    </item>
-    <item>
       <title>Teddy Swims - Lose Control</title>
       <link>https://www.google.com/search?q=Teddy%20Swims%20Lose%20Control</link>
       <guid isPermaLink="false">Teddy Swims - Lose Control</guid>
-    </item>
-    <item>
-      <title>Bruno Mars - I Just Might</title>
-      <link>https://www.google.com/search?q=Bruno%20Mars%20I%20Just%20Might</link>
-      <guid isPermaLink="false">Bruno Mars - I Just Might</guid>
     </item>
     <item>
       <title>GIRLSET - Tweak</title>
@@ -41,14 +36,19 @@
       <guid isPermaLink="false">GIRLSET - Tweak</guid>
     </item>
     <item>
-      <title>Diljit Dosanjh, Sia &amp; David Guetta - Ranjha</title>
-      <link>https://www.google.com/search?q=Diljit%20Dosanjh%2C%20Sia%20%26%20David%20Guetta%20Ranjha</link>
-      <guid isPermaLink="false">Diljit Dosanjh, Sia &amp; David Guetta - Ranjha</guid>
+      <title>Bruno Mars - I Just Might</title>
+      <link>https://www.google.com/search?q=Bruno%20Mars%20I%20Just%20Might</link>
+      <guid isPermaLink="false">Bruno Mars - I Just Might</guid>
     </item>
     <item>
       <title>Olivia Dean - So Easy (To Fall In Love)</title>
       <link>https://www.google.com/search?q=Olivia%20Dean%20So%20Easy%20%28To%20Fall%20In%20Love%29</link>
       <guid isPermaLink="false">Olivia Dean - So Easy (To Fall In Love)</guid>
+    </item>
+    <item>
+      <title>Diljit Dosanjh, Sia &amp; David Guetta - Ranjha</title>
+      <link>https://www.google.com/search?q=Diljit%20Dosanjh%2C%20Sia%20%26%20David%20Guetta%20Ranjha</link>
+      <guid isPermaLink="false">Diljit Dosanjh, Sia &amp; David Guetta - Ranjha</guid>
     </item>
     <item>
       <title>J Balvin &amp; Amber Mark - Jump</title>
@@ -66,14 +66,14 @@
       <guid isPermaLink="false">Bruno Mars - On My Soul</guid>
     </item>
     <item>
-      <title>DYSTINCT, Pitbull &amp; Lil Jon - YAMA Remix</title>
-      <link>https://www.google.com/search?q=DYSTINCT%2C%20Pitbull%20%26%20Lil%20Jon%20YAMA%20Remix</link>
-      <guid isPermaLink="false">DYSTINCT, Pitbull &amp; Lil Jon - YAMA Remix</guid>
-    </item>
-    <item>
       <title>Jason Derulo - Sexy For Me</title>
       <link>https://www.google.com/search?q=Jason%20Derulo%20Sexy%20For%20Me</link>
       <guid isPermaLink="false">Jason Derulo - Sexy For Me</guid>
+    </item>
+    <item>
+      <title>DYSTINCT, Pitbull &amp; Lil Jon - YAMA Remix</title>
+      <link>https://www.google.com/search?q=DYSTINCT%2C%20Pitbull%20%26%20Lil%20Jon%20YAMA%20Remix</link>
+      <guid isPermaLink="false">DYSTINCT, Pitbull &amp; Lil Jon - YAMA Remix</guid>
     </item>
     <item>
       <title>Bruno Mars - Something Serious</title>
