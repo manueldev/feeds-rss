@@ -6,14 +6,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>BIJOU - Temptation</title>
-      <link>https://www.google.com/search?q=BIJOU%20Temptation</link>
-      <guid isPermaLink="false">BIJOU - Temptation</guid>
-    </item>
-    <item>
       <title>Felix Jaehn &amp; Cascada - boy you turn me</title>
       <link>https://www.google.com/search?q=Felix%20Jaehn%20%26%20Cascada%20boy%20you%20turn%20me</link>
       <guid isPermaLink="false">Felix Jaehn &amp; Cascada - boy you turn me</guid>
+    </item>
+    <item>
+      <title>Akon &amp; Ochok - Que Calor</title>
+      <link>https://www.google.com/search?q=Akon%20%26%20Ochok%20Que%20Calor</link>
+      <guid isPermaLink="false">Akon &amp; Ochok - Que Calor</guid>
     </item>
     <item>
       <title>Disco Lines &amp; Tinashe - No Broke Boys</title>
@@ -71,14 +71,14 @@
       <guid isPermaLink="false">Jennifer Lopez &amp; David Guetta - Save Me Tonight</guid>
     </item>
     <item>
-      <title>HUGEL, Ochok, Jenn Morel &amp; KAYA - Party Started</title>
-      <link>https://www.google.com/search?q=HUGEL%2C%20Ochok%2C%20Jenn%20Morel%20%26%20KAYA%20Party%20Started</link>
-      <guid isPermaLink="false">HUGEL, Ochok, Jenn Morel &amp; KAYA - Party Started</guid>
-    </item>
-    <item>
       <title>Bebe Rexha &amp; Faithless - New Religion</title>
       <link>https://www.google.com/search?q=Bebe%20Rexha%20%26%20Faithless%20New%20Religion</link>
       <guid isPermaLink="false">Bebe Rexha &amp; Faithless - New Religion</guid>
+    </item>
+    <item>
+      <title>HUGEL, Ochok, Jenn Morel &amp; KAYA - Party Started</title>
+      <link>https://www.google.com/search?q=HUGEL%2C%20Ochok%2C%20Jenn%20Morel%20%26%20KAYA%20Party%20Started</link>
+      <guid isPermaLink="false">HUGEL, Ochok, Jenn Morel &amp; KAYA - Party Started</guid>
     </item>
   </channel>
 </rss>
