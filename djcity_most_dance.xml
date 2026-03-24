@@ -6,24 +6,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>La Roux &amp; Lumarii - Bulletproof</title>
-      <link>https://www.google.com/search?q=La%20Roux%20%26%20Lumarii%20Bulletproof</link>
-      <guid isPermaLink="false">La Roux &amp; Lumarii - Bulletproof</guid>
+      <title>Francis Mercier, Amadou &amp; Mariam, Neyl &amp; Nadrums - Halala</title>
+      <link>https://www.google.com/search?q=Francis%20Mercier%2C%20Amadou%20%26%20Mariam%2C%20Neyl%20%26%20Nadrums%20Halala</link>
+      <guid isPermaLink="false">Francis Mercier, Amadou &amp; Mariam, Neyl &amp; Nadrums - Halala</guid>
     </item>
     <item>
-      <title>ANOTR - Talk To You</title>
-      <link>https://www.google.com/search?q=ANOTR%20Talk%20To%20You</link>
-      <guid isPermaLink="false">ANOTR - Talk To You</guid>
+      <title>Dean Turnley - Actin' Tough</title>
+      <link>https://www.google.com/search?q=Dean%20Turnley%20Actin%27%20Tough</link>
+      <guid isPermaLink="false">Dean Turnley - Actin' Tough</guid>
     </item>
     <item>
-      <title>Kodat - So Much Love To Give</title>
-      <link>https://www.google.com/search?q=Kodat%20So%20Much%20Love%20To%20Give</link>
-      <guid isPermaLink="false">Kodat - So Much Love To Give</guid>
-    </item>
-    <item>
-      <title>GROSSOMODDO, Brøder &amp; Bletter - Toledo</title>
-      <link>https://www.google.com/search?q=GROSSOMODDO%2C%20Br%C3%B8der%20%26%20Bletter%20Toledo</link>
-      <guid isPermaLink="false">GROSSOMODDO, Brøder &amp; Bletter - Toledo</guid>
+      <title>GUDFELLA - Morning Coffee</title>
+      <link>https://www.google.com/search?q=GUDFELLA%20Morning%20Coffee</link>
+      <guid isPermaLink="false">GUDFELLA - Morning Coffee</guid>
     </item>
     <item>
       <title>James Hype - Be Mine</title>
@@ -31,14 +26,9 @@
       <guid isPermaLink="false">James Hype - Be Mine</guid>
     </item>
     <item>
-      <title>Aluna, Will Sass &amp; Timbaland - Houseboy</title>
-      <link>https://www.google.com/search?q=Aluna%2C%20Will%20Sass%20%26%20Timbaland%20Houseboy</link>
-      <guid isPermaLink="false">Aluna, Will Sass &amp; Timbaland - Houseboy</guid>
-    </item>
-    <item>
-      <title>Fedde Le Grand - 1, 2 Step</title>
-      <link>https://www.google.com/search?q=Fedde%20Le%20Grand%201%2C%202%20Step</link>
-      <guid isPermaLink="false">Fedde Le Grand - 1, 2 Step</guid>
+      <title>GROSSOMODDO, Brøder &amp; Bletter - Toledo</title>
+      <link>https://www.google.com/search?q=GROSSOMODDO%2C%20Br%C3%B8der%20%26%20Bletter%20Toledo</link>
+      <guid isPermaLink="false">GROSSOMODDO, Brøder &amp; Bletter - Toledo</guid>
     </item>
     <item>
       <title>Kungs &amp; Boys Noize - Get Away</title>
@@ -46,9 +36,9 @@
       <guid isPermaLink="false">Kungs &amp; Boys Noize - Get Away</guid>
     </item>
     <item>
-      <title>Loud Luxury &amp; Sadboi - OUT LATE.</title>
-      <link>https://www.google.com/search?q=Loud%20Luxury%20%26%20Sadboi%20OUT%20LATE.</link>
-      <guid isPermaLink="false">Loud Luxury &amp; Sadboi - OUT LATE.</guid>
+      <title>Aluna, Will Sass &amp; Timbaland - Houseboy</title>
+      <link>https://www.google.com/search?q=Aluna%2C%20Will%20Sass%20%26%20Timbaland%20Houseboy</link>
+      <guid isPermaLink="false">Aluna, Will Sass &amp; Timbaland - Houseboy</guid>
     </item>
     <item>
       <title>Jonas Blue &amp; Salif Keita - Madan</title>
@@ -56,14 +46,24 @@
       <guid isPermaLink="false">Jonas Blue &amp; Salif Keita - Madan</guid>
     </item>
     <item>
-      <title>SIDEPIECE - Wild</title>
-      <link>https://www.google.com/search?q=SIDEPIECE%20Wild</link>
-      <guid isPermaLink="false">SIDEPIECE - Wild</guid>
+      <title>Fedde Le Grand - 1, 2 Step</title>
+      <link>https://www.google.com/search?q=Fedde%20Le%20Grand%201%2C%202%20Step</link>
+      <guid isPermaLink="false">Fedde Le Grand - 1, 2 Step</guid>
+    </item>
+    <item>
+      <title>Loud Luxury &amp; Sadboi - OUT LATE.</title>
+      <link>https://www.google.com/search?q=Loud%20Luxury%20%26%20Sadboi%20OUT%20LATE.</link>
+      <guid isPermaLink="false">Loud Luxury &amp; Sadboi - OUT LATE.</guid>
     </item>
     <item>
       <title>Jennifer Lopez &amp; David Guetta - Save Me Tonight</title>
       <link>https://www.google.com/search?q=Jennifer%20Lopez%20%26%20David%20Guetta%20Save%20Me%20Tonight</link>
       <guid isPermaLink="false">Jennifer Lopez &amp; David Guetta - Save Me Tonight</guid>
+    </item>
+    <item>
+      <title>SIDEPIECE - Wild</title>
+      <link>https://www.google.com/search?q=SIDEPIECE%20Wild</link>
+      <guid isPermaLink="false">SIDEPIECE - Wild</guid>
     </item>
     <item>
       <title>Akon &amp; Ochok - Que Calor</title>
