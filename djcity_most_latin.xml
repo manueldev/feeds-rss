@@ -6,9 +6,9 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Dalex &amp; Boza - BeYKota</title>
-      <link>https://www.google.com/search?q=Dalex%20%26%20Boza%20BeYKota</link>
-      <guid isPermaLink="false">Dalex &amp; Boza - BeYKota</guid>
+      <title>Tego Calderón &amp; J Alvarez - Gustito</title>
+      <link>https://www.google.com/search?q=Tego%20Calder%C3%B3n%20%26%20J%20Alvarez%20Gustito</link>
+      <guid isPermaLink="false">Tego Calderón &amp; J Alvarez - Gustito</guid>
     </item>
     <item>
       <title>Bad Bunny - MIA</title>
@@ -16,9 +16,9 @@
       <guid isPermaLink="false">Bad Bunny - MIA</guid>
     </item>
     <item>
-      <title>Tego Calderón &amp; J Alvarez - Gustito</title>
-      <link>https://www.google.com/search?q=Tego%20Calder%C3%B3n%20%26%20J%20Alvarez%20Gustito</link>
-      <guid isPermaLink="false">Tego Calderón &amp; J Alvarez - Gustito</guid>
+      <title>Bad Gyal - Noticia De Ayer</title>
+      <link>https://www.google.com/search?q=Bad%20Gyal%20Noticia%20De%20Ayer</link>
+      <guid isPermaLink="false">Bad Gyal - Noticia De Ayer</guid>
     </item>
     <item>
       <title>Salvi &amp; Mark B. - Mi Morena</title>
@@ -36,11 +36,6 @@
       <guid isPermaLink="false">Tokischa &amp; Skrillex - Surfboard</guid>
     </item>
     <item>
-      <title>Quevedo - SCANDIC</title>
-      <link>https://www.google.com/search?q=Quevedo%20SCANDIC</link>
-      <guid isPermaLink="false">Quevedo - SCANDIC</guid>
-    </item>
-    <item>
       <title>Bad Bunny - NUEVAYoL</title>
       <link>https://www.google.com/search?q=Bad%20Bunny%20NUEVAYoL</link>
       <guid isPermaLink="false">Bad Bunny - NUEVAYoL</guid>
@@ -49,6 +44,11 @@
       <title>Brian Matrix - Lo Que Paso</title>
       <link>https://www.google.com/search?q=Brian%20Matrix%20Lo%20Que%20Paso</link>
       <guid isPermaLink="false">Brian Matrix - Lo Que Paso</guid>
+    </item>
+    <item>
+      <title>Quevedo - SCANDIC</title>
+      <link>https://www.google.com/search?q=Quevedo%20SCANDIC</link>
+      <guid isPermaLink="false">Quevedo - SCANDIC</guid>
     </item>
     <item>
       <title>Thombs - Miami</title>
