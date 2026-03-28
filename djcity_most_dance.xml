@@ -6,9 +6,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Jonas Blue &amp; Salif Keita - Madan</title>
-      <link>https://www.google.com/search?q=Jonas%20Blue%20%26%20Salif%20Keita%20Madan</link>
-      <guid isPermaLink="false">Jonas Blue &amp; Salif Keita - Madan</guid>
+      <title>Jennifer Lopez &amp; David Guetta - Save Me Tonight</title>
+      <link>https://www.google.com/search?q=Jennifer%20Lopez%20%26%20David%20Guetta%20Save%20Me%20Tonight</link>
+      <guid isPermaLink="false">Jennifer Lopez &amp; David Guetta - Save Me Tonight</guid>
+    </item>
+    <item>
+      <title>John Summit, The Chainsmokers &amp; Ilsey - ALL THE TIME</title>
+      <link>https://www.google.com/search?q=John%20Summit%2C%20The%20Chainsmokers%20%26%20Ilsey%20ALL%20THE%20TIME</link>
+      <guid isPermaLink="false">John Summit, The Chainsmokers &amp; Ilsey - ALL THE TIME</guid>
+    </item>
+    <item>
+      <title>Jerri - Loop</title>
+      <link>https://www.google.com/search?q=Jerri%20Loop</link>
+      <guid isPermaLink="false">Jerri - Loop</guid>
     </item>
     <item>
       <title>ATCG - Dawsha</title>
@@ -21,39 +31,9 @@
       <guid isPermaLink="false">Flagrant Drvms - Tomate</guid>
     </item>
     <item>
-      <title>Jennifer Lopez &amp; David Guetta - Save Me Tonight</title>
-      <link>https://www.google.com/search?q=Jennifer%20Lopez%20%26%20David%20Guetta%20Save%20Me%20Tonight</link>
-      <guid isPermaLink="false">Jennifer Lopez &amp; David Guetta - Save Me Tonight</guid>
-    </item>
-    <item>
-      <title>GROSSOMODDO, Brøder &amp; Bletter - Toledo</title>
-      <link>https://www.google.com/search?q=GROSSOMODDO%2C%20Br%C3%B8der%20%26%20Bletter%20Toledo</link>
-      <guid isPermaLink="false">GROSSOMODDO, Brøder &amp; Bletter - Toledo</guid>
-    </item>
-    <item>
-      <title>Francis Mercier, Amadou &amp; Mariam, Neyl &amp; Nadrums - Halala</title>
-      <link>https://www.google.com/search?q=Francis%20Mercier%2C%20Amadou%20%26%20Mariam%2C%20Neyl%20%26%20Nadrums%20Halala</link>
-      <guid isPermaLink="false">Francis Mercier, Amadou &amp; Mariam, Neyl &amp; Nadrums - Halala</guid>
-    </item>
-    <item>
-      <title>Dean Turnley - Actin' Tough</title>
-      <link>https://www.google.com/search?q=Dean%20Turnley%20Actin%27%20Tough</link>
-      <guid isPermaLink="false">Dean Turnley - Actin' Tough</guid>
-    </item>
-    <item>
-      <title>GUDFELLA - Morning Coffee</title>
-      <link>https://www.google.com/search?q=GUDFELLA%20Morning%20Coffee</link>
-      <guid isPermaLink="false">GUDFELLA - Morning Coffee</guid>
-    </item>
-    <item>
       <title>Aluna, Will Sass &amp; Timbaland - Houseboy</title>
       <link>https://www.google.com/search?q=Aluna%2C%20Will%20Sass%20%26%20Timbaland%20Houseboy</link>
       <guid isPermaLink="false">Aluna, Will Sass &amp; Timbaland - Houseboy</guid>
-    </item>
-    <item>
-      <title>Bebe Rexha &amp; Faithless - New Religion</title>
-      <link>https://www.google.com/search?q=Bebe%20Rexha%20%26%20Faithless%20New%20Religion</link>
-      <guid isPermaLink="false">Bebe Rexha &amp; Faithless - New Religion</guid>
     </item>
     <item>
       <title>Loud Luxury &amp; Sadboi - OUT LATE.</title>
@@ -61,9 +41,24 @@
       <guid isPermaLink="false">Loud Luxury &amp; Sadboi - OUT LATE.</guid>
     </item>
     <item>
-      <title>Fedde Le Grand - 1, 2 Step</title>
-      <link>https://www.google.com/search?q=Fedde%20Le%20Grand%201%2C%202%20Step</link>
-      <guid isPermaLink="false">Fedde Le Grand - 1, 2 Step</guid>
+      <title>Bebe Rexha &amp; Faithless - New Religion</title>
+      <link>https://www.google.com/search?q=Bebe%20Rexha%20%26%20Faithless%20New%20Religion</link>
+      <guid isPermaLink="false">Bebe Rexha &amp; Faithless - New Religion</guid>
+    </item>
+    <item>
+      <title>Francis Mercier, Amadou &amp; Mariam, Neyl &amp; Nadrums - Halala</title>
+      <link>https://www.google.com/search?q=Francis%20Mercier%2C%20Amadou%20%26%20Mariam%2C%20Neyl%20%26%20Nadrums%20Halala</link>
+      <guid isPermaLink="false">Francis Mercier, Amadou &amp; Mariam, Neyl &amp; Nadrums - Halala</guid>
+    </item>
+    <item>
+      <title>GUDFELLA - Morning Coffee</title>
+      <link>https://www.google.com/search?q=GUDFELLA%20Morning%20Coffee</link>
+      <guid isPermaLink="false">GUDFELLA - Morning Coffee</guid>
+    </item>
+    <item>
+      <title>Dean Turnley - Actin' Tough</title>
+      <link>https://www.google.com/search?q=Dean%20Turnley%20Actin%27%20Tough</link>
+      <guid isPermaLink="false">Dean Turnley - Actin' Tough</guid>
     </item>
     <item>
       <title>SIDEPIECE - Wild</title>
@@ -74,6 +69,11 @@
       <title>Akon &amp; Ochok - Que Calor</title>
       <link>https://www.google.com/search?q=Akon%20%26%20Ochok%20Que%20Calor</link>
       <guid isPermaLink="false">Akon &amp; Ochok - Que Calor</guid>
+    </item>
+    <item>
+      <title>Fedde Le Grand - 1, 2 Step</title>
+      <link>https://www.google.com/search?q=Fedde%20Le%20Grand%201%2C%202%20Step</link>
+      <guid isPermaLink="false">Fedde Le Grand - 1, 2 Step</guid>
     </item>
     <item>
       <title>HUGEL, Ochok, Jenn Morel &amp; KAYA - Party Started</title>
