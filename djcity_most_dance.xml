@@ -6,6 +6,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
+      <title>HILLS &amp; Shilla - Right Now</title>
+      <link>https://www.google.com/search?q=HILLS%20%26%20Shilla%20Right%20Now</link>
+      <guid isPermaLink="false">HILLS &amp; Shilla - Right Now</guid>
+    </item>
+    <item>
+      <title>DJ Tora &amp; Kodat - Ain't My Thing</title>
+      <link>https://www.google.com/search?q=DJ%20Tora%20%26%20Kodat%20Ain%27t%20My%20Thing</link>
+      <guid isPermaLink="false">DJ Tora &amp; Kodat - Ain't My Thing</guid>
+    </item>
+    <item>
       <title>GENESI - Drillo</title>
       <link>https://www.google.com/search?q=GENESI%20Drillo</link>
       <guid isPermaLink="false">GENESI - Drillo</guid>
@@ -16,19 +26,9 @@
       <guid isPermaLink="false">Andruss &amp; CREG - FREAK</guid>
     </item>
     <item>
-      <title>Disco Lines &amp; Tinashe - No Broke Boys</title>
-      <link>https://www.google.com/search?q=Disco%20Lines%20%26%20Tinashe%20No%20Broke%20Boys</link>
-      <guid isPermaLink="false">Disco Lines &amp; Tinashe - No Broke Boys</guid>
-    </item>
-    <item>
       <title>Brian Matrix - Que Sexy</title>
       <link>https://www.google.com/search?q=Brian%20Matrix%20Que%20Sexy</link>
       <guid isPermaLink="false">Brian Matrix - Que Sexy</guid>
-    </item>
-    <item>
-      <title>SIDEPIECE - Wild</title>
-      <link>https://www.google.com/search?q=SIDEPIECE%20Wild</link>
-      <guid isPermaLink="false">SIDEPIECE - Wild</guid>
     </item>
     <item>
       <title>Bebe Rexha &amp; Faithless - New Religion</title>
@@ -56,11 +56,6 @@
       <guid isPermaLink="false">CID - Loaded Gun</guid>
     </item>
     <item>
-      <title>John Summit, The Chainsmokers &amp; Ilsey - ALL THE TIME</title>
-      <link>https://www.google.com/search?q=John%20Summit%2C%20The%20Chainsmokers%20%26%20Ilsey%20ALL%20THE%20TIME</link>
-      <guid isPermaLink="false">John Summit, The Chainsmokers &amp; Ilsey - ALL THE TIME</guid>
-    </item>
-    <item>
       <title>Akon &amp; Ochok - Que Calor</title>
       <link>https://www.google.com/search?q=Akon%20%26%20Ochok%20Que%20Calor</link>
       <guid isPermaLink="false">Akon &amp; Ochok - Que Calor</guid>
@@ -69,6 +64,11 @@
       <title>Fedde Le Grand - 1, 2 Step</title>
       <link>https://www.google.com/search?q=Fedde%20Le%20Grand%201%2C%202%20Step</link>
       <guid isPermaLink="false">Fedde Le Grand - 1, 2 Step</guid>
+    </item>
+    <item>
+      <title>John Summit, The Chainsmokers &amp; Ilsey - ALL THE TIME</title>
+      <link>https://www.google.com/search?q=John%20Summit%2C%20The%20Chainsmokers%20%26%20Ilsey%20ALL%20THE%20TIME</link>
+      <guid isPermaLink="false">John Summit, The Chainsmokers &amp; Ilsey - ALL THE TIME</guid>
     </item>
     <item>
       <title>HUGEL, French Montana &amp; Max B - One Night</title>
