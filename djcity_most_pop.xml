@@ -6,11 +6,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>PinkPantheress &amp; Zara Larsson - Stateside</title>
-      <link>https://www.google.com/search?q=PinkPantheress%20%26%20Zara%20Larsson%20Stateside</link>
-      <guid isPermaLink="false">PinkPantheress &amp; Zara Larsson - Stateside</guid>
-    </item>
-    <item>
       <title>Bruno Mars - Risk It All</title>
       <link>https://www.google.com/search?q=Bruno%20Mars%20Risk%20It%20All</link>
       <guid isPermaLink="false">Bruno Mars - Risk It All</guid>
@@ -26,14 +21,19 @@
       <guid isPermaLink="false">Olivia Dean - So Easy (To Fall In Love)</guid>
     </item>
     <item>
-      <title>Olivia Dean - Man I Need</title>
-      <link>https://www.google.com/search?q=Olivia%20Dean%20Man%20I%20Need</link>
-      <guid isPermaLink="false">Olivia Dean - Man I Need</guid>
-    </item>
-    <item>
       <title>FLO - Leak It</title>
       <link>https://www.google.com/search?q=FLO%20Leak%20It</link>
       <guid isPermaLink="false">FLO - Leak It</guid>
+    </item>
+    <item>
+      <title>Chxrry - Hall Of Fame</title>
+      <link>https://www.google.com/search?q=Chxrry%20Hall%20Of%20Fame</link>
+      <guid isPermaLink="false">Chxrry - Hall Of Fame</guid>
+    </item>
+    <item>
+      <title>Olivia Dean - Man I Need</title>
+      <link>https://www.google.com/search?q=Olivia%20Dean%20Man%20I%20Need</link>
+      <guid isPermaLink="false">Olivia Dean - Man I Need</guid>
     </item>
     <item>
       <title>RAYE - WHERE IS MY HUSBAND!</title>
@@ -51,14 +51,14 @@
       <guid isPermaLink="false">Jason Derulo - Sexy For Me</guid>
     </item>
     <item>
-      <title>Bruno Mars - On My Soul</title>
-      <link>https://www.google.com/search?q=Bruno%20Mars%20On%20My%20Soul</link>
-      <guid isPermaLink="false">Bruno Mars - On My Soul</guid>
-    </item>
-    <item>
       <title>Bruno Mars - I Just Might</title>
       <link>https://www.google.com/search?q=Bruno%20Mars%20I%20Just%20Might</link>
       <guid isPermaLink="false">Bruno Mars - I Just Might</guid>
+    </item>
+    <item>
+      <title>Bruno Mars - On My Soul</title>
+      <link>https://www.google.com/search?q=Bruno%20Mars%20On%20My%20Soul</link>
+      <guid isPermaLink="false">Bruno Mars - On My Soul</guid>
     </item>
     <item>
       <title>DYSTINCT, Pitbull &amp; Lil Jon - YAMA Remix</title>
