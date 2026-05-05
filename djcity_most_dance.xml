@@ -6,9 +6,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>HUGEL &amp; SOLTO (FR) - Jamaican (Bam Bam)</title>
-      <link>https://www.google.com/search?q=HUGEL%20%26%20SOLTO%20%28FR%29%20Jamaican%20%28Bam%20Bam%29</link>
-      <guid isPermaLink="false">HUGEL &amp; SOLTO (FR) - Jamaican (Bam Bam)</guid>
+      <title>Rick Perez - Midnight Pulse</title>
+      <link>https://www.google.com/search?q=Rick%20Perez%20Midnight%20Pulse</link>
+      <guid isPermaLink="false">Rick Perez - Midnight Pulse</guid>
+    </item>
+    <item>
+      <title>Sommer Ray &amp; Dainjaa - Dancing Dolo</title>
+      <link>https://www.google.com/search?q=Sommer%20Ray%20%26%20Dainjaa%20Dancing%20Dolo</link>
+      <guid isPermaLink="false">Sommer Ray &amp; Dainjaa - Dancing Dolo</guid>
+    </item>
+    <item>
+      <title>Roddy Lima &amp; SURAYA - Side2side</title>
+      <link>https://www.google.com/search?q=Roddy%20Lima%20%26%20SURAYA%20Side2side</link>
+      <guid isPermaLink="false">Roddy Lima &amp; SURAYA - Side2side</guid>
+    </item>
+    <item>
+      <title>ALISHA, Inner City, Kevin Saunderson &amp; Dantiez - Good Life</title>
+      <link>https://www.google.com/search?q=ALISHA%2C%20Inner%20City%2C%20Kevin%20Saunderson%20%26%20Dantiez%20Good%20Life</link>
+      <guid isPermaLink="false">ALISHA, Inner City, Kevin Saunderson &amp; Dantiez - Good Life</guid>
+    </item>
+    <item>
+      <title>James Hype - Trigger Finger</title>
+      <link>https://www.google.com/search?q=James%20Hype%20Trigger%20Finger</link>
+      <guid isPermaLink="false">James Hype - Trigger Finger</guid>
+    </item>
+    <item>
+      <title>Madeon &amp; Slayyyter - Fire Away</title>
+      <link>https://www.google.com/search?q=Madeon%20%26%20Slayyyter%20Fire%20Away</link>
+      <guid isPermaLink="false">Madeon &amp; Slayyyter - Fire Away</guid>
     </item>
     <item>
       <title>Tekkman, Juany Bravo &amp; Eran Hersh - Energy</title>
@@ -21,39 +46,19 @@
       <guid isPermaLink="false">Aaron Sevilla &amp; Andres Matheus - Gitan</guid>
     </item>
     <item>
-      <title>Roddy Lima &amp; SURAYA - Side2side</title>
-      <link>https://www.google.com/search?q=Roddy%20Lima%20%26%20SURAYA%20Side2side</link>
-      <guid isPermaLink="false">Roddy Lima &amp; SURAYA - Side2side</guid>
-    </item>
-    <item>
-      <title>Madeon &amp; Slayyyter - Fire Away</title>
-      <link>https://www.google.com/search?q=Madeon%20%26%20Slayyyter%20Fire%20Away</link>
-      <guid isPermaLink="false">Madeon &amp; Slayyyter - Fire Away</guid>
-    </item>
-    <item>
-      <title>Francis Mercier, MP3 &amp; Shammalee - Inshallah</title>
-      <link>https://www.google.com/search?q=Francis%20Mercier%2C%20MP3%20%26%20Shammalee%20Inshallah</link>
-      <guid isPermaLink="false">Francis Mercier, MP3 &amp; Shammalee - Inshallah</guid>
-    </item>
-    <item>
-      <title>James Hype - Trigger Finger</title>
-      <link>https://www.google.com/search?q=James%20Hype%20Trigger%20Finger</link>
-      <guid isPermaLink="false">James Hype - Trigger Finger</guid>
-    </item>
-    <item>
-      <title>ALISHA, Inner City, Kevin Saunderson &amp; Dantiez - Good Life</title>
-      <link>https://www.google.com/search?q=ALISHA%2C%20Inner%20City%2C%20Kevin%20Saunderson%20%26%20Dantiez%20Good%20Life</link>
-      <guid isPermaLink="false">ALISHA, Inner City, Kevin Saunderson &amp; Dantiez - Good Life</guid>
-    </item>
-    <item>
-      <title>Rick Perez - Midnight Pulse</title>
-      <link>https://www.google.com/search?q=Rick%20Perez%20Midnight%20Pulse</link>
-      <guid isPermaLink="false">Rick Perez - Midnight Pulse</guid>
+      <title>SOSA (UK) - The Connection</title>
+      <link>https://www.google.com/search?q=SOSA%20%28UK%29%20The%20Connection</link>
+      <guid isPermaLink="false">SOSA (UK) - The Connection</guid>
     </item>
     <item>
       <title>MPH - Unconditional</title>
       <link>https://www.google.com/search?q=MPH%20Unconditional</link>
       <guid isPermaLink="false">MPH - Unconditional</guid>
+    </item>
+    <item>
+      <title>Francis Mercier, MP3 &amp; Shammalee - Inshallah</title>
+      <link>https://www.google.com/search?q=Francis%20Mercier%2C%20MP3%20%26%20Shammalee%20Inshallah</link>
+      <guid isPermaLink="false">Francis Mercier, MP3 &amp; Shammalee - Inshallah</guid>
     </item>
     <item>
       <title>Deorro &amp; 8onthebeat - TECHNO QUEBRADITA</title>
@@ -64,11 +69,6 @@
       <title>Disco Lines &amp; Tinashe - No Broke Boys</title>
       <link>https://www.google.com/search?q=Disco%20Lines%20%26%20Tinashe%20No%20Broke%20Boys</link>
       <guid isPermaLink="false">Disco Lines &amp; Tinashe - No Broke Boys</guid>
-    </item>
-    <item>
-      <title>SOSA (UK) - The Connection</title>
-      <link>https://www.google.com/search?q=SOSA%20%28UK%29%20The%20Connection</link>
-      <guid isPermaLink="false">SOSA (UK) - The Connection</guid>
     </item>
     <item>
       <title>Skrillex, Isoxo, Teezandos &amp; Cristale - Smoke</title>
