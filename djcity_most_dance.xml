@@ -6,14 +6,9 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Jax Jones &amp; D Double E - Sidewinder</title>
-      <link>https://www.google.com/search?q=Jax%20Jones%20%26%20D%20Double%20E%20Sidewinder</link>
-      <guid isPermaLink="false">Jax Jones &amp; D Double E - Sidewinder</guid>
-    </item>
-    <item>
-      <title>SOSA (UK) - The Connection</title>
-      <link>https://www.google.com/search?q=SOSA%20%28UK%29%20The%20Connection</link>
-      <guid isPermaLink="false">SOSA (UK) - The Connection</guid>
+      <title>Sommer Ray &amp; Dainjaa - Dancing Dolo</title>
+      <link>https://www.google.com/search?q=Sommer%20Ray%20%26%20Dainjaa%20Dancing%20Dolo</link>
+      <guid isPermaLink="false">Sommer Ray &amp; Dainjaa - Dancing Dolo</guid>
     </item>
     <item>
       <title>HUGEL &amp; SOLTO (FR) - Jamaican (Bam Bam)</title>
@@ -26,19 +21,9 @@
       <guid isPermaLink="false">Fedde Le Grand - 1, 2 Step</guid>
     </item>
     <item>
-      <title>KENZ &amp; ESSE - Godzilla</title>
-      <link>https://www.google.com/search?q=KENZ%20%26%20ESSE%20Godzilla</link>
-      <guid isPermaLink="false">KENZ &amp; ESSE - Godzilla</guid>
-    </item>
-    <item>
-      <title>Sommer Ray &amp; Dainjaa - Dancing Dolo</title>
-      <link>https://www.google.com/search?q=Sommer%20Ray%20%26%20Dainjaa%20Dancing%20Dolo</link>
-      <guid isPermaLink="false">Sommer Ray &amp; Dainjaa - Dancing Dolo</guid>
-    </item>
-    <item>
-      <title>ENNE (BR) - Fendi</title>
-      <link>https://www.google.com/search?q=ENNE%20%28BR%29%20Fendi</link>
-      <guid isPermaLink="false">ENNE (BR) - Fendi</guid>
+      <title>Łaszewo - GIMME LOVE</title>
+      <link>https://www.google.com/search?q=%C5%81aszewo%20GIMME%20LOVE</link>
+      <guid isPermaLink="false">Łaszewo - GIMME LOVE</guid>
     </item>
     <item>
       <title>Madeon &amp; Slayyyter - Fire Away</title>
@@ -46,14 +31,29 @@
       <guid isPermaLink="false">Madeon &amp; Slayyyter - Fire Away</guid>
     </item>
     <item>
+      <title>WHIPPED CREAM - midnight moon</title>
+      <link>https://www.google.com/search?q=WHIPPED%20CREAM%20midnight%20moon</link>
+      <guid isPermaLink="false">WHIPPED CREAM - midnight moon</guid>
+    </item>
+    <item>
+      <title>KENZ &amp; ESSE - Godzilla</title>
+      <link>https://www.google.com/search?q=KENZ%20%26%20ESSE%20Godzilla</link>
+      <guid isPermaLink="false">KENZ &amp; ESSE - Godzilla</guid>
+    </item>
+    <item>
       <title>Disco Lines &amp; Tinashe - No Broke Boys</title>
       <link>https://www.google.com/search?q=Disco%20Lines%20%26%20Tinashe%20No%20Broke%20Boys</link>
       <guid isPermaLink="false">Disco Lines &amp; Tinashe - No Broke Boys</guid>
     </item>
     <item>
-      <title>Vice &amp; Aloe Blacc - Follow Me</title>
-      <link>https://www.google.com/search?q=Vice%20%26%20Aloe%20Blacc%20Follow%20Me</link>
-      <guid isPermaLink="false">Vice &amp; Aloe Blacc - Follow Me</guid>
+      <title>Francis Mercier, MP3 &amp; Shammalee - Inshallah</title>
+      <link>https://www.google.com/search?q=Francis%20Mercier%2C%20MP3%20%26%20Shammalee%20Inshallah</link>
+      <guid isPermaLink="false">Francis Mercier, MP3 &amp; Shammalee - Inshallah</guid>
+    </item>
+    <item>
+      <title>ENNE (BR) - Fendi</title>
+      <link>https://www.google.com/search?q=ENNE%20%28BR%29%20Fendi</link>
+      <guid isPermaLink="false">ENNE (BR) - Fendi</guid>
     </item>
     <item>
       <title>Tekkman, Juany Bravo &amp; Eran Hersh - Energy</title>
@@ -61,14 +61,14 @@
       <guid isPermaLink="false">Tekkman, Juany Bravo &amp; Eran Hersh - Energy</guid>
     </item>
     <item>
+      <title>Vice &amp; Aloe Blacc - Follow Me</title>
+      <link>https://www.google.com/search?q=Vice%20%26%20Aloe%20Blacc%20Follow%20Me</link>
+      <guid isPermaLink="false">Vice &amp; Aloe Blacc - Follow Me</guid>
+    </item>
+    <item>
       <title>Aaron Sevilla &amp; Andres Matheus - Gitan</title>
       <link>https://www.google.com/search?q=Aaron%20Sevilla%20%26%20Andres%20Matheus%20Gitan</link>
       <guid isPermaLink="false">Aaron Sevilla &amp; Andres Matheus - Gitan</guid>
-    </item>
-    <item>
-      <title>Francis Mercier, MP3 &amp; Shammalee - Inshallah</title>
-      <link>https://www.google.com/search?q=Francis%20Mercier%2C%20MP3%20%26%20Shammalee%20Inshallah</link>
-      <guid isPermaLink="false">Francis Mercier, MP3 &amp; Shammalee - Inshallah</guid>
     </item>
     <item>
       <title>Skrillex, Isoxo, Teezandos &amp; Cristale - Smoke</title>
