@@ -6,19 +6,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Lil Naay - MOOD BRAZIL</title>
-      <link>https://www.google.com/search?q=Lil%20Naay%20MOOD%20BRAZIL</link>
-      <guid isPermaLink="false">Lil Naay - MOOD BRAZIL</guid>
+      <title>Bad Bunny - NUEVAYoL</title>
+      <link>https://www.google.com/search?q=Bad%20Bunny%20NUEVAYoL</link>
+      <guid isPermaLink="false">Bad Bunny - NUEVAYoL</guid>
     </item>
     <item>
-      <title>Sech - BBL</title>
-      <link>https://www.google.com/search?q=Sech%20BBL</link>
-      <guid isPermaLink="false">Sech - BBL</guid>
-    </item>
-    <item>
-      <title>J Alvarez &amp; Rotimi - Cairo Remix</title>
-      <link>https://www.google.com/search?q=J%20Alvarez%20%26%20Rotimi%20Cairo%20Remix</link>
-      <guid isPermaLink="false">J Alvarez &amp; Rotimi - Cairo Remix</guid>
+      <title>DFZM &amp; Blessd - MI EX</title>
+      <link>https://www.google.com/search?q=DFZM%20%26%20Blessd%20MI%20EX</link>
+      <guid isPermaLink="false">DFZM &amp; Blessd - MI EX</guid>
     </item>
     <item>
       <title>Bad Bunny - Tití Me Preguntó</title>
@@ -26,14 +21,14 @@
       <guid isPermaLink="false">Bad Bunny - Tití Me Preguntó</guid>
     </item>
     <item>
-      <title>Bad Bunny - NUEVAYoL</title>
-      <link>https://www.google.com/search?q=Bad%20Bunny%20NUEVAYoL</link>
-      <guid isPermaLink="false">Bad Bunny - NUEVAYoL</guid>
-    </item>
-    <item>
       <title>ETX - Chupa Culos Party Break</title>
       <link>https://www.google.com/search?q=ETX%20Chupa%20Culos%20Party%20Break</link>
       <guid isPermaLink="false">ETX - Chupa Culos Party Break</guid>
+    </item>
+    <item>
+      <title>Salvi, Clio &amp; Franklin Dam - CHEKI</title>
+      <link>https://www.google.com/search?q=Salvi%2C%20Clio%20%26%20Franklin%20Dam%20CHEKI</link>
+      <guid isPermaLink="false">Salvi, Clio &amp; Franklin Dam - CHEKI</guid>
     </item>
     <item>
       <title>J Balvin, S.O.G &amp; Ryan Castro - Omerta</title>
@@ -41,14 +36,19 @@
       <guid isPermaLink="false">J Balvin, S.O.G &amp; Ryan Castro - Omerta</guid>
     </item>
     <item>
-      <title>La Mejor Vibra, Bellakath, La Gigi &amp; Zunna - Singadera Automatica</title>
-      <link>https://www.google.com/search?q=La%20Mejor%20Vibra%2C%20Bellakath%2C%20La%20Gigi%20%26%20Zunna%20Singadera%20Automatica</link>
-      <guid isPermaLink="false">La Mejor Vibra, Bellakath, La Gigi &amp; Zunna - Singadera Automatica</guid>
-    </item>
-    <item>
       <title>J Balvin &amp; Ryan Castro - Una A La Vez</title>
       <link>https://www.google.com/search?q=J%20Balvin%20%26%20Ryan%20Castro%20Una%20A%20La%20Vez</link>
       <guid isPermaLink="false">J Balvin &amp; Ryan Castro - Una A La Vez</guid>
+    </item>
+    <item>
+      <title>J Alvarez &amp; Rotimi - Cairo Remix</title>
+      <link>https://www.google.com/search?q=J%20Alvarez%20%26%20Rotimi%20Cairo%20Remix</link>
+      <guid isPermaLink="false">J Alvarez &amp; Rotimi - Cairo Remix</guid>
+    </item>
+    <item>
+      <title>Sech - BBL</title>
+      <link>https://www.google.com/search?q=Sech%20BBL</link>
+      <guid isPermaLink="false">Sech - BBL</guid>
     </item>
     <item>
       <title>J Balvin, Ryan Castro &amp; DJ Snake - Tonto</title>
@@ -71,14 +71,14 @@
       <guid isPermaLink="false">J Balvin &amp; Ryan Castro - Dalmation</guid>
     </item>
     <item>
-      <title>Kat Deluna - MALA MÍA</title>
-      <link>https://www.google.com/search?q=Kat%20Deluna%20MALA%20M%C3%8DA</link>
-      <guid isPermaLink="false">Kat Deluna - MALA MÍA</guid>
-    </item>
-    <item>
       <title> J Balvin &amp; Ryan Castro - Bengalí</title>
       <link>https://www.google.com/search?q=%20J%20Balvin%20%26%20Ryan%20Castro%20Bengal%C3%AD</link>
       <guid isPermaLink="false"> J Balvin &amp; Ryan Castro - Bengalí</guid>
+    </item>
+    <item>
+      <title>Kat Deluna - MALA MÍA</title>
+      <link>https://www.google.com/search?q=Kat%20Deluna%20MALA%20M%C3%8DA</link>
+      <guid isPermaLink="false">Kat Deluna - MALA MÍA</guid>
     </item>
   </channel>
 </rss>
