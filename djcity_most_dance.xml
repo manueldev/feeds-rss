@@ -6,9 +6,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
+      <title>chau - Killaz</title>
+      <link>https://www.google.com/search?q=chau%20Killaz</link>
+      <guid isPermaLink="false">chau - Killaz</guid>
+    </item>
+    <item>
+      <title>VIZANO - Lohri</title>
+      <link>https://www.google.com/search?q=VIZANO%20Lohri</link>
+      <guid isPermaLink="false">VIZANO - Lohri</guid>
+    </item>
+    <item>
       <title>HUGEL, Topic &amp; Arash - I Adore You</title>
       <link>https://www.google.com/search?q=HUGEL%2C%20Topic%20%26%20Arash%20I%20Adore%20You</link>
       <guid isPermaLink="false">HUGEL, Topic &amp; Arash - I Adore You</guid>
+    </item>
+    <item>
+      <title>Omicasa, Craze &amp; Matsu - As It Seems</title>
+      <link>https://www.google.com/search?q=Omicasa%2C%20Craze%20%26%20Matsu%20As%20It%20Seems</link>
+      <guid isPermaLink="false">Omicasa, Craze &amp; Matsu - As It Seems</guid>
     </item>
     <item>
       <title>Maesic, Marshall Jefferson &amp; Salomé Das - Life Is Simple (Move Your Body)</title>
@@ -16,24 +31,9 @@
       <guid isPermaLink="false">Maesic, Marshall Jefferson &amp; Salomé Das - Life Is Simple (Move Your Body)</guid>
     </item>
     <item>
-      <title>The Avalanches - Together</title>
-      <link>https://www.google.com/search?q=The%20Avalanches%20Together</link>
-      <guid isPermaLink="false">The Avalanches - Together</guid>
-    </item>
-    <item>
-      <title>P3SO - Abuelita</title>
-      <link>https://www.google.com/search?q=P3SO%20Abuelita</link>
-      <guid isPermaLink="false">P3SO - Abuelita</guid>
-    </item>
-    <item>
       <title>ZERB &amp; Sofiya Nzau - Mwaki</title>
       <link>https://www.google.com/search?q=ZERB%20%26%20Sofiya%20Nzau%20Mwaki</link>
       <guid isPermaLink="false">ZERB &amp; Sofiya Nzau - Mwaki</guid>
-    </item>
-    <item>
-      <title>Vanco - Ma Tnsani (Yalla Habibi)</title>
-      <link>https://www.google.com/search?q=Vanco%20Ma%20Tnsani%20%28Yalla%20Habibi%29</link>
-      <guid isPermaLink="false">Vanco - Ma Tnsani (Yalla Habibi)</guid>
     </item>
     <item>
       <title>Disco Lines &amp; Tinashe - No Broke Boys</title>
@@ -41,14 +41,19 @@
       <guid isPermaLink="false">Disco Lines &amp; Tinashe - No Broke Boys</guid>
     </item>
     <item>
+      <title>Vanco - Ma Tnsani (Yalla Habibi)</title>
+      <link>https://www.google.com/search?q=Vanco%20Ma%20Tnsani%20%28Yalla%20Habibi%29</link>
+      <guid isPermaLink="false">Vanco - Ma Tnsani (Yalla Habibi)</guid>
+    </item>
+    <item>
       <title>Michael Bibi - Bad Wolf</title>
       <link>https://www.google.com/search?q=Michael%20Bibi%20Bad%20Wolf</link>
       <guid isPermaLink="false">Michael Bibi - Bad Wolf</guid>
     </item>
     <item>
-      <title>Omicasa, Craze &amp; Matsu - As It Seems</title>
-      <link>https://www.google.com/search?q=Omicasa%2C%20Craze%20%26%20Matsu%20As%20It%20Seems</link>
-      <guid isPermaLink="false">Omicasa, Craze &amp; Matsu - As It Seems</guid>
+      <title>KVISION &amp; CAVALLI - ZEYTUN</title>
+      <link>https://www.google.com/search?q=KVISION%20%26%20CAVALLI%20ZEYTUN</link>
+      <guid isPermaLink="false">KVISION &amp; CAVALLI - ZEYTUN</guid>
     </item>
     <item>
       <title>HUGEL &amp; SOLTO (FR) - Jamaican (Bam Bam)</title>
@@ -59,11 +64,6 @@
       <title>HUGEL, French Montana &amp; Max B - One Night</title>
       <link>https://www.google.com/search?q=HUGEL%2C%20French%20Montana%20%26%20Max%20B%20One%20Night</link>
       <guid isPermaLink="false">HUGEL, French Montana &amp; Max B - One Night</guid>
-    </item>
-    <item>
-      <title>KVISION &amp; CAVALLI - ZEYTUN</title>
-      <link>https://www.google.com/search?q=KVISION%20%26%20CAVALLI%20ZEYTUN</link>
-      <guid isPermaLink="false">KVISION &amp; CAVALLI - ZEYTUN</guid>
     </item>
     <item>
       <title>Green Velvet, MEDUZA, GENESI &amp; ESSENTIA - La La Land</title>
