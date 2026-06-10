@@ -6,24 +6,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Martial Simon - Poetic Justice</title>
-      <link>https://www.google.com/search?q=Martial%20Simon%20Poetic%20Justice</link>
-      <guid isPermaLink="false">Martial Simon - Poetic Justice</guid>
-    </item>
-    <item>
-      <title>Tommy Pilot - Better Off Alone 26</title>
-      <link>https://www.google.com/search?q=Tommy%20Pilot%20Better%20Off%20Alone%2026</link>
-      <guid isPermaLink="false">Tommy Pilot - Better Off Alone 26</guid>
-    </item>
-    <item>
       <title>Disco Lines &amp; Tinashe - No Broke Boys</title>
       <link>https://www.google.com/search?q=Disco%20Lines%20%26%20Tinashe%20No%20Broke%20Boys</link>
       <guid isPermaLink="false">Disco Lines &amp; Tinashe - No Broke Boys</guid>
     </item>
     <item>
+      <title>Martial Simon - Poetic Justice</title>
+      <link>https://www.google.com/search?q=Martial%20Simon%20Poetic%20Justice</link>
+      <guid isPermaLink="false">Martial Simon - Poetic Justice</guid>
+    </item>
+    <item>
       <title>HUGEL &amp; SOLTO (FR) - Jamaican (Bam Bam)</title>
       <link>https://www.google.com/search?q=HUGEL%20%26%20SOLTO%20%28FR%29%20Jamaican%20%28Bam%20Bam%29</link>
       <guid isPermaLink="false">HUGEL &amp; SOLTO (FR) - Jamaican (Bam Bam)</guid>
+    </item>
+    <item>
+      <title>Alesso &amp; OneRepublic - In Your Eyes</title>
+      <link>https://www.google.com/search?q=Alesso%20%26%20OneRepublic%20In%20Your%20Eyes</link>
+      <guid isPermaLink="false">Alesso &amp; OneRepublic - In Your Eyes</guid>
+    </item>
+    <item>
+      <title>Tom Enzy - Turn It Up</title>
+      <link>https://www.google.com/search?q=Tom%20Enzy%20Turn%20It%20Up</link>
+      <guid isPermaLink="false">Tom Enzy - Turn It Up</guid>
     </item>
     <item>
       <title>MFresh - Papi! (Ven Aqui)</title>
@@ -36,9 +41,9 @@
       <guid isPermaLink="false">Rebel - Lie 2 U</guid>
     </item>
     <item>
-      <title>Skrillex, Chris Lake &amp; RHR - É o Bonde</title>
-      <link>https://www.google.com/search?q=Skrillex%2C%20Chris%20Lake%20%26%20RHR%20%C3%89%20o%20Bonde</link>
-      <guid isPermaLink="false">Skrillex, Chris Lake &amp; RHR - É o Bonde</guid>
+      <title>HUGEL, Barbara Doza &amp; Flagrant Drvms - Ron Y Coco</title>
+      <link>https://www.google.com/search?q=HUGEL%2C%20Barbara%20Doza%20%26%20Flagrant%20Drvms%20Ron%20Y%20Coco</link>
+      <guid isPermaLink="false">HUGEL, Barbara Doza &amp; Flagrant Drvms - Ron Y Coco</guid>
     </item>
     <item>
       <title>Crusy &amp; Mathieu Ruz - Morena Mia</title>
@@ -46,14 +51,9 @@
       <guid isPermaLink="false">Crusy &amp; Mathieu Ruz - Morena Mia</guid>
     </item>
     <item>
-      <title>HUGEL, Barbara Doza &amp; Flagrant Drvms - Ron Y Coco</title>
-      <link>https://www.google.com/search?q=HUGEL%2C%20Barbara%20Doza%20%26%20Flagrant%20Drvms%20Ron%20Y%20Coco</link>
-      <guid isPermaLink="false">HUGEL, Barbara Doza &amp; Flagrant Drvms - Ron Y Coco</guid>
-    </item>
-    <item>
-      <title>Tom Enzy - Turn It Up</title>
-      <link>https://www.google.com/search?q=Tom%20Enzy%20Turn%20It%20Up</link>
-      <guid isPermaLink="false">Tom Enzy - Turn It Up</guid>
+      <title>Skrillex, Chris Lake &amp; RHR - É o Bonde</title>
+      <link>https://www.google.com/search?q=Skrillex%2C%20Chris%20Lake%20%26%20RHR%20%C3%89%20o%20Bonde</link>
+      <guid isPermaLink="false">Skrillex, Chris Lake &amp; RHR - É o Bonde</guid>
     </item>
     <item>
       <title>Nice &amp; Smooth &amp; Cloonee - I Rhyme Quick</title>
