@@ -6,19 +6,9 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Bruno Mars – I Just Might</title>
-      <link>https://www.google.com/search?q=Bruno%20Mars%20-%20I%20Just%20Might</link>
-      <guid isPermaLink="false">Bruno Mars – I Just Might</guid>
-    </item>
-    <item>
-      <title>Myke Towers – Una Na Mas</title>
-      <link>https://www.google.com/search?q=Myke%20Towers%20-%20Una%20Na%20Mas</link>
-      <guid isPermaLink="false">Myke Towers – Una Na Mas</guid>
-    </item>
-    <item>
-      <title>Shakira ft Burna Boy – Dai Dai</title>
-      <link>https://www.google.com/search?q=Shakira%20ft%20Burna%20Boy%20-%20Dai%20Dai</link>
-      <guid isPermaLink="false">Shakira ft Burna Boy – Dai Dai</guid>
+      <title>Gino Rodriguez – Bailando Bachata</title>
+      <link>https://www.google.com/search?q=Gino%20Rodriguez%20-%20Bailando%20Bachata</link>
+      <guid isPermaLink="false">Gino Rodriguez – Bailando Bachata</guid>
     </item>
     <item>
       <title>Katteyes ft Sinaka – Alo</title>
@@ -26,24 +16,29 @@
       <guid isPermaLink="false">Katteyes ft Sinaka – Alo</guid>
     </item>
     <item>
+      <title>BTS – Swim</title>
+      <link>https://www.google.com/search?q=BTS%20-%20Swim</link>
+      <guid isPermaLink="false">BTS – Swim</guid>
+    </item>
+    <item>
+      <title>Shakira ft Burna Boy – Dai Dai</title>
+      <link>https://www.google.com/search?q=Shakira%20ft%20Burna%20Boy%20-%20Dai%20Dai</link>
+      <guid isPermaLink="false">Shakira ft Burna Boy – Dai Dai</guid>
+    </item>
+    <item>
       <title>Lauta ft Amigo De Artistas ft Manuel Turizo ft Reik ft Tote – Puñaladas (Remix)</title>
       <link>https://www.google.com/search?q=Lauta%20ft%20Amigo%20De%20Artistas%20ft%20Manuel%20Turizo%20ft%20Reik%20ft%20Tote%20-%20Pu%C3%B1aladas%20%28Remix%29</link>
       <guid isPermaLink="false">Lauta ft Amigo De Artistas ft Manuel Turizo ft Reik ft Tote – Puñaladas (Remix)</guid>
     </item>
     <item>
-      <title>Martinwhite – Pollypocket</title>
-      <link>https://www.google.com/search?q=Martinwhite%20-%20Pollypocket</link>
-      <guid isPermaLink="false">Martinwhite – Pollypocket</guid>
+      <title>Mar Solís – Fuiste Tu</title>
+      <link>https://www.google.com/search?q=Mar%20Sol%C3%ADs%20-%20Fuiste%20Tu</link>
+      <guid isPermaLink="false">Mar Solís – Fuiste Tu</guid>
     </item>
     <item>
-      <title>La Caravana Magica ft Jairo Vera – Me Gana</title>
-      <link>https://www.google.com/search?q=La%20Caravana%20Magica%20ft%20Jairo%20Vera%20-%20Me%20Gana</link>
-      <guid isPermaLink="false">La Caravana Magica ft Jairo Vera – Me Gana</guid>
-    </item>
-    <item>
-      <title>Carlos Vives – Tuyo Y Nada Mas</title>
-      <link>https://www.google.com/search?q=Carlos%20Vives%20-%20Tuyo%20Y%20Nada%20Mas</link>
-      <guid isPermaLink="false">Carlos Vives – Tuyo Y Nada Mas</guid>
+      <title>Bruno Mars – I Just Might</title>
+      <link>https://www.google.com/search?q=Bruno%20Mars%20-%20I%20Just%20Might</link>
+      <guid isPermaLink="false">Bruno Mars – I Just Might</guid>
     </item>
     <item>
       <title>Morat ft Silvestre Dangond – Lo Poco Que Yo Quiero</title>
@@ -51,9 +46,14 @@
       <guid isPermaLink="false">Morat ft Silvestre Dangond – Lo Poco Que Yo Quiero</guid>
     </item>
     <item>
-      <title>Mar Solís – Fuiste Tu</title>
-      <link>https://www.google.com/search?q=Mar%20Sol%C3%ADs%20-%20Fuiste%20Tu</link>
-      <guid isPermaLink="false">Mar Solís – Fuiste Tu</guid>
+      <title>Martinwhite – Pollypocket</title>
+      <link>https://www.google.com/search?q=Martinwhite%20-%20Pollypocket</link>
+      <guid isPermaLink="false">Martinwhite – Pollypocket</guid>
+    </item>
+    <item>
+      <title>Carlos Vives – Tuyo Y Nada Mas</title>
+      <link>https://www.google.com/search?q=Carlos%20Vives%20-%20Tuyo%20Y%20Nada%20Mas</link>
+      <guid isPermaLink="false">Carlos Vives – Tuyo Y Nada Mas</guid>
     </item>
   </channel>
 </rss>
