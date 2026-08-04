@@ -6,6 +6,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
+      <title>Olivia Dean - Man I Need</title>
+      <link>https://www.google.com/search?q=Olivia%20Dean%20Man%20I%20Need</link>
+      <guid isPermaLink="false">Olivia Dean - Man I Need</guid>
+    </item>
+    <item>
       <title>Madonna - Danceteria</title>
       <link>https://www.google.com/search?q=Madonna%20Danceteria</link>
       <guid isPermaLink="false">Madonna - Danceteria</guid>
@@ -14,11 +19,6 @@
       <title>Lady Gaga &amp; Doechii - Runway</title>
       <link>https://www.google.com/search?q=Lady%20Gaga%20%26%20Doechii%20Runway</link>
       <guid isPermaLink="false">Lady Gaga &amp; Doechii - Runway</guid>
-    </item>
-    <item>
-      <title>54 Ultra - Tell Me</title>
-      <link>https://www.google.com/search?q=54%20Ultra%20Tell%20Me</link>
-      <guid isPermaLink="false">54 Ultra - Tell Me</guid>
     </item>
     <item>
       <title>RAYE - WHERE IS MY HUSBAND!</title>
@@ -36,14 +36,14 @@
       <guid isPermaLink="false">Sam Smith - Oh Mother</guid>
     </item>
     <item>
-      <title>Bruno Mars - I Just Might</title>
-      <link>https://www.google.com/search?q=Bruno%20Mars%20I%20Just%20Might</link>
-      <guid isPermaLink="false">Bruno Mars - I Just Might</guid>
-    </item>
-    <item>
       <title>FLO - Remedied</title>
       <link>https://www.google.com/search?q=FLO%20Remedied</link>
       <guid isPermaLink="false">FLO - Remedied</guid>
+    </item>
+    <item>
+      <title>Bruno Mars - I Just Might</title>
+      <link>https://www.google.com/search?q=Bruno%20Mars%20I%20Just%20Might</link>
+      <guid isPermaLink="false">Bruno Mars - I Just Might</guid>
     </item>
     <item>
       <title>Charli xcx - Camera</title>
@@ -51,24 +51,24 @@
       <guid isPermaLink="false">Charli xcx - Camera</guid>
     </item>
     <item>
-      <title>MOLIY - 911</title>
-      <link>https://www.google.com/search?q=MOLIY%20911</link>
-      <guid isPermaLink="false">MOLIY - 911</guid>
-    </item>
-    <item>
       <title>Shaboozey &amp; Leon Bridges - Burn It Down</title>
       <link>https://www.google.com/search?q=Shaboozey%20%26%20Leon%20Bridges%20Burn%20It%20Down</link>
       <guid isPermaLink="false">Shaboozey &amp; Leon Bridges - Burn It Down</guid>
     </item>
     <item>
-      <title>Shakira &amp; Burna Boy - Dai Dai</title>
-      <link>https://www.google.com/search?q=Shakira%20%26%20Burna%20Boy%20Dai%20Dai</link>
-      <guid isPermaLink="false">Shakira &amp; Burna Boy - Dai Dai</guid>
-    </item>
-    <item>
       <title>KATSEYE - Animal</title>
       <link>https://www.google.com/search?q=KATSEYE%20Animal</link>
       <guid isPermaLink="false">KATSEYE - Animal</guid>
+    </item>
+    <item>
+      <title>MOLIY - 911</title>
+      <link>https://www.google.com/search?q=MOLIY%20911</link>
+      <guid isPermaLink="false">MOLIY - 911</guid>
+    </item>
+    <item>
+      <title>Shakira &amp; Burna Boy - Dai Dai</title>
+      <link>https://www.google.com/search?q=Shakira%20%26%20Burna%20Boy%20Dai%20Dai</link>
+      <guid isPermaLink="false">Shakira &amp; Burna Boy - Dai Dai</guid>
     </item>
     <item>
       <title>Ariana Grande - oh well</title>
