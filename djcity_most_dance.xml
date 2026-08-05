@@ -6,14 +6,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Heartless House - STF</title>
-      <link>https://www.google.com/search?q=Heartless%20House%20STF</link>
-      <guid isPermaLink="false">Heartless House - STF</guid>
+      <title>Lackmus - Volume</title>
+      <link>https://www.google.com/search?q=Lackmus%20Volume</link>
+      <guid isPermaLink="false">Lackmus - Volume</guid>
     </item>
     <item>
       <title>Francis Mercier &amp; Mahmut Orhan - Sadete</title>
       <link>https://www.google.com/search?q=Francis%20Mercier%20%26%20Mahmut%20Orhan%20Sadete</link>
       <guid isPermaLink="false">Francis Mercier &amp; Mahmut Orhan - Sadete</guid>
+    </item>
+    <item>
+      <title>Heartless House - STF</title>
+      <link>https://www.google.com/search?q=Heartless%20House%20STF</link>
+      <guid isPermaLink="false">Heartless House - STF</guid>
+    </item>
+    <item>
+      <title>Diplo, Major Lazer &amp; Tokischa - pAPi</title>
+      <link>https://www.google.com/search?q=Diplo%2C%20Major%20Lazer%20%26%20Tokischa%20pAPi</link>
+      <guid isPermaLink="false">Diplo, Major Lazer &amp; Tokischa - pAPi</guid>
     </item>
     <item>
       <title>AYA - SAWA</title>
@@ -26,11 +36,6 @@
       <guid isPermaLink="false">Bassjackers - Wake The F Up</guid>
     </item>
     <item>
-      <title>HUGEL &amp; Malachiii - Playboy</title>
-      <link>https://www.google.com/search?q=HUGEL%20%26%20Malachiii%20Playboy</link>
-      <guid isPermaLink="false">HUGEL &amp; Malachiii - Playboy</guid>
-    </item>
-    <item>
       <title>HUGEL, LaBritney &amp; Mili - Stay Sexy</title>
       <link>https://www.google.com/search?q=HUGEL%2C%20LaBritney%20%26%20Mili%20Stay%20Sexy</link>
       <guid isPermaLink="false">HUGEL, LaBritney &amp; Mili - Stay Sexy</guid>
@@ -41,19 +46,14 @@
       <guid isPermaLink="false">Barry Can't Swim - Dance Dance Dance!</guid>
     </item>
     <item>
-      <title>Wooderson - We Wanna Dance</title>
-      <link>https://www.google.com/search?q=Wooderson%20We%20Wanna%20Dance</link>
-      <guid isPermaLink="false">Wooderson - We Wanna Dance</guid>
-    </item>
-    <item>
-      <title>Francis Mercier, Wyclef Jean &amp; Kah-Lo - Take Me Home</title>
-      <link>https://www.google.com/search?q=Francis%20Mercier%2C%20Wyclef%20Jean%20%26%20Kah-Lo%20Take%20Me%20Home</link>
-      <guid isPermaLink="false">Francis Mercier, Wyclef Jean &amp; Kah-Lo - Take Me Home</guid>
-    </item>
-    <item>
       <title>HUGEL, Imael Angel &amp; Ultra Naté - Movin’ To The Sun</title>
       <link>https://www.google.com/search?q=HUGEL%2C%20Imael%20Angel%20%26%20Ultra%20Nat%C3%A9%20Movin%E2%80%99%20To%20The%20Sun</link>
       <guid isPermaLink="false">HUGEL, Imael Angel &amp; Ultra Naté - Movin’ To The Sun</guid>
+    </item>
+    <item>
+      <title>Wooderson - We Wanna Dance</title>
+      <link>https://www.google.com/search?q=Wooderson%20We%20Wanna%20Dance</link>
+      <guid isPermaLink="false">Wooderson - We Wanna Dance</guid>
     </item>
     <item>
       <title>Öwnboss &amp; StadiumX - To The Beat</title>
@@ -66,14 +66,14 @@
       <guid isPermaLink="false">HUGEL, French Montana, David Guetta &amp; Aidan Martin - Shine</guid>
     </item>
     <item>
-      <title>Camilo Salazar - Salsa Del 78</title>
-      <link>https://www.google.com/search?q=Camilo%20Salazar%20Salsa%20Del%2078</link>
-      <guid isPermaLink="false">Camilo Salazar - Salsa Del 78</guid>
-    </item>
-    <item>
       <title>HUGEL &amp; Bryson Tiller - Temptation</title>
       <link>https://www.google.com/search?q=HUGEL%20%26%20Bryson%20Tiller%20Temptation</link>
       <guid isPermaLink="false">HUGEL &amp; Bryson Tiller - Temptation</guid>
+    </item>
+    <item>
+      <title>Camilo Salazar - Salsa Del 78</title>
+      <link>https://www.google.com/search?q=Camilo%20Salazar%20Salsa%20Del%2078</link>
+      <guid isPermaLink="false">Camilo Salazar - Salsa Del 78</guid>
     </item>
     <item>
       <title>HUGEL &amp; Quavo - Where She Come From</title>
