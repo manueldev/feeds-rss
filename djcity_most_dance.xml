@@ -6,19 +6,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Jazzy - My People</title>
-      <link>https://www.google.com/search?q=Jazzy%20My%20People</link>
-      <guid isPermaLink="false">Jazzy - My People</guid>
+      <title>P3SO &amp; Woof Logik - Next Level</title>
+      <link>https://www.google.com/search?q=P3SO%20%26%20Woof%20Logik%20Next%20Level</link>
+      <guid isPermaLink="false">P3SO &amp; Woof Logik - Next Level</guid>
     </item>
     <item>
       <title>HUGEL, French Montana &amp; Max B - One Night</title>
       <link>https://www.google.com/search?q=HUGEL%2C%20French%20Montana%20%26%20Max%20B%20One%20Night</link>
       <guid isPermaLink="false">HUGEL, French Montana &amp; Max B - One Night</guid>
-    </item>
-    <item>
-      <title>HUGEL &amp; SOLTO (FR) - Jamaican (Bam Bam)</title>
-      <link>https://www.google.com/search?q=HUGEL%20%26%20SOLTO%20%28FR%29%20Jamaican%20%28Bam%20Bam%29</link>
-      <guid isPermaLink="false">HUGEL &amp; SOLTO (FR) - Jamaican (Bam Bam)</guid>
     </item>
     <item>
       <title>MEDUZA &amp; Kevin de Vries - 7 Days</title>
@@ -31,14 +26,19 @@
       <guid isPermaLink="false">Juush - Moonlight</guid>
     </item>
     <item>
-      <title>Disco Lines &amp; Tinashe - No Broke Boys</title>
-      <link>https://www.google.com/search?q=Disco%20Lines%20%26%20Tinashe%20No%20Broke%20Boys</link>
-      <guid isPermaLink="false">Disco Lines &amp; Tinashe - No Broke Boys</guid>
+      <title>HUGEL &amp; SOLTO (FR) - Jamaican (Bam Bam)</title>
+      <link>https://www.google.com/search?q=HUGEL%20%26%20SOLTO%20%28FR%29%20Jamaican%20%28Bam%20Bam%29</link>
+      <guid isPermaLink="false">HUGEL &amp; SOLTO (FR) - Jamaican (Bam Bam)</guid>
     </item>
     <item>
       <title>HUGEL - Habibi</title>
       <link>https://www.google.com/search?q=HUGEL%20Habibi</link>
       <guid isPermaLink="false">HUGEL - Habibi</guid>
+    </item>
+    <item>
+      <title>Disco Lines &amp; Tinashe - No Broke Boys</title>
+      <link>https://www.google.com/search?q=Disco%20Lines%20%26%20Tinashe%20No%20Broke%20Boys</link>
+      <guid isPermaLink="false">Disco Lines &amp; Tinashe - No Broke Boys</guid>
     </item>
     <item>
       <title>Matt Faulk - HIM</title>
@@ -61,11 +61,6 @@
       <guid isPermaLink="false">Anyma &amp; Volkoder - Other Dimension</guid>
     </item>
     <item>
-      <title>HUGEL, Imael Angel &amp; Ultra Naté - Movin’ To The Sun</title>
-      <link>https://www.google.com/search?q=HUGEL%2C%20Imael%20Angel%20%26%20Ultra%20Nat%C3%A9%20Movin%E2%80%99%20To%20The%20Sun</link>
-      <guid isPermaLink="false">HUGEL, Imael Angel &amp; Ultra Naté - Movin’ To The Sun</guid>
-    </item>
-    <item>
       <title>SOLTO (FR) - Amor</title>
       <link>https://www.google.com/search?q=SOLTO%20%28FR%29%20Amor</link>
       <guid isPermaLink="false">SOLTO (FR) - Amor</guid>
@@ -74,6 +69,11 @@
       <title>MPH &amp; Skrillex - Mirage</title>
       <link>https://www.google.com/search?q=MPH%20%26%20Skrillex%20Mirage</link>
       <guid isPermaLink="false">MPH &amp; Skrillex - Mirage</guid>
+    </item>
+    <item>
+      <title>HUGEL, Imael Angel &amp; Ultra Naté - Movin’ To The Sun</title>
+      <link>https://www.google.com/search?q=HUGEL%2C%20Imael%20Angel%20%26%20Ultra%20Nat%C3%A9%20Movin%E2%80%99%20To%20The%20Sun</link>
+      <guid isPermaLink="false">HUGEL, Imael Angel &amp; Ultra Naté - Movin’ To The Sun</guid>
     </item>
     <item>
       <title>Ochok, ALDO &amp; 4Step - wtf</title>
