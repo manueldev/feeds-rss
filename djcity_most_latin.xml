@@ -6,9 +6,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Bad Bunny - MIA</title>
-      <link>https://www.google.com/search?q=Bad%20Bunny%20MIA</link>
-      <guid isPermaLink="false">Bad Bunny - MIA</guid>
+      <title>Mr Plata &amp; El Americano 4KT - Las Muñequitas</title>
+      <link>https://www.google.com/search?q=Mr%20Plata%20%26%20El%20Americano%204KT%20Las%20Mu%C3%B1equitas</link>
+      <guid isPermaLink="false">Mr Plata &amp; El Americano 4KT - Las Muñequitas</guid>
+    </item>
+    <item>
+      <title>De La Rose &amp; Rels B - Ponte A Pensar</title>
+      <link>https://www.google.com/search?q=De%20La%20Rose%20%26%20Rels%20B%20Ponte%20A%20Pensar</link>
+      <guid isPermaLink="false">De La Rose &amp; Rels B - Ponte A Pensar</guid>
+    </item>
+    <item>
+      <title>J Balvin, Ryan Castro &amp; DJ Snake - Tonto</title>
+      <link>https://www.google.com/search?q=J%20Balvin%2C%20Ryan%20Castro%20%26%20DJ%20Snake%20Tonto</link>
+      <guid isPermaLink="false">J Balvin, Ryan Castro &amp; DJ Snake - Tonto</guid>
+    </item>
+    <item>
+      <title>Bad Bunny - NUEVAYoL</title>
+      <link>https://www.google.com/search?q=Bad%20Bunny%20NUEVAYoL</link>
+      <guid isPermaLink="false">Bad Bunny - NUEVAYoL</guid>
+    </item>
+    <item>
+      <title>Bad Bunny - EoO</title>
+      <link>https://www.google.com/search?q=Bad%20Bunny%20EoO</link>
+      <guid isPermaLink="false">Bad Bunny - EoO</guid>
+    </item>
+    <item>
+      <title>Bad Bunny - Tití Me Preguntó</title>
+      <link>https://www.google.com/search?q=Bad%20Bunny%20Tit%C3%AD%20Me%20Pregunt%C3%B3</link>
+      <guid isPermaLink="false">Bad Bunny - Tití Me Preguntó</guid>
     </item>
     <item>
       <title>Bulin 47 - Toy Al 100</title>
@@ -21,34 +46,9 @@
       <guid isPermaLink="false">Alexia Maga - GATITA PERREO</guid>
     </item>
     <item>
-      <title>IAmChino, Pitbull &amp; Gente De Zona - Gringa Repartera</title>
-      <link>https://www.google.com/search?q=IAmChino%2C%20Pitbull%20%26%20Gente%20De%20Zona%20Gringa%20Repartera</link>
-      <guid isPermaLink="false">IAmChino, Pitbull &amp; Gente De Zona - Gringa Repartera</guid>
-    </item>
-    <item>
       <title>Lil Naay - PERRA</title>
       <link>https://www.google.com/search?q=Lil%20Naay%20PERRA</link>
       <guid isPermaLink="false">Lil Naay - PERRA</guid>
-    </item>
-    <item>
-      <title>J Balvin, Ryan Castro &amp; DJ Snake - Tonto</title>
-      <link>https://www.google.com/search?q=J%20Balvin%2C%20Ryan%20Castro%20%26%20DJ%20Snake%20Tonto</link>
-      <guid isPermaLink="false">J Balvin, Ryan Castro &amp; DJ Snake - Tonto</guid>
-    </item>
-    <item>
-      <title>Bad Bunny - EoO</title>
-      <link>https://www.google.com/search?q=Bad%20Bunny%20EoO</link>
-      <guid isPermaLink="false">Bad Bunny - EoO</guid>
-    </item>
-    <item>
-      <title>Bad Bunny - NUEVAYoL</title>
-      <link>https://www.google.com/search?q=Bad%20Bunny%20NUEVAYoL</link>
-      <guid isPermaLink="false">Bad Bunny - NUEVAYoL</guid>
-    </item>
-    <item>
-      <title>Bad Bunny - Tití Me Preguntó</title>
-      <link>https://www.google.com/search?q=Bad%20Bunny%20Tit%C3%AD%20Me%20Pregunt%C3%B3</link>
-      <guid isPermaLink="false">Bad Bunny - Tití Me Preguntó</guid>
     </item>
     <item>
       <title>Ovy On The Drums, mvrk &amp; Justin Quiles - Me Necesita</title>
@@ -61,14 +61,14 @@
       <guid isPermaLink="false">Kybba, Kapo &amp; Busy Signal - Gimidi</guid>
     </item>
     <item>
-      <title>Justin Quiles &amp; Lenny Tavárez - MAKARENA</title>
-      <link>https://www.google.com/search?q=Justin%20Quiles%20%26%20Lenny%20Tav%C3%A1rez%20MAKARENA</link>
-      <guid isPermaLink="false">Justin Quiles &amp; Lenny Tavárez - MAKARENA</guid>
-    </item>
-    <item>
       <title>Myke Towers - CARITA FELIZ</title>
       <link>https://www.google.com/search?q=Myke%20Towers%20CARITA%20FELIZ</link>
       <guid isPermaLink="false">Myke Towers - CARITA FELIZ</guid>
+    </item>
+    <item>
+      <title>Justin Quiles &amp; Lenny Tavárez - MAKARENA</title>
+      <link>https://www.google.com/search?q=Justin%20Quiles%20%26%20Lenny%20Tav%C3%A1rez%20MAKARENA</link>
+      <guid isPermaLink="false">Justin Quiles &amp; Lenny Tavárez - MAKARENA</guid>
     </item>
     <item>
       <title>KAROL G &amp; Drake - Ahí</title>
