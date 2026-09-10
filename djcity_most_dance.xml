@@ -6,14 +6,9 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Solomun &amp; Skrillex - Rumpta</title>
-      <link>https://www.google.com/search?q=Solomun%20%26%20Skrillex%20Rumpta</link>
-      <guid isPermaLink="false">Solomun &amp; Skrillex - Rumpta</guid>
-    </item>
-    <item>
-      <title>Chris Lorenzo, Chris Lake, Kenny Beats &amp; CAKE - Long Jacket</title>
-      <link>https://www.google.com/search?q=Chris%20Lorenzo%2C%20Chris%20Lake%2C%20Kenny%20Beats%20%26%20CAKE%20Long%20Jacket</link>
-      <guid isPermaLink="false">Chris Lorenzo, Chris Lake, Kenny Beats &amp; CAKE - Long Jacket</guid>
+      <title>BIJOU &amp; Datti - Thirsty</title>
+      <link>https://www.google.com/search?q=BIJOU%20%26%20Datti%20Thirsty</link>
+      <guid isPermaLink="false">BIJOU &amp; Datti - Thirsty</guid>
     </item>
     <item>
       <title>Cloonee, Prospa &amp; Tristan Henry - Good Girl</title>
@@ -21,14 +16,14 @@
       <guid isPermaLink="false">Cloonee, Prospa &amp; Tristan Henry - Good Girl</guid>
     </item>
     <item>
-      <title>Cassian &amp; ARCO - Come To Life</title>
-      <link>https://www.google.com/search?q=Cassian%20%26%20ARCO%20Come%20To%20Life</link>
-      <guid isPermaLink="false">Cassian &amp; ARCO - Come To Life</guid>
+      <title>Juos, No Thanks &amp; Nevve - Tequila Bounce</title>
+      <link>https://www.google.com/search?q=Juos%2C%20No%20Thanks%20%26%20Nevve%20Tequila%20Bounce</link>
+      <guid isPermaLink="false">Juos, No Thanks &amp; Nevve - Tequila Bounce</guid>
     </item>
     <item>
-      <title>OMNOM - Pressure</title>
-      <link>https://www.google.com/search?q=OMNOM%20Pressure</link>
-      <guid isPermaLink="false">OMNOM - Pressure</guid>
+      <title>Tiga &amp; Chris Lake - Party Time</title>
+      <link>https://www.google.com/search?q=Tiga%20%26%20Chris%20Lake%20Party%20Time</link>
+      <guid isPermaLink="false">Tiga &amp; Chris Lake - Party Time</guid>
     </item>
     <item>
       <title>Ochok, ALDO &amp; 4Step - wtf</title>
@@ -46,19 +41,24 @@
       <guid isPermaLink="false">Henry Fong &amp; Reese - MAMA SAY</guid>
     </item>
     <item>
-      <title>Tiga &amp; Chris Lake - Party Time</title>
-      <link>https://www.google.com/search?q=Tiga%20%26%20Chris%20Lake%20Party%20Time</link>
-      <guid isPermaLink="false">Tiga &amp; Chris Lake - Party Time</guid>
+      <title>OMNOM - Pressure</title>
+      <link>https://www.google.com/search?q=OMNOM%20Pressure</link>
+      <guid isPermaLink="false">OMNOM - Pressure</guid>
     </item>
     <item>
-      <title>James Hype &amp; Volkoder - 1,2,3</title>
-      <link>https://www.google.com/search?q=James%20Hype%20%26%20Volkoder%201%2C2%2C3</link>
-      <guid isPermaLink="false">James Hype &amp; Volkoder - 1,2,3</guid>
+      <title>Cassian &amp; ARCO - Come To Life</title>
+      <link>https://www.google.com/search?q=Cassian%20%26%20ARCO%20Come%20To%20Life</link>
+      <guid isPermaLink="false">Cassian &amp; ARCO - Come To Life</guid>
     </item>
     <item>
       <title>Josh Ramz &amp; VANDAM Remix - Baiana</title>
       <link>https://www.google.com/search?q=Josh%20Ramz%20%26%20VANDAM%20Remix%20Baiana</link>
       <guid isPermaLink="false">Josh Ramz &amp; VANDAM Remix - Baiana</guid>
+    </item>
+    <item>
+      <title>James Hype &amp; Volkoder - 1,2,3</title>
+      <link>https://www.google.com/search?q=James%20Hype%20%26%20Volkoder%201%2C2%2C3</link>
+      <guid isPermaLink="false">James Hype &amp; Volkoder - 1,2,3</guid>
     </item>
     <item>
       <title>HUGEL, Imael Angel &amp; Ultra Naté - Movin’ To The Sun</title>
@@ -71,14 +71,14 @@
       <guid isPermaLink="false">AFROJACK, Tropkillaz &amp; Tinie Tempah - To The Floor (Vai Descendo)</guid>
     </item>
     <item>
-      <title>Mau P - Just A Little Bit More</title>
-      <link>https://www.google.com/search?q=Mau%20P%20Just%20A%20Little%20Bit%20More</link>
-      <guid isPermaLink="false">Mau P - Just A Little Bit More</guid>
-    </item>
-    <item>
       <title>HUGEL, Sexyy Red &amp; Gatano - Bad Bitch</title>
       <link>https://www.google.com/search?q=HUGEL%2C%20Sexyy%20Red%20%26%20Gatano%20Bad%20Bitch</link>
       <guid isPermaLink="false">HUGEL, Sexyy Red &amp; Gatano - Bad Bitch</guid>
+    </item>
+    <item>
+      <title>Mau P - Just A Little Bit More</title>
+      <link>https://www.google.com/search?q=Mau%20P%20Just%20A%20Little%20Bit%20More</link>
+      <guid isPermaLink="false">Mau P - Just A Little Bit More</guid>
     </item>
   </channel>
 </rss>
