@@ -6,11 +6,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Miley Cyrus - Bass Persuades</title>
-      <link>https://www.google.com/search?q=Miley%20Cyrus%20Bass%20Persuades</link>
-      <guid isPermaLink="false">Miley Cyrus - Bass Persuades</guid>
-    </item>
-    <item>
       <title>Tinashe - Pillow Fight</title>
       <link>https://www.google.com/search?q=Tinashe%20Pillow%20Fight</link>
       <guid isPermaLink="false">Tinashe - Pillow Fight</guid>
@@ -19,6 +14,11 @@
       <title>Marshmello &amp; ILLENIUM - Close My Eyes</title>
       <link>https://www.google.com/search?q=Marshmello%20%26%20ILLENIUM%20Close%20My%20Eyes</link>
       <guid isPermaLink="false">Marshmello &amp; ILLENIUM - Close My Eyes</guid>
+    </item>
+    <item>
+      <title>Miley Cyrus - Bass Persuades</title>
+      <link>https://www.google.com/search?q=Miley%20Cyrus%20Bass%20Persuades</link>
+      <guid isPermaLink="false">Miley Cyrus - Bass Persuades</guid>
     </item>
     <item>
       <title>Bruno Mars - I Just Might</title>
@@ -46,9 +46,9 @@
       <guid isPermaLink="false">Morgan Wallen - Last Thing You Need</guid>
     </item>
     <item>
-      <title>Tinashe - Nobody Wanna Dance</title>
-      <link>https://www.google.com/search?q=Tinashe%20Nobody%20Wanna%20Dance</link>
-      <guid isPermaLink="false">Tinashe - Nobody Wanna Dance</guid>
+      <title>ROSÉ - new trick</title>
+      <link>https://www.google.com/search?q=ROS%C3%89%20new%20trick</link>
+      <guid isPermaLink="false">ROSÉ - new trick</guid>
     </item>
     <item>
       <title>Madonna &amp; Charli xcx - Danceteria Afterhours</title>
@@ -56,14 +56,9 @@
       <guid isPermaLink="false">Madonna &amp; Charli xcx - Danceteria Afterhours</guid>
     </item>
     <item>
-      <title>ROSÉ - new trick</title>
-      <link>https://www.google.com/search?q=ROS%C3%89%20new%20trick</link>
-      <guid isPermaLink="false">ROSÉ - new trick</guid>
-    </item>
-    <item>
-      <title>RAYE - WHERE IS MY HUSBAND!</title>
-      <link>https://www.google.com/search?q=RAYE%20WHERE%20IS%20MY%20HUSBAND%21</link>
-      <guid isPermaLink="false">RAYE - WHERE IS MY HUSBAND!</guid>
+      <title>Tinashe - Nobody Wanna Dance</title>
+      <link>https://www.google.com/search?q=Tinashe%20Nobody%20Wanna%20Dance</link>
+      <guid isPermaLink="false">Tinashe - Nobody Wanna Dance</guid>
     </item>
     <item>
       <title>CA7RIEL &amp; Paco Amoroso, PinkPantheress, Fred again.. &amp; Etienne de Crécy - Sexy Magic</title>
@@ -71,14 +66,19 @@
       <guid isPermaLink="false">CA7RIEL &amp; Paco Amoroso, PinkPantheress, Fred again.. &amp; Etienne de Crécy - Sexy Magic</guid>
     </item>
     <item>
-      <title>Taylor Swift - Pink Clouding</title>
-      <link>https://www.google.com/search?q=Taylor%20Swift%20Pink%20Clouding</link>
-      <guid isPermaLink="false">Taylor Swift - Pink Clouding</guid>
+      <title>RAYE - WHERE IS MY HUSBAND!</title>
+      <link>https://www.google.com/search?q=RAYE%20WHERE%20IS%20MY%20HUSBAND%21</link>
+      <guid isPermaLink="false">RAYE - WHERE IS MY HUSBAND!</guid>
     </item>
     <item>
       <title>Clean Bandit, Chlöe, &amp; Omah Lay - Company</title>
       <link>https://www.google.com/search?q=Clean%20Bandit%2C%20Chlo%CC%88e%2C%20%26%20Omah%20Lay%20Company</link>
       <guid isPermaLink="false">Clean Bandit, Chlöe, &amp; Omah Lay - Company</guid>
+    </item>
+    <item>
+      <title>Taylor Swift - Pink Clouding</title>
+      <link>https://www.google.com/search?q=Taylor%20Swift%20Pink%20Clouding</link>
+      <guid isPermaLink="false">Taylor Swift - Pink Clouding</guid>
     </item>
   </channel>
 </rss>
