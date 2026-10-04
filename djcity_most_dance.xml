@@ -6,34 +6,9 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Aares - Gangsta</title>
-      <link>https://www.google.com/search?q=Aares%20Gangsta</link>
-      <guid isPermaLink="false">Aares - Gangsta</guid>
-    </item>
-    <item>
-      <title>Chris Lorenzo &amp; Chromeo - Fancy Footwork</title>
-      <link>https://www.google.com/search?q=Chris%20Lorenzo%20%26%20Chromeo%20Fancy%20Footwork</link>
-      <guid isPermaLink="false">Chris Lorenzo &amp; Chromeo - Fancy Footwork</guid>
-    </item>
-    <item>
-      <title>AFTERAll - Paranda</title>
-      <link>https://www.google.com/search?q=AFTERAll%20Paranda</link>
-      <guid isPermaLink="false">AFTERAll - Paranda</guid>
-    </item>
-    <item>
-      <title>MPH - Warlord</title>
-      <link>https://www.google.com/search?q=MPH%20Warlord</link>
-      <guid isPermaLink="false">MPH - Warlord</guid>
-    </item>
-    <item>
-      <title>AMÉMÉ - Chulo</title>
-      <link>https://www.google.com/search?q=AM%C3%89M%C3%89%20Chulo</link>
-      <guid isPermaLink="false">AMÉMÉ - Chulo</guid>
-    </item>
-    <item>
-      <title>CAVALLI, KVISION, Soulis &amp; Manybeat - NOCHE EN LA HABANA</title>
-      <link>https://www.google.com/search?q=CAVALLI%2C%20KVISION%2C%20Soulis%20%26%20Manybeat%20NOCHE%20EN%20LA%20HABANA</link>
-      <guid isPermaLink="false">CAVALLI, KVISION, Soulis &amp; Manybeat - NOCHE EN LA HABANA</guid>
+      <title>Glockenbach &amp; Calum Scott - Collide</title>
+      <link>https://www.google.com/search?q=Glockenbach%20%26%20Calum%20Scott%20Collide</link>
+      <guid isPermaLink="false">Glockenbach &amp; Calum Scott - Collide</guid>
     </item>
     <item>
       <title>HUGEL, French Montana, David Guetta &amp; Aidan Martin - Shine</title>
@@ -41,9 +16,29 @@
       <guid isPermaLink="false">HUGEL, French Montana, David Guetta &amp; Aidan Martin - Shine</guid>
     </item>
     <item>
+      <title>HUGEL, Sexyy Red &amp; Gatano - Bad Bitch</title>
+      <link>https://www.google.com/search?q=HUGEL%2C%20Sexyy%20Red%20%26%20Gatano%20Bad%20Bitch</link>
+      <guid isPermaLink="false">HUGEL, Sexyy Red &amp; Gatano - Bad Bitch</guid>
+    </item>
+    <item>
       <title>Disco Lines &amp; Tinashe - No Broke Boys</title>
       <link>https://www.google.com/search?q=Disco%20Lines%20%26%20Tinashe%20No%20Broke%20Boys</link>
       <guid isPermaLink="false">Disco Lines &amp; Tinashe - No Broke Boys</guid>
+    </item>
+    <item>
+      <title>Heliograph - Wanyama</title>
+      <link>https://www.google.com/search?q=Heliograph%20Wanyama</link>
+      <guid isPermaLink="false">Heliograph - Wanyama</guid>
+    </item>
+    <item>
+      <title>UNIBĀL - Mi Gente</title>
+      <link>https://www.google.com/search?q=UNIB%C4%80L%20Mi%20Gente</link>
+      <guid isPermaLink="false">UNIBĀL - Mi Gente</guid>
+    </item>
+    <item>
+      <title>MPH - Warlord</title>
+      <link>https://www.google.com/search?q=MPH%20Warlord</link>
+      <guid isPermaLink="false">MPH - Warlord</guid>
     </item>
     <item>
       <title>Mau P - Just A Little Bit More</title>
@@ -51,9 +46,9 @@
       <guid isPermaLink="false">Mau P - Just A Little Bit More</guid>
     </item>
     <item>
-      <title>AFROJACK &amp; bradeazy - To The Front</title>
-      <link>https://www.google.com/search?q=AFROJACK%20%26%20bradeazy%20To%20The%20Front</link>
-      <guid isPermaLink="false">AFROJACK &amp; bradeazy - To The Front</guid>
+      <title>Chris Lorenzo &amp; Chromeo - Fancy Footwork</title>
+      <link>https://www.google.com/search?q=Chris%20Lorenzo%20%26%20Chromeo%20Fancy%20Footwork</link>
+      <guid isPermaLink="false">Chris Lorenzo &amp; Chromeo - Fancy Footwork</guid>
     </item>
     <item>
       <title>Loods &amp; SG Lewis - If You Want Me</title>
@@ -61,14 +56,19 @@
       <guid isPermaLink="false">Loods &amp; SG Lewis - If You Want Me</guid>
     </item>
     <item>
+      <title>James Hype - Confession</title>
+      <link>https://www.google.com/search?q=James%20Hype%20Confession</link>
+      <guid isPermaLink="false">James Hype - Confession</guid>
+    </item>
+    <item>
       <title>Cloonee, Yandel &amp; ATLAC - Movimiento</title>
       <link>https://www.google.com/search?q=Cloonee%2C%20Yandel%20%26%20ATLAC%20Movimiento</link>
       <guid isPermaLink="false">Cloonee, Yandel &amp; ATLAC - Movimiento</guid>
     </item>
     <item>
-      <title>James Hype - Confession</title>
-      <link>https://www.google.com/search?q=James%20Hype%20Confession</link>
-      <guid isPermaLink="false">James Hype - Confession</guid>
+      <title>AFROJACK &amp; bradeazy - To The Front</title>
+      <link>https://www.google.com/search?q=AFROJACK%20%26%20bradeazy%20To%20The%20Front</link>
+      <guid isPermaLink="false">AFROJACK &amp; bradeazy - To The Front</guid>
     </item>
     <item>
       <title>HUGEL, Imael Angel &amp; Ultra Naté - Movin’ To The Sun</title>
