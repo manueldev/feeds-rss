@@ -6,11 +6,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Lady Gaga &amp; Doechii - Runway</title>
-      <link>https://www.google.com/search?q=Lady%20Gaga%20%26%20Doechii%20Runway</link>
-      <guid isPermaLink="false">Lady Gaga &amp; Doechii - Runway</guid>
-    </item>
-    <item>
       <title>Clean Bandit, Chlöe, &amp; Omah Lay - Company</title>
       <link>https://www.google.com/search?q=Clean%20Bandit%2C%20Chlo%CC%88e%2C%20%26%20Omah%20Lay%20Company</link>
       <guid isPermaLink="false">Clean Bandit, Chlöe, &amp; Omah Lay - Company</guid>
@@ -56,14 +51,14 @@
       <guid isPermaLink="false">Magnus Ferrell - Whyami</guid>
     </item>
     <item>
-      <title>RAYE - WHERE IS MY HUSBAND!</title>
-      <link>https://www.google.com/search?q=RAYE%20WHERE%20IS%20MY%20HUSBAND%21</link>
-      <guid isPermaLink="false">RAYE - WHERE IS MY HUSBAND!</guid>
-    </item>
-    <item>
       <title>Taylor Swift - Patient Zero</title>
       <link>https://www.google.com/search?q=Taylor%20Swift%20Patient%20Zero</link>
       <guid isPermaLink="false">Taylor Swift - Patient Zero</guid>
+    </item>
+    <item>
+      <title>RAYE - WHERE IS MY HUSBAND!</title>
+      <link>https://www.google.com/search?q=RAYE%20WHERE%20IS%20MY%20HUSBAND%21</link>
+      <guid isPermaLink="false">RAYE - WHERE IS MY HUSBAND!</guid>
     </item>
     <item>
       <title>ADÉLA - Nicole Kidman</title>
@@ -74,6 +69,11 @@
       <title>ADÉLA - Ain't In LA</title>
       <link>https://www.google.com/search?q=AD%C3%89LA%20Ain%27t%20In%20LA</link>
       <guid isPermaLink="false">ADÉLA - Ain't In LA</guid>
+    </item>
+    <item>
+      <title>Pitbull &amp; Akon - 123 Back It Up</title>
+      <link>https://www.google.com/search?q=Pitbull%20%26%20Akon%20123%20Back%20It%20Up</link>
+      <guid isPermaLink="false">Pitbull &amp; Akon - 123 Back It Up</guid>
     </item>
     <item>
       <title>Taylor Swift - Pink Clouding</title>
