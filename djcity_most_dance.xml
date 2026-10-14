@@ -6,9 +6,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Mau P - Just A Little Bit More</title>
-      <link>https://www.google.com/search?q=Mau%20P%20Just%20A%20Little%20Bit%20More</link>
-      <guid isPermaLink="false">Mau P - Just A Little Bit More</guid>
+      <title>Damon Sharpe - Touch It</title>
+      <link>https://www.google.com/search?q=Damon%20Sharpe%20Touch%20It</link>
+      <guid isPermaLink="false">Damon Sharpe - Touch It</guid>
+    </item>
+    <item>
+      <title>Mike Epsse - Scratch Master</title>
+      <link>https://www.google.com/search?q=Mike%20Epsse%20Scratch%20Master</link>
+      <guid isPermaLink="false">Mike Epsse - Scratch Master</guid>
+    </item>
+    <item>
+      <title>Disco Lines &amp; Tinashe - No Broke Boys</title>
+      <link>https://www.google.com/search?q=Disco%20Lines%20%26%20Tinashe%20No%20Broke%20Boys</link>
+      <guid isPermaLink="false">Disco Lines &amp; Tinashe - No Broke Boys</guid>
     </item>
     <item>
       <title>Anna Wilder - Bad Lil Things</title>
@@ -16,9 +26,9 @@
       <guid isPermaLink="false">Anna Wilder - Bad Lil Things</guid>
     </item>
     <item>
-      <title>Chris Lorenzo &amp; Chromeo - Fancy Footwork</title>
-      <link>https://www.google.com/search?q=Chris%20Lorenzo%20%26%20Chromeo%20Fancy%20Footwork</link>
-      <guid isPermaLink="false">Chris Lorenzo &amp; Chromeo - Fancy Footwork</guid>
+      <title>DJ Ivan G - After Party (Halloween)</title>
+      <link>https://www.google.com/search?q=DJ%20Ivan%20G%20After%20Party%20%28Halloween%29</link>
+      <guid isPermaLink="false">DJ Ivan G - After Party (Halloween)</guid>
     </item>
     <item>
       <title>DJ Mario Andretti - Será Porque Te Amo</title>
@@ -26,39 +36,14 @@
       <guid isPermaLink="false">DJ Mario Andretti - Será Porque Te Amo</guid>
     </item>
     <item>
-      <title>DJ Ivan G - After Party (Halloween)</title>
-      <link>https://www.google.com/search?q=DJ%20Ivan%20G%20After%20Party%20%28Halloween%29</link>
-      <guid isPermaLink="false">DJ Ivan G - After Party (Halloween)</guid>
-    </item>
-    <item>
       <title>HUGEL, Sexyy Red &amp; Gatano - Bad Bitch</title>
       <link>https://www.google.com/search?q=HUGEL%2C%20Sexyy%20Red%20%26%20Gatano%20Bad%20Bitch</link>
       <guid isPermaLink="false">HUGEL, Sexyy Red &amp; Gatano - Bad Bitch</guid>
     </item>
     <item>
-      <title>UNIBĀL - Mi Gente</title>
-      <link>https://www.google.com/search?q=UNIB%C4%80L%20Mi%20Gente</link>
-      <guid isPermaLink="false">UNIBĀL - Mi Gente</guid>
-    </item>
-    <item>
-      <title>Cloonee &amp; Chris Lake - Paradise</title>
-      <link>https://www.google.com/search?q=Cloonee%20%26%20Chris%20Lake%20Paradise</link>
-      <guid isPermaLink="false">Cloonee &amp; Chris Lake - Paradise</guid>
-    </item>
-    <item>
-      <title>Don Diablo - 9MM</title>
-      <link>https://www.google.com/search?q=Don%20Diablo%209MM</link>
-      <guid isPermaLink="false">Don Diablo - 9MM</guid>
-    </item>
-    <item>
-      <title>Imael Angel - BAD TIMES</title>
-      <link>https://www.google.com/search?q=Imael%20Angel%20BAD%20TIMES</link>
-      <guid isPermaLink="false">Imael Angel - BAD TIMES</guid>
-    </item>
-    <item>
-      <title>HUGEL, Imael Angel &amp; Ultra Naté - Movin’ To The Sun</title>
-      <link>https://www.google.com/search?q=HUGEL%2C%20Imael%20Angel%20%26%20Ultra%20Nat%C3%A9%20Movin%E2%80%99%20To%20The%20Sun</link>
-      <guid isPermaLink="false">HUGEL, Imael Angel &amp; Ultra Naté - Movin’ To The Sun</guid>
+      <title>Galantis - Can’t Take My Eyes Off You</title>
+      <link>https://www.google.com/search?q=Galantis%20Can%E2%80%99t%20Take%20My%20Eyes%20Off%20You</link>
+      <guid isPermaLink="false">Galantis - Can’t Take My Eyes Off You</guid>
     </item>
     <item>
       <title>Max Styler - Body Shake</title>
@@ -66,9 +51,24 @@
       <guid isPermaLink="false">Max Styler - Body Shake</guid>
     </item>
     <item>
-      <title>Galantis - Can’t Take My Eyes Off You</title>
-      <link>https://www.google.com/search?q=Galantis%20Can%E2%80%99t%20Take%20My%20Eyes%20Off%20You</link>
-      <guid isPermaLink="false">Galantis - Can’t Take My Eyes Off You</guid>
+      <title>Don Diablo - 9MM</title>
+      <link>https://www.google.com/search?q=Don%20Diablo%209MM</link>
+      <guid isPermaLink="false">Don Diablo - 9MM</guid>
+    </item>
+    <item>
+      <title>HUGEL, Imael Angel &amp; Ultra Naté - Movin’ To The Sun</title>
+      <link>https://www.google.com/search?q=HUGEL%2C%20Imael%20Angel%20%26%20Ultra%20Nat%C3%A9%20Movin%E2%80%99%20To%20The%20Sun</link>
+      <guid isPermaLink="false">HUGEL, Imael Angel &amp; Ultra Naté - Movin’ To The Sun</guid>
+    </item>
+    <item>
+      <title>Imael Angel - BAD TIMES</title>
+      <link>https://www.google.com/search?q=Imael%20Angel%20BAD%20TIMES</link>
+      <guid isPermaLink="false">Imael Angel - BAD TIMES</guid>
+    </item>
+    <item>
+      <title>Cloonee &amp; Chris Lake - Paradise</title>
+      <link>https://www.google.com/search?q=Cloonee%20%26%20Chris%20Lake%20Paradise</link>
+      <guid isPermaLink="false">Cloonee &amp; Chris Lake - Paradise</guid>
     </item>
     <item>
       <title>HUGEL &amp; Neton Vega - Mami</title>
