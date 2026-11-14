@@ -6,24 +6,9 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <item>
-      <title>Miranda Lambert &amp; Ella Langley - Snakeskin Boots</title>
-      <link>https://www.google.com/search?q=Miranda%20Lambert%20%26%20Ella%20Langley%20Snakeskin%20Boots</link>
-      <guid isPermaLink="false">Miranda Lambert &amp; Ella Langley - Snakeskin Boots</guid>
-    </item>
-    <item>
-      <title>Lady Gaga &amp; Doechii - Runway</title>
-      <link>https://www.google.com/search?q=Lady%20Gaga%20%26%20Doechii%20Runway</link>
-      <guid isPermaLink="false">Lady Gaga &amp; Doechii - Runway</guid>
-    </item>
-    <item>
-      <title>HUNTRX, EJAE, AUDREY NUNA, REI AMI &amp; KPop Demon Hunters Cast - Golden</title>
-      <link>https://www.google.com/search?q=HUNTRX%2C%20EJAE%2C%20AUDREY%20NUNA%2C%20REI%20AMI%20%26%20KPop%20Demon%20Hunters%20Cast%20Golden</link>
-      <guid isPermaLink="false">HUNTRX, EJAE, AUDREY NUNA, REI AMI &amp; KPop Demon Hunters Cast - Golden</guid>
-    </item>
-    <item>
-      <title>YOGI - Ride or Die</title>
-      <link>https://www.google.com/search?q=YOGI%20Ride%20or%20Die</link>
-      <guid isPermaLink="false">YOGI - Ride or Die</guid>
+      <title>ADÉLA - Ain't In LA</title>
+      <link>https://www.google.com/search?q=AD%C3%89LA%20Ain%27t%20In%20LA</link>
+      <guid isPermaLink="false">ADÉLA - Ain't In LA</guid>
     </item>
     <item>
       <title>Pitbull &amp; Kiss - Reach For The Stars</title>
@@ -31,9 +16,24 @@
       <guid isPermaLink="false">Pitbull &amp; Kiss - Reach For The Stars</guid>
     </item>
     <item>
+      <title>Lady Gaga &amp; Doechii - Runway</title>
+      <link>https://www.google.com/search?q=Lady%20Gaga%20%26%20Doechii%20Runway</link>
+      <guid isPermaLink="false">Lady Gaga &amp; Doechii - Runway</guid>
+    </item>
+    <item>
+      <title>YOGI - Ride or Die</title>
+      <link>https://www.google.com/search?q=YOGI%20Ride%20or%20Die</link>
+      <guid isPermaLink="false">YOGI - Ride or Die</guid>
+    </item>
+    <item>
       <title>Olivia Rodrigo &amp; Chapell Roan - expectations</title>
       <link>https://www.google.com/search?q=Olivia%20Rodrigo%20%26%20Chapell%20Roan%20expectations</link>
       <guid isPermaLink="false">Olivia Rodrigo &amp; Chapell Roan - expectations</guid>
+    </item>
+    <item>
+      <title>HUNTRX, EJAE, AUDREY NUNA, REI AMI &amp; KPop Demon Hunters Cast - Golden</title>
+      <link>https://www.google.com/search?q=HUNTRX%2C%20EJAE%2C%20AUDREY%20NUNA%2C%20REI%20AMI%20%26%20KPop%20Demon%20Hunters%20Cast%20Golden</link>
+      <guid isPermaLink="false">HUNTRX, EJAE, AUDREY NUNA, REI AMI &amp; KPop Demon Hunters Cast - Golden</guid>
     </item>
     <item>
       <title>Bruno Mars - Finesse Remix</title>
@@ -56,19 +56,9 @@
       <guid isPermaLink="false">Shakira &amp; Burna Boy - Dai Dai</guid>
     </item>
     <item>
-      <title>Enrique Iglesias &amp; Pitbull - Ooh Laka Laka La</title>
-      <link>https://www.google.com/search?q=Enrique%20Iglesias%20%26%20Pitbull%20Ooh%20Laka%20Laka%20La</link>
-      <guid isPermaLink="false">Enrique Iglesias &amp; Pitbull - Ooh Laka Laka La</guid>
-    </item>
-    <item>
       <title>RAYE - WHERE IS MY HUSBAND!</title>
       <link>https://www.google.com/search?q=RAYE%20WHERE%20IS%20MY%20HUSBAND%21</link>
       <guid isPermaLink="false">RAYE - WHERE IS MY HUSBAND!</guid>
-    </item>
-    <item>
-      <title>Pitbull &amp; Akon - 123 Back It Up</title>
-      <link>https://www.google.com/search?q=Pitbull%20%26%20Akon%20123%20Back%20It%20Up</link>
-      <guid isPermaLink="false">Pitbull &amp; Akon - 123 Back It Up</guid>
     </item>
     <item>
       <title>The Weeknd - Hong Kong</title>
@@ -76,9 +66,19 @@
       <guid isPermaLink="false">The Weeknd - Hong Kong</guid>
     </item>
     <item>
+      <title>Pitbull &amp; Akon - 123 Back It Up</title>
+      <link>https://www.google.com/search?q=Pitbull%20%26%20Akon%20123%20Back%20It%20Up</link>
+      <guid isPermaLink="false">Pitbull &amp; Akon - 123 Back It Up</guid>
+    </item>
+    <item>
       <title>ADÉLA - Nicole Kidman</title>
       <link>https://www.google.com/search?q=AD%C3%89LA%20Nicole%20Kidman</link>
       <guid isPermaLink="false">ADÉLA - Nicole Kidman</guid>
+    </item>
+    <item>
+      <title>Enrique Iglesias &amp; Pitbull - Ooh Laka Laka La</title>
+      <link>https://www.google.com/search?q=Enrique%20Iglesias%20%26%20Pitbull%20Ooh%20Laka%20Laka%20La</link>
+      <guid isPermaLink="false">Enrique Iglesias &amp; Pitbull - Ooh Laka Laka La</guid>
     </item>
   </channel>
 </rss>
